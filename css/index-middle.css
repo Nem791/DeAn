@@ -1,0 +1,164 @@
+.section {
+    padding: 60px 0;
+}
+
+.section-bg {
+    background-color: #f5f5f5;
+}
+
+.container {
+    width: 1170px;
+}
+
+.section-caption {
+    color: #284664;
+    font-size: 20px;
+    margin: 0 0 20px 0;
+    font-family: "Montserrat",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    text-align: left;
+}
+
+.book-home {
+    margin: 40px 0 20px 0;
+}
+
+.row-fix {
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.row-fix .col-fix {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.col-fix {
+    width: 25%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+}
+
+.book-item {
+    margin: 0 auto 30px auto;
+    text-align: center;
+}
+
+.book-item img {
+    border-radius: 5px;
+    border: 3px solid #d4dae0;
+    width: 100%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+
+.book-home h3 a {
+    font-size: 16px;
+}
+
+.book-item h3 a {
+    color: #284664;
+    font-weight: 700;
+}
+
+.section-tip {
+    background-color: #284664;
+}
+
+.tip-the-day {
+    text-align: center;
+    max-width: 750px;
+    margin: 30px auto 0 auto;
+}
+
+.ttd-caption {
+    color: #fff;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 14px;
+    margin: 0 0 20px 0;
+}
+
+.news-item {
+    text-align: left;
+    background-color: #fff;
+    padding: 15px;
+    margin: 15px 0 0 0;
+    border-radius: 3px;
+    border: 1px solid #f5f5f5;
+    min-height: 150px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+
+.news-item h3 {
+    margin: -2px 0 0 0;
+    padding: 0;
+    line-height: 1.3;
+}
+
+.author {
+    float: right;
+}
+
+.section-caption {
+    color: #284664;
+    font-size: 20px;
+    margin: 0 0 20px 0;
+    font-weight: 700;
+    text-align: left;
+}
+
+.col-md-4 {
+    width: 33.33333333%;
+    float: left;
+}
+
+.our-test-item {
+    text-align: center;
+    margin: 30px 0 0 0;
+    padding: 0 10px;
+    height: 172.6px;
+}
+
+.ot-icon {
+    min-height: 55px;
+}
+
+.our-test-item h3 {
+    font-weight: 700;
+    color: #284664;
+    min-height: 30px;
+}
+
+.our-test-item p {
+    font-size: 13px;
+}
+
+p {
+    margin: 0 0 10px;
+}
+
+.h-600 {
+    height: 600px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
