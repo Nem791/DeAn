@@ -4,7 +4,7 @@ firebase.auth().onAuthStateChanged((user) => {
     // https://firebase.google.com/docs/reference/js/firebase.User
     var uid = user.uid;
     console.log(user.displayName);
-    console.log(user.email);
+    console.log(user.photoURL);
     console.log(uid);
 
     // Render user image 
@@ -32,4 +32,9 @@ firebase.auth().onAuthStateChanged((user) => {
     // ...
     console.log("chua dc");
   }
+});
+
+
+document.querySelector(".user-sm-box").addEventListener('click', () => {
+  location.href = './login.html'
 });
