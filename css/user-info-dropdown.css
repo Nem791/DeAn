@@ -1,0 +1,151 @@
+.user-info-wrap {
+    height: auto;
+    width: 230px;
+    /* right: 0; */
+    left: -40%;
+    top: 100%;
+    position: absolute;
+}
+
+li.user-palette:hover .user-info-wrap {
+    opacity: 1;
+    visibility: visible;
+    padding: 15px 0;
+}
+
+.popover-box {
+    border-radius: 4px;
+    position: absolute;
+    background: #f7f7f7;
+    border: solid 1px #d5d5d5;
+    opacity: 0;
+    visibility: hidden;
+    -moz-transition: opacity ease 0.2s;
+    -o-transition: opacity ease 0.2s;
+    -webkit-transition: opacity ease 0.2s;
+    transition: opacity ease 0.2s;
+}
+
+.user-sm-box {
+    padding-bottom: 15px;
+    height: 50px;
+}
+
+.user-info-wrap ul li {
+    float: none;
+    display: block;
+    margin: 0;
+    padding: 5px 12px;
+    position: relative;
+}
+
+.user-info-wrap ul li:hover {
+    background-color: gainsboro;
+}
+
+.user-sm-box img {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 15px;
+    margin-left: 0;
+    border: 1px solid #c7c7c7;
+}
+
+.right-if {
+    float: left;
+    line-height: normal;
+}
+
+.user-name-dt {
+    font-size: 14px;
+    font-weight: bold;
+    font-family: "Montserrat",Helvetica,Arial,sans-serif;
+    color: #083050;
+    margin-bottom: 3px;
+    letter-spacing: 0.4px;
+}
+
+.ellipsis-text {
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 100%;
+    text-overflow: ellipsis;
+    max-width: 104px;
+}
+
+.time-zone {
+    font-size: 10px;
+    color: #4a4a4a;
+}
+
+.user-info-wrap a {
+    padding: 0 18px;
+    display: block;
+    width: 100%;
+    font-size: 12px;
+    color: #4a4a4a;
+    line-height: 28px;
+}
+
+.user-info-wrap ul li > a {
+    height: 26px;
+    line-height: 26px;
+}
+
+.test-history {
+    margin-bottom: 30px;
+}
+
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.test-history.line:after {
+    bottom: -15px;
+}
+
+.user-info-wrap ul li.line:after {
+    content: '';
+    position: absolute;
+    width: 88%;
+    height: 1px;
+    background: #d5d5d5;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    bottom: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
