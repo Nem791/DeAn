@@ -107,14 +107,6 @@ span.rating-point {
     background-position: center center;
 }
 
-.icon-ts.icon-view {
-    background-image: url('https://ieltsonlinetests.com/themes/iot/images/xicon_view.png.pagespeed.ic.SBxbw5OX9G.webp');
-}
-
-.icon-ts.icon-taken {
-    background-image: url('https://ieltsonlinetests.com/themes/iot/images/xicon_test_taken.png.pagespeed.ic.JA_9irArgT.webp');
-}
-
 .section-bg {
     background-color: white;
 }

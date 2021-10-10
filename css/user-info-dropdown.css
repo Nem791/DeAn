@@ -7,10 +7,15 @@
     position: absolute;
 }
 
+li.user-palette .user-info-wrap {
+    transition: 0.3s;
+}
+
 li.user-palette:hover .user-info-wrap {
     opacity: 1;
     visibility: visible;
     padding: 15px 0;
+    transition: 0.3s;
 }
 
 .popover-box {

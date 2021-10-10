@@ -1,24 +1,39 @@
+import { UserDropdown } from "./user-dropdown.js";
+
 class Content {
   $container;
-  $title;
-  $btnLogout;
+
+  $userAvatar;
+  $userAvatarImg;
+
+  $userName;
+  $userInfoWrap;
+
   constructor() {
     this.$container = document.createElement("div");
-    this.$title = document.createElement("h1");
-    this.$title.innerHTML = "OK DA VAO";
-    this.$title.classList.add("abc");
-    this.$btnLogout = document.createElement("button");
-    this.$btnLogout.addEventListener("click", this.handleLogout);
-    this.$btnLogout.classList.add("btn");
-    this.$btnLogout.innerHTML = "Logout";
+    this.$container.classList.add('render-user');
+
+    this.$userAvatar = document.createElement("span");
+    this.$userAvatar.classList.add('user-avatar');
+
+    this.$userAvatarImg = document.createElement("img");
+    this.$userAvatarImg.width = 30;
+    this.$userAvatarImg.height = 30;
+
+    this.$userName = document.createElement("span");
+    this.$userName.classList.add('user-name');
+
+    this.$userInfoWrap = new UserDropdown();
+
   }
 
-  handleLogout = () => {
-    firebase.auth().signOut();
-  };
   render() {
-    this.$container.appendChild(this.$title);
-    this.$container.appendChild(this.$btnLogout);
+    this.$userAvatar.appendChild(this.$userAvatarImg);
+
+    this.$container.appendChild(this.$userAvatar);
+    this.$container.appendChild(this.$userName);
+    this.$container.innerHTML += `<i style="color: white;" class="fas fa-chevron-down"></i>`;
+    this.$container.appendChild(this.$userInfoWrap.render());
     return this.$container;
   }
 }

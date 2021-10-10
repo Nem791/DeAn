@@ -1,3 +1,5 @@
+import { Content } from "../components/Auth/Content.js";
+
 firebase.auth().onAuthStateChanged((user) => {
   if (user) {
     // User is signed in, see docs for a list of available properties
@@ -6,6 +8,10 @@ firebase.auth().onAuthStateChanged((user) => {
     console.log(user.displayName);
     console.log(user.photoURL);
     console.log(uid);
+
+    let content = new Content();
+    document.querySelector(".user-palette").innerHTML = null;
+    document.querySelector(".user-palette").appendChild(content.render());
 
     // Render user image 
     document.querySelector('.user-avatar').firstElementChild.src = user.photoURL;
@@ -35,6 +41,3 @@ firebase.auth().onAuthStateChanged((user) => {
 });
 
 
-document.querySelector(".user-sm-box").addEventListener('click', () => {
-  location.href = './login.html'
-});
