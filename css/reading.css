@@ -1,0 +1,163 @@
+body, html {
+    height: 100%;
+}
+
+body {
+    background-color: #fff;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #282828;
+}
+
+.clearfix {
+    display: block;
+    clear: both;
+}
+
+.test-header {
+    background-color: #fff;
+    z-index: 1001;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    height: 155px;
+    border-bottom: 1px solid #d4dae0;
+    position: fixed;
+    padding: 25px 15px 13px;
+    transition: all 0.55s cubic-bezier(0.32,-0.08,0.42,1.22);
+    border-bottom: inset;
+    top: -15%;
+}
+
+header .container {
+    width: 100%;
+    max-width: 100%;
+    padding: 0;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.test-header__top {
+    text-align: center;
+    margin-bottom: 13px;
+    min-height: 88px;
+}
+
+.volume__basic-info {
+    float: left;
+}
+
+.volume__cover {
+    float: left;
+    overflow: hidden;
+    position: relative;
+    margin-right: 15px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+    border: 0;
+}
+
+.volume__cover-image {
+    width: 78px;
+    height: 78px;
+}
+
+.volume__title {
+    line-height: 1.2;
+    font-size: 16px;
+    font-weight: bold;
+    color: #284664;
+    margin: 0 0 4px;
+    text-align: left;
+}
+
+.volume__more-info {
+    display: inline-block;
+    text-align: left;
+}
+
+.volume__info-item {
+    font-size: 12px;
+    line-height: 0.5;
+    color: #888888;
+    margin-bottom: 6px;
+}
+
+.volume__info-item span {
+    margin-right: 8px;
+    font-size: 16px;
+}
+
+.volume__practice-info {
+    float: right;
+}
+
+.volume__practice-title {
+    font-size: 12px;
+    font-weight: bold;
+    max-width: 180px;
+    letter-spacing: 2.57px;
+    text-align: center;
+    line-height: 1.6;
+    margin: 0 37px 0 0;
+    padding-top: 50px;
+    position: relative;
+    color: #327846;
+}
+
+.volume__practice-title:before {
+    content: '';
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    background: url('https://ieltsonlinetests.com/themes/iot/images/reading-icon.svg') center no-repeat;
+    background-size: contain;
+}
+
+.test-header__logo-wrap {
+    float: left;
+}
+
+.test-header__bottom-right {
+    float: right;
+    padding-right: 19px;
+}
+
+.test-header__btn-info {
+    float: left;
+    color: #7d90a0;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 0 10px;
+    height: 27px;
+    line-height: 26px;
+    border-radius: 4px;
+    margin: 7px 20px 0px 0px;
+    border: 1px solid #d4dae0;
+    background-color: #f0f0f0;
+    position: relative;
+    width: 135px;
+    text-align: center;
+    white-space: nowrap;
+    cursor: pointer;
+}
+
+.test-header__btn-info:hover {
+    background-color: rgb(218, 218, 218);
+}
+
+
+
+
+
+
+
