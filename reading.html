@@ -5,6 +5,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"
         integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -16,7 +18,7 @@
     <div class="region-header-question">
         <section class="block-iot-ielts clearfix">
             <header class="test-header">
-                <div class="container">
+                <div class="container-custom">
                     <div class="test-header__top clearfix">
                         <div class="volume__basic-info">
                             <div class="volume__cover">
@@ -55,7 +57,7 @@
             <div class="testing reading-box">
                 <div class="split split-item">
                     <div class="split-right">
-                        <div class="tab-section-reading">
+                        <!-- <div id="set-container-1" class="tab-section-reading">
                             <div class="passage-description">
                                 <h1><strong>READING PASSAGE 1</strong></h1>
                                 <p>You should spend about 20 minutes on Questions 1 -13, which are based on Reading Passage 1 below.</p>
@@ -130,13 +132,200 @@
                                     expansion amid runaway oil prices.</p>
 
                             </div>
-                        </div>
+                        </div> -->
                     </div>
-                    <div class="gutter gutter-horizontal" style="width: 10px;"></div>
-                    <div class="split split-item">
-                        <div class="split-left">
-                            <div id="set-question-1" class="tab-section-question-reading">
-                                
+                </div>
+                <div class="split split-item">
+                    <div class="split-left">
+                        <!-- <div id="set-question-1" class="tab-section-question-reading">
+                            <div class="sl-caption"> <span>Section 2: Questions 14-26</span></div>
+                            <div class="sec-content-1">
+                                <div class="question question-1">
+                                    <h3>Questions 23-26</h3>
+                                    <div class="question-title">
+                                        <p>According to the information given in the text, choose the correct answer from the choices
+                                            given.</p>
+                                    </div>
+                                    <div class="sl-item type_radio">
+                                        <div class="question-title-group">
+                                            <div class="number">23</div>
+                                            <div class="question-title">
+                                                <p>Since 1950, the percentage of</p>
+                                            </div>
+                                        </div>
+                                        <div class="list-question">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                                                <label class="form-check-label" for="flexRadioDefault1">
+                                                    Default radio
+                                                </label>
+                                            </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                                                <label class="form-check-label" for="flexRadioDefault1">
+                                                    Default radio
+                                                </label>
+                                            </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                                                <label class="form-check-label" for="flexRadioDefault1">
+                                                    Default radio
+                                                </label>
+                                            </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                                                <label class="form-check-label" for="flexRadioDefault1">
+                                                    Default radio
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="sl-item type_radio">
+                                        <div class="question-title-group">
+                                            <div class="number">23</div>
+                                            <div class="question-title">
+                                                <p>Since 1950, the percentage of</p>
+                                            </div>
+                                        </div>
+                                        <div class="list-question">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                                                <label class="form-check-label" for="flexRadioDefault1">
+                                                    Default radio
+                                                </label>
+                                            </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                                                <label class="form-check-label" for="flexRadioDefault1">
+                                                    Default radio
+                                                </label>
+                                            </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                                                <label class="form-check-label" for="flexRadioDefault1">
+                                                    Default radio
+                                                </label>
+                                            </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                                                <label class="form-check-label" for="flexRadioDefault1">
+                                                    Default radio
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="sl-item type_radio">
+                                        <div class="question-title-group">
+                                            <div class="number">23</div>
+                                            <div class="question-title">
+                                                <p>Since 1950, the percentage of</p>
+                                            </div>
+                                        </div>
+                                        <div class="list-question">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                                                <label class="form-check-label" for="flexRadioDefault1">
+                                                    Default radio
+                                                </label>
+                                            </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                                                <label class="form-check-label" for="flexRadioDefault1">
+                                                    Default radio
+                                                </label>
+                                            </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                                                <label class="form-check-label" for="flexRadioDefault1">
+                                                    Default radio
+                                                </label>
+                                            </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                                                <label class="form-check-label" for="flexRadioDefault1">
+                                                    Default radio
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="sl-item type_radio">
+                                        <div class="question-title-group">
+                                            <div class="number">23</div>
+                                            <div class="question-title">
+                                                <p>Since 1950, the percentage of</p>
+                                            </div>
+                                        </div>
+                                        <div class="list-question">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                                                <label class="form-check-label" for="flexRadioDefault1">
+                                                    Default radio
+                                                </label>
+                                            </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                                                <label class="form-check-label" for="flexRadioDefault1">
+                                                    Default radio
+                                                </label>
+                                            </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                                                <label class="form-check-label" for="flexRadioDefault1">
+                                                    Default radio
+                                                </label>
+                                            </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                                                <label class="form-check-label" for="flexRadioDefault1">
+                                                    Default radio
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="sl-caption sl-caption-bottom">
+                                <div>Section 2</div>
+                                <div class="sl-caption-right">
+                                    <a href="" class="btn-section actions-section previous">
+                                        <i class="fas fa-chevron-left"></i>
+                                        <span>Previous</span>
+                                    </a>
+                                    <a href="" class="btn-section actions-section next">
+                                        <span> Next </span>
+                                        <i class="fas fa-chevron-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+            <div class="reading-footer">
+                <div class="container-custom">
+                    <div class="rf-bar clearfix">
+                        <div class="rf-barleft">
+                            <div class="rf-bar-pallete">
+                                <span class="pallete-title">Question Palette</span>
+                            </div>
+                        </div>
+                        <div class="rf-bar-time">
+                            <span id="stopwatch">15:18</span>
+                        </div>
+                        <div class="rf-barright">
+                            <div class="rfc-button">
+                                <a href="" class="submit-btn-test submit">
+                                    <i class="far fa-paper-plane"></i>
+                                    Submit
+                                </a>
+                                <a href="" class="review">
+                                    <i class="fas fa-book-reader"></i>
+                                    Review
+                                </a>
+                                <a href="" class="solution exit-test-solution">
+                                    <i class="fas fa-puzzle-piece"></i>
+                                    Solution
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -147,6 +336,8 @@
     
 </body>
 
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 <script src="./js/test-nav-bar.js"></script>
+<script type="module" src="./js/reading.js"></script>
 
 </html>
