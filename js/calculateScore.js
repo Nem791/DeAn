@@ -1,29 +1,38 @@
+import { confirmSubmit } from "../components/submitSwal.js";
+
+function goToScorePage() {
+  location.href = './score.html';
+}
+
 function compareResult(evt) {
     evt.preventDefault();
     let slItem = document.querySelectorAll('.sl-item');
     let score = 0;
+    let userOptionArray = [];
+    let sysAnswerArray = [];
     slItem.forEach(element => {
         let userOption = element.dataset.result;
+        console.log(userOption);
+        userOptionArray.push(userOption);
         let rightAnswer = element.dataset.rightAnswer;
+        sysAnswerArray.push(rightAnswer);
         if (userOption == rightAnswer) {
             score++;
         }
         
     })
-    console.log(score)
-    Swal.fire({
-      title: "Are you sure?",
-      text: "You won't be able to revert this!",
-      icon: "warning",
-      showCancelButton: true,
-      confirmButtonColor: "#3085d6",
-      cancelButtonColor: "#d33",
-      confirmButtonText: "Yes, delete it!",
-    }).then((result) => {
-      if (result.isConfirmed) {
-        Swal.fire("Deleted!", "Your file has been deleted.", "success");
-      }
-    });
+    localStorage.setItem("tempUserOption", JSON.stringify(userOptionArray));
+    localStorage.setItem("tempUserScore", JSON.stringify(score));
+    localStorage.setItem("tempSysAnswer", JSON.stringify(sysAnswerArray));
+    localStorage.setItem("tempUserTime", JSON.stringify(document.querySelector('#time').innerText));
+    console.log(document.querySelector('#time').innerText);
+    confirmSubmit(
+      "Submit?",
+      "Are you sure you want to submit?",
+      'warning',
+      'Submit',
+      goToScorePage
+    );
 }
 
 function calculateScore() {

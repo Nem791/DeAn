@@ -4,6 +4,7 @@ import { ReadingQuestions } from "../components/readingQuestions.js";
 import { QuestionRadio } from "../components/readingQuestionsForm.js";
 import { calculateScore } from "./calculateScore.js";
 import { changePassage } from "./changePassage.js";
+import { countdownTimer } from "./timer.js";
 
 function renderTest() {
   fetch("http://localhost:3000/ielts")
@@ -19,7 +20,7 @@ function renderTest() {
         splitRight.appendChild(readingSection.render());
 
         // data cua section hien tai
-        let currentData = data.august_2021[0][i];
+        let currentData = data.may_2021[0][i];
         console.log(currentData.questions.length);
 
         // render hinh anh passage
@@ -117,6 +118,7 @@ function renderTest() {
     .then(() => {
       changePassage();
       calculateScore();
+      countdownTimer();
     })
     .catch((error) => {
       console.log(error);

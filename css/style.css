@@ -294,7 +294,9 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     transform: scale(1.05);
 }
 
-
+.slick-prev:before, .slick-next:before{
+    color:red;
+}
 
 
 
