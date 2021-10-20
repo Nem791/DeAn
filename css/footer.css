@@ -26,6 +26,11 @@
 .footer-distributed .footer-left{
 	width: 40%;
 }
+.footer-distributed .footer-left img {
+    max-width: 75%;
+    height: auto;
+    vertical-align: middle;
+}
 
 /* The company logo */
 
