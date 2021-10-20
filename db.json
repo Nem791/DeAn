@@ -736,1174 +736,1195 @@
       ]
     ],
     "january_2021": [
-      {
-        "test_name": "IELTS Mock Test 2021 January",
-        "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-01.png",
-        "passageImg": "https://iotcdn.oss-ap-southeast-1.aliyuncs.com/2020-11/The%20Dams-01.jpg",
-        "subTitle": "THE DAMS THAT CHANGED AUSTRALIA",
-        "passageContent": [
-          "SECTION ONE",
-          "Inland Australia has had a problem with drought from the time of white settlement in 1788 until today, and this is why the Snowy Mountains Scheme was conceived and founded. Before the Snowy Scheme a large proportion of the snowfields on Australia's highest mountains (the Snowy Mountains) melted into the Snowy River every year. Hence, Snowy River water flowed, ultimately, into the sea, not toward the dry interior of the country, where people needed it so desperately. This was first recognised by the Polish geologist and explorer Strezlecki in 1840, who commented that there could be no development of the inland without adequate water supply. The rivers would have to be diverted if irrigation were to succeed.",
-          "Before Federation in 1901, Australia consisted of a group of colonies, all anxious to protect their own interests. After Federation the states retained rights to the water, and thus to what might happen to the rivers. Arguments between New South Wales, Victoria and South Australia led to a deadlocked Premiers' Conference in 1947. Despite this serious dispute, the Federal Parliament passed the Snowy Mountains Hydro-electric Power Act just two years later, on July 7. The project was officially commenced on October 17 that year, barely three months after the act had been passed.",
-          "The scheme set out to harness water for electricity and to divert it back to the dry inland areas for irrigation. To do this, thousands of kilometres of tunnels had to be drilled through the mountains, and sixteen major dams and seven hydro-electric power stations built over a period of nineteen years. The first of these was Guthega Power Station, which was commissioned in 1954. and the last one to be finished was Tumut III.",
-          "SECTION TWO",
-          "The Snowy Mountains Scheme was to alter the face of Australia forever. One important change was the recruitment of people from outside Australia to work on the scheme. In 1949, while the world was still recovering from the effects of World War II (1939 to 1945), the Australian government needed immense numbers of people to work on the Snowy. It sought labour from overseas, and 60,000 of the 100,000 people who worked on the scheme came from outside the country.",
-          "They came from thirty different countries: from Italy, Yugoslavia, and Germany, from sophisticated cities like Budapest, Paris and Vienna, and from tiny hamlets. These European workers left countries which had fought against each other during the war, and which had vastly different cultures, and they found themselves in a country which was still defining itself. They were adventurous young men, some highly skilled, some not, and they came to a place which offered both enormous challenges and primitive conditions. Many were housed in tents in the early days of the scheme, although some fortunate men were placed in barracks. The food was basic, female company extremely scarce and entertainment lacking.",
-          "SECTION THREE",
-          "Many new arrivals spoke only limited English, and were offered English classes after work. The men needed primarily to understand safety instructions, and safety lectures were conducted in English and other languages. In fact, a great deal of communication underground was by sign language, especially when the conditions were noisy. The signs were peculiar to the business at hand: for instance, a thumb placed near the mouth meant water, but did not indicate whether the water was needed on the drill the man was using, or for a drink.",
-          "The constant reference to the men who worked on the Snowy is appropriate because few women worked on the scheme, and those who were employed usually held office jobs. Women, however, were active in the community, and the members of the Country Women’s Association gave English lessons. Other English instruction was provided by the Australian Broadcasting Commission, which ran daily broadcasts to help the newcomers with the language.",
-          "SECTION FOUR",
-          "These circumstances could have caused great social trouble, but there were relatively few serious problems. The men worked long and hard, and many saved their money with a view to settling in Australia or returning home. At a reunion in 1999 many were happy to remember the hardships of those days, but it was all seen through a glow of achieve-ment. This satisfaction was felt not only by the men who worked directly on the project, but by the women, many of whom had been wives and mothers during the scheme, and indicated that they had felt very much part of it.",
-          "The children of these couples went to school in Happy Jack, a town notable for having the highest school in Australia, and the highest birth rate. In one memorable year there were thirty babies born to the eighty families in Happy Jack. Older children went to school in Cooma, the nearest major town.",
-          "SECTION FIVE",
-          "The scheme is very unlikely to be repeated. The expense of putting the power stations underground would now be prohibitive, and our current information about ecology would require a different approach to the treatment of the rivers. Other hydro-electric schemes like the Tennessee Valley Authority preceded the Snowy Mountains Scheme, and others have followed. The Snowy Mountains Scheme is the only hydro-electric scheme in the world to be totally financed from the sale of its electricity.",
-          "As well as being a great engineering feat, the scheme is a monument to people from around the world who dared to change their lives. Some are living and working in Australia, many have retired there, some have returned to their countries of origin. Every one of them contributed to altering Australian society forever."
-        ],
-        "questionTitle": [
-          "Reading Passage 1 contains five sections. Choose the correct heading for Sections One to Five from the fist of headings below.",
-          "Complete sentence"
-        ],
-        "questions": [
-          {
-            "quizNumber": 1,
-            "answers": [
-              "A. Section 1",
-              "B. Section 3",
-              "C. Section 5",
-              "D. Section 2"
-            ],
-            "rightAnswer": "A",
-            "quiz": "Why the Snowy Mountains Scheme began"
-          },
-          {
-            "quizNumber": 2,
-            "answers": [
-              "A. Section 1",
-              "B. Section 3",
-              "C. Section 4",
-              "D. Section 2"
-            ],
-            "rightAnswer": "B",
-            "quiz": "Learning new ways to communicate"
-          },
-          {
-            "quizNumber": 3,
-            "answers": [
-              "A. Section 1",
-              "B. Section 3",
-              "C. Section 4",
-              "D. Section 5"
-            ],
-            "rightAnswer": "D",
-            "quiz": "The unique nature of the scheme"
-          },
-          {
-            "quizNumber": 4,
-            "answers": [
-              "A. Section 1",
-              "B. Section 2",
-              "C. Section 4",
-              "D. Section 5"
-            ],
-            "rightAnswer": "B",
-            "quiz": "Recruiting people for the Snowy Mountains Scheme"
-          },
-          {
-            "quizNumber": 5,
-            "answers": [
-              "A. Section 1",
-              "B. Section 3",
-              "C. Section 4",
-              "D. Section 5"
-            ],
-            "rightAnswer": "C",
-            "quiz": "The workers and their families"
-          },
-          {
-            "quizNumber": 6,
-            "answers": ["A. Inland", "B. Coast", "C. Desert", "D. Forest"],
-            "rightAnswer": "A",
-            "quiz": "Awareness that the _____  could not be developed without irrigation"
-          },
-          {
-            "quizNumber": 7,
-            "answers": ["A. Disorder", "B. Fever", "C. Obesity", "D. Deadlock"],
-            "rightAnswer": "D",
-            "quiz": "Dispute between the states on the rivers' future, resulting in a _____ Premiers' Conference"
-          },
-          {
-            "quizNumber": 8,
-            "answers": ["A. 50,000", "B. 60,000", "C. 70,000", "D. 80,000"],
-            "rightAnswer": "B",
-            "quiz": "Snowy Mountains Scheme begins Recruitment of _____  people from abroad"
-          },
-          {
-            "quizNumber": 9,
-            "answers": ["A. Provides", "B. Moves", "C. Sets", "D. Begins"],
-            "rightAnswer": "D",
-            "quiz": "Work on Guthega Power Station _____"
-          },
-          {
-            "quizNumber": 10,
-            "answers": [
-              "A. Completed",
-              "B. Standed",
-              "C. Expected",
-              "D. Involved"
-            ],
-            "rightAnswer": "A",
-            "quiz": "Tumut III Power Station _____ "
-          },
-          {
-            "quizNumber": 11,
-            "answers": [
-              "A. Sign language",
-              "B. Absolutely ",
-              "C. Barely ",
-              "D. Grocery store"
-            ],
-            "rightAnswer": "A",
-            "quiz": "Communicating using _____   was necessary for the labourers because of the conditions."
-          },
-          {
-            "quizNumber": 12,
-            "answers": [
-              "A. Dwell",
-              "B. Kindergarten  ",
-              "C. Architect ",
-              "D. Hardships"
-            ],
-            "rightAnswer": "D",
-            "quiz": "The workers reminisced about the _____  endured in the early days at their reunion."
-          },
-          {
-            "quizNumber": 13,
-            "answers": [
-              "A. Security man",
-              "B. Engineering feat",
-              "C. Achievement ",
-              "D. Illustration"
-            ],
-            "rightAnswer": "B",
-            "quiz": "The Snowy Mountains Scheme was considered an _____ which altered Australian society thereafter."
-          }
-        ]
-      },
-      {
-        "passageImg": "https://iotcdn.oss-ap-southeast-1.aliyuncs.com/2020-11/Power%20from%20Earth-01.jpg",
-        "subTitle": "POWER FROM THE EARTH",
-        "passageContent": [
-          "A",
-          "Geothermal power refers to the generation of electrical power by making use of heat sources found well below the earth's surface.",
-          "As is well-known, if a hole were to be drilled deep into the earth, extremely hot, molten rock would soon be encountered. At depths of 30 to 50 km, temperatures exceeding 1000 degrees Celsius prevail. Obviously, accessing such temperatures would provide a wonderful source for geothermal power. The problem is, such depths are too difficult to access: drilling down some 30 or more kilometres is simply too costly with today's technology.",
-          "B",
-          "Fortunately, sufficiently hot temperatures are available at considerably shallower depths. In certain areas, where the earth's surface has been altered over time—through, for example, volcanic activity-temperatures exceeding 300 degrees Celsius can be found at depths of a mere 1 to 3 km, which can be feasibly accessed. These particular areas are potentially ideal for the generation of electricity through geothermal means.",
-          "C",
-          "It is possible to explain geothermal power generation as a steam power system that utilizes the earth itself as a boiler. When water is sent down to the depths of 1 to 3 km, it returns to the surface as steam and is capable of generating electricity. Electricity generated in this manner hardly produces any carbon dioxide or other waste materials. If the steam and hot water are routed back underground, the generation of electricity can be semi-permanent in nature.",
-          "D",
-          "Furthermore, geothermal power can provide a stable supply of electricity unlike other natural energy sources such as solar power and wind power, which both rely heavily on weather conditions. Accordingly, the generation of electricity through geothermal power is four to five times more efficient than through solar power.",
-          "As for wind power, geothermal power is some two times more cost effective. Only the generation of hydroelectric power comes close— the cost of power production from each is about the same.",
-          "E",
-          "Although geothermal power generation appears to be a most attractive option, development has been slow. The world's first successful attempt at geothermal power generation was accomplished in Italy in 1904. Power generation in Japan first started in 1925 at Beppu City. Since that time, countries as diverse as Iceland and New Zealand have joined the list of nations making use of this valuable source of energy. In the year 2000, Beppu City hosted the World Geothermal Congress, whose goal was to promote the adoption of geothermal energy production throughout the world.",
-          "F",
-          "The international geothermal community at the World Geothermal Congress 2000 called upon the governments of nations to make strong commitments to the development of their indigenous geo-thermal resources for the benefit of their own people, humanity and the environment. However, several factors are still hindering the development of geothermal power generation. Firstly, it has a low density of energy which makes it unsuitable for large-scale production in which, for example, over 1,000,000 kilowatts need to be produced. Secondly, the cost is still high when compared to today's most common sources of energy production: fossil fuels and atomic energy.",
-          "G",
-          "A further consideration is the amount of risk involved in successfully setting up a new geothermal power production facility. The drill-ing that must extend 2,000 to 3,000 m below the surface must be accurate to within a matter of just a few metres one side or the other of the targeted location. To achieve this, extensive surveys, drilling expertise and time are needed. It is not uncommon for a project to encompass ten years from its planning stage to the start of operations. The extent of the risks involved is clear.",
-          "H",
-          "Although it has long been considered a resource-poor nation, Japan, which is thought to have about 10% of the world's geothermal resources, may well have considerable advantages for tapping into geothermal power. It does have one of the longest serving power stations using geothermal energy. The station, built in 1966, pointed the way to the future when the country was affected by the two global oil shocks in the 1970s. Now there are some 17 plants in operation throughout the country which are responsible for a total output of over 530,000 kilowatts. This figure, though impressive, accounts for a mere 0.4% of Japan's total generation of electricity.",
-          "I",
-          "Clearly then, further progress needs to be made in the development of geothermal energy. As long as costs remain high in comparison to other sources of energy, geothermal power wilt struggle to match the efficiency of existing power sources. Further research and inno-vation in the field, as well as government support and a sense of urgency, are needed to help propel geothermal energy towards its promising future."
-        ],
-        "questionTitle": [
-          "Reading Passage 2 has nine paragraphs, A-l.Which paragraph contains the following information?",
-          "Do the following statements agree with the writer s claims in Reading Passage 2?"
-        ],
-        "questions": [
-          {
-            "quizNumber": 14,
-            "answers": ["A. B", "B. D", "C. I", "D. E"],
-            "rightAnswer": "D",
-            "quiz": "the history of the development of geothermal power."
-          },
-          {
-            "quizNumber": 15,
-            "answers": ["A. B", "B. H", "C. I", "D. E"],
-            "rightAnswer": "B",
-            "quiz": "one country’s use of geothermal power."
-          },
-          {
-            "quizNumber": 16,
-            "answers": ["A. B", "B. D", "C. I", "D. E"],
-            "rightAnswer": "B",
-            "quiz": "a comparison between various energy sources."
-          },
-          {
-            "quizNumber": 17,
-            "answers": ["A. C", "B. D", "C. I", "D. E"],
-            "rightAnswer": "A",
-            "quiz": "how geothermal energy can produce electricity."
-          },
-          {
-            "quizNumber": 18,
-            "answers": ["A. B", "B. G", "C. I", "D. C"],
-            "rightAnswer": "A",
-            "quiz": "conditions which permit access to geothermal power."
-          },
-          {
-            "quizNumber": 19,
-            "answers": ["A. B", "B. D", "C. I", "D. G"],
-            "rightAnswer": "D",
-            "quiz": "problems of geothermal exploration."
-          },
-          {
-            "quizNumber": 20,
-            "answers": ["A. Yes", "B. No", "C. Not Given"],
-            "rightAnswer": "B",
-            "quiz": "Accessing geothermal energy at depths greater than 3 km is currently not possible."
-          },
-          {
-            "quizNumber": 21,
-            "answers": ["A. Yes", "B. No", "C. Not Given"],
-            "rightAnswer": "B",
-            "quiz": "The generation of geothermal power produces a considerable amount of by-products that can be damaging to the environment."
-          },
-          {
-            "quizNumber": 22,
-            "answers": ["A. Yes", "B. No", "C. Not Given"],
-            "rightAnswer": "C",
-            "quiz": "The World Geothermal Congress has been able to raise money for research in this area."
-          },
-          {
-            "quizNumber": 23,
-            "answers": ["A. Yes", "B. No", "C. Not Given"],
-            "rightAnswer": "C",
-            "quiz": "Geothermal energy is still relatively expensive lo generate."
-          },
-          {
-            "quizNumber": 24,
-            "answers": ["A. Yes", "B. No", "C. Not Given"],
-            "rightAnswer": "A",
-            "quiz": "It can take a decade to develop a single geothermal power station."
-          },
-          {
-            "quizNumber": 25,
-            "answers": ["A. Yes", "B. No", "C. Not Given"],
-            "rightAnswer": "A",
-            "quiz": "Japan is capable of generating one quarter of its energy needs using geothermal energy."
-          },
-          {
-            "quizNumber": 26,
-            "answers": ["A. Yes", "B. No", "C. Not Given"],
-            "rightAnswer": "C",
-            "quiz": "The future of geothermal energy depends upon the decline of fossil fuel resources."
-          }
-        ]
-      },
-      {
-        "passageImg": "https://iotcdn.oss-ap-southeast-1.aliyuncs.com/2020-11/Science-01.jpg",
-        "subTitle": "ARE WE MANAGING TO DESTROY SCIENCE?",
-        "passageContent": [
-          "The government in the UK was concerned about the efficiency of research institutions and set up a Research Assessment Exercise (RAE) to consider what was being done in each university. The article hich follows is a response to the imposition of the RAE.",
-          "In the year ahead, the UK government is due to carry out the next Research Assessment Exercise (RAE ). The goal of this regular five-yearly check-up of the university sector is easy to understand: to increase productivity within public sector research. But striving for such productivity can lead to unfortunate consequences. In the case of the RAE, one risk attached to this is the creation of an overly controlling management culture that threatens the future of imaginative science.",
-          "Academic institutions are already preparing for the RAE with some anxiety—understand-ably so, for the financial consequences of failure are severe. Departments with a current rating of four or five (research is rated on a five point scale, with five the highest) must maintain their score or face a considerable loss of funding. Meanwhile, those with ratings of two or three are fighting for their survival.",
-          "The pressures are forcing research management onto the defensive. Common strategies for increasing academic output include grading individual researchers every year according to RAE criteria, pressurising them to publish anything regardless of quality, diverting funds from key and expensive laboratory science into areas of study such as management, and even threatening to close departments. Another strategy being readily adopted is to remove scientists who appear to be less active in research and replace them with new, probably younger, staff.",
-          "Although such measures may deliver results in the RAE , they are putting unsustainable pressure on academic staff. Particularly insidious is the pressure to publish. Put simply, RAE committees in the laboratory sciences must produce four excellent peer-reviewed publications per member of staff to meet the assessment criteria. Hence this is becoming a minimum requirement for existing members of staff, and a benchmark against which to measure new recruits.",
-          "But prolific publication does not necessarily add up to good science. Indeed, one young researcher was told in an interview for a lectureship that, although your publications are excellent, unfortunately, there are not enough of them. You should not worry so much about the quality of your publications.'",
-          "In a recent letter to Nature, the publication records of ten senior academics in the area of molecular microbiology were analysed. Each of these academics is now in very senior positions in universities or research institutes, with careers spanning a total of 262 years. All have achieved considerable status and respect within the UK and worldwide. However, their early publication records would preclude them from academic posts if the present criteria were applied.",
-          "Although the quality of their work was clearly outstanding—they initiated novel and perhaps risky projects early in their careers, which have since been recognised as research of international importance— they generally produced few papers over the first ten years after completing their PhDs. Indeed, over this period, they have an average gap of 3-8 years without the publication or production of a cited paper. In one case there was a five-year gap. Although these enquiries were limited to a specific area of research, it seems that this model of career progression is widespread in all of the chemical and biological sciences.",
-          "It seems that the atmosphere surrounding the RAE may be stifling talented young researchers or driving them out of science altogether. There urgently needs to be a more considered and careful nurturing of our young scientific talent. A new member of academic staff in the chemical or biological laboratory sciences surely needs a commitment to resources over a five- to ten-year period to establish their research. Senior academics managing this situation might be well advised to demand a long-term view from the government.",
-          "Unfortunately, management seems to be pulling in the opposite direction. Academics have to deal with more students than ever and the paperwork associated with the assessment of the quality of teaching is increasing. On top of that, the salary for university lecturers starts at only £32,665 (rising to £58,048). Tenure is rare, and most contracts are offered on a temporary contract basis. With the mean starting salary for new graduates now close to £36,000, it is surprising that anybody still wants a job in academia.",
-          "It need not be like this. Dealings with the many senior research managers in the chemical and water industries at the QUESTOR Centre (Queen's University Environmental Science and Technology Research Centre) provided some insight. The overall impression is that the private sector has a much more sensible and enlightened long-term view of research priorities. Why can the universities not develop the same attitude?",
-          "All organisations need managers, yet these managers will make sure they survive even when those they manage are lost. Research management in UK universities is in danger of evolving into such an overly controlled state that it will allow little time for careful thinking and teaching, and will undermine the development of imaginative young scientists."
-        ],
-        "questionTitle": [
-          "Complete the summary.",
-          "Do the following statements agree with the writer's claims in Reading Passage 3?",
-          "Choose the appropriate letter, A, B, C or D"
-        ],
-        "questions": [
-          {
-            "quizNumber": 27,
-            "answers": [
-              "A. Productivity",
-              "B. Inspiration",
-              "C. Masterpiece",
-              "D. Performance"
-            ],
-            "rightAnswer": "A",
-            "quiz": "In the UK, every five years, the Research Assessment Exercise (RAE) inspects research institutions to determine their rate of  _____ "
-          },
-          {
-            "quizNumber": 28,
-            "answers": [
-              "A. Inspiration",
-              "B. Pottery",
-              "C. Fire ",
-              "D. Anxiety"
-            ],
-            "rightAnswer": "D",
-            "quiz": "This tends to cause _____"
-          },
-          {
-            "quizNumber": 29,
-            "answers": ["A. Entire", "B. Severe", "C. United ", "D. Similar"],
-            "rightAnswer": "B",
-            "quiz": "In academic institutions because any failure would lead to _____ financial consequences."
-          },
-          {
-            "quizNumber": 30,
-            "answers": [
-              "A. Serious",
-              "B. Immediate",
-              "C. Pressures ",
-              "D. Responsible"
-            ],
-            "rightAnswer": "C",
-            "quiz": "RAE’s purpose, however, is to increase the academic output within research institutions. In response to the _____  of RAE, the research institutions are changing the way they do things."
-          },
-          {
-            "quizNumber": 31,
-            "answers": ["A. Publish", "B. Bring", "C. Allow ", "D. Produce"],
-            "rightAnswer": "A",
-            "quiz": "The research institutions are changing the way they do things. Some are forcing their research staff to _____   almost anything."
-          },
-          {
-            "quizNumber": 32,
-            "answers": [
-              "A. Dividend",
-              "B. Capital",
-              "C. Achievement ",
-              "D. Funds"
-            ],
-            "rightAnswer": "D",
-            "quiz": "While others are moving _____   from a laboratory focus to that of management."
-          },
-          {
-            "quizNumber": 33,
-            "answers": ["A. Require ", "B. Replace", "C. Receive ", "D. Agree"],
-            "rightAnswer": "B",
-            "quiz": "Another common approach utilised by management is to remove and _____  underperforming research staff."
-          },
-          {
-            "quizNumber": 34,
-            "answers": [
-              "A. Sufficient ",
-              "B. Psychological",
-              "C. Unsustainable ",
-              "D. Relevantee"
-            ],
-            "rightAnswer": "C",
-            "quiz": "The authors of this paper feel that the pressure on UK research institutions is _____"
-          },
-          {
-            "quizNumber": 35,
-            "answers": ["A. True ", "B. False", "C. Not Given "],
-            "rightAnswer": "B",
-            "quiz": "Good researchers are usually prolific publishers."
-          },
-          {
-            "quizNumber": 36,
-            "answers": ["A. True ", "B. False", "C. Not Given "],
-            "rightAnswer": "A",
-            "quiz": "People in industry seem to understand the long-term nature of research."
-          },
-          {
-            "quizNumber": 37,
-            "answers": ["A. True ", "B. False", "C. Not Given "],
-            "rightAnswer": "C",
-            "quiz": "The private sector has produced more in the way of quality research than universities."
-          },
-          {
-            "quizNumber": 38,
-            "answers": ["A. True ", "B. False", "C. Not Given "],
-            "rightAnswer": "A",
-            "quiz": "Management may be the only winners under the new system."
-          },
-          {
-            "quizNumber": 39,
-            "answers": [
-              "A. prevent institutions from employing them. ",
-              "B. rule out their chances of achieving any status using the current standards.",
-              "C. support their application for an academic posting under the present criteria.",
-              "D. hinder their academic prospects under the current criteria."
-            ],
-            "rightAnswer": "D",
-            "quiz": "The early publishing records of senior researchers would"
-          },
-          {
-            "quizNumber": 40,
-            "answers": [
-              "A. managed over a decade by senior academics. ",
-              "B. guided over a ten-year period to develop their research.",
-              "C. support their application for an academic posting under the present criteria.",
-              "D. advised of the government's long-term view on research."
-            ],
-            "rightAnswer": "C",
-            "quiz": "Gifted new scientists need to be"
-          }
-        ]
-      }
+      [
+        {
+          "test_name": "IELTS Mock Test 2021 January",
+          "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-01.png",
+          "passageImg": "https://iotcdn.oss-ap-southeast-1.aliyuncs.com/2020-11/The%20Dams-01.jpg",
+          "subTitle": "THE DAMS THAT CHANGED AUSTRALIA",
+          "passageContent": [
+            "SECTION ONE",
+            "Inland Australia has had a problem with drought from the time of white settlement in 1788 until today, and this is why the Snowy Mountains Scheme was conceived and founded. Before the Snowy Scheme a large proportion of the snowfields on Australia's highest mountains (the Snowy Mountains) melted into the Snowy River every year. Hence, Snowy River water flowed, ultimately, into the sea, not toward the dry interior of the country, where people needed it so desperately. This was first recognised by the Polish geologist and explorer Strezlecki in 1840, who commented that there could be no development of the inland without adequate water supply. The rivers would have to be diverted if irrigation were to succeed.",
+            "Before Federation in 1901, Australia consisted of a group of colonies, all anxious to protect their own interests. After Federation the states retained rights to the water, and thus to what might happen to the rivers. Arguments between New South Wales, Victoria and South Australia led to a deadlocked Premiers' Conference in 1947. Despite this serious dispute, the Federal Parliament passed the Snowy Mountains Hydro-electric Power Act just two years later, on July 7. The project was officially commenced on October 17 that year, barely three months after the act had been passed.",
+            "The scheme set out to harness water for electricity and to divert it back to the dry inland areas for irrigation. To do this, thousands of kilometres of tunnels had to be drilled through the mountains, and sixteen major dams and seven hydro-electric power stations built over a period of nineteen years. The first of these was Guthega Power Station, which was commissioned in 1954. and the last one to be finished was Tumut III.",
+            "SECTION TWO",
+            "The Snowy Mountains Scheme was to alter the face of Australia forever. One important change was the recruitment of people from outside Australia to work on the scheme. In 1949, while the world was still recovering from the effects of World War II (1939 to 1945), the Australian government needed immense numbers of people to work on the Snowy. It sought labour from overseas, and 60,000 of the 100,000 people who worked on the scheme came from outside the country.",
+            "They came from thirty different countries: from Italy, Yugoslavia, and Germany, from sophisticated cities like Budapest, Paris and Vienna, and from tiny hamlets. These European workers left countries which had fought against each other during the war, and which had vastly different cultures, and they found themselves in a country which was still defining itself. They were adventurous young men, some highly skilled, some not, and they came to a place which offered both enormous challenges and primitive conditions. Many were housed in tents in the early days of the scheme, although some fortunate men were placed in barracks. The food was basic, female company extremely scarce and entertainment lacking.",
+            "SECTION THREE",
+            "Many new arrivals spoke only limited English, and were offered English classes after work. The men needed primarily to understand safety instructions, and safety lectures were conducted in English and other languages. In fact, a great deal of communication underground was by sign language, especially when the conditions were noisy. The signs were peculiar to the business at hand: for instance, a thumb placed near the mouth meant water, but did not indicate whether the water was needed on the drill the man was using, or for a drink.",
+            "The constant reference to the men who worked on the Snowy is appropriate because few women worked on the scheme, and those who were employed usually held office jobs. Women, however, were active in the community, and the members of the Country Women’s Association gave English lessons. Other English instruction was provided by the Australian Broadcasting Commission, which ran daily broadcasts to help the newcomers with the language.",
+            "SECTION FOUR",
+            "These circumstances could have caused great social trouble, but there were relatively few serious problems. The men worked long and hard, and many saved their money with a view to settling in Australia or returning home. At a reunion in 1999 many were happy to remember the hardships of those days, but it was all seen through a glow of achieve-ment. This satisfaction was felt not only by the men who worked directly on the project, but by the women, many of whom had been wives and mothers during the scheme, and indicated that they had felt very much part of it.",
+            "The children of these couples went to school in Happy Jack, a town notable for having the highest school in Australia, and the highest birth rate. In one memorable year there were thirty babies born to the eighty families in Happy Jack. Older children went to school in Cooma, the nearest major town.",
+            "SECTION FIVE",
+            "The scheme is very unlikely to be repeated. The expense of putting the power stations underground would now be prohibitive, and our current information about ecology would require a different approach to the treatment of the rivers. Other hydro-electric schemes like the Tennessee Valley Authority preceded the Snowy Mountains Scheme, and others have followed. The Snowy Mountains Scheme is the only hydro-electric scheme in the world to be totally financed from the sale of its electricity.",
+            "As well as being a great engineering feat, the scheme is a monument to people from around the world who dared to change their lives. Some are living and working in Australia, many have retired there, some have returned to their countries of origin. Every one of them contributed to altering Australian society forever."
+          ],
+          "questionTitle": [
+            "Reading Passage 1 contains five sections. Choose the correct heading for Sections One to Five from the fist of headings below.",
+            "Complete sentence"
+          ],
+          "questions": [
+            {
+              "quizNumber": 1,
+              "answers": [
+                "A. Section 1",
+                "B. Section 3",
+                "C. Section 5",
+                "D. Section 2"
+              ],
+              "rightAnswer": "A",
+              "quiz": "Why the Snowy Mountains Scheme began"
+            },
+            {
+              "quizNumber": 2,
+              "answers": [
+                "A. Section 1",
+                "B. Section 3",
+                "C. Section 4",
+                "D. Section 2"
+              ],
+              "rightAnswer": "B",
+              "quiz": "Learning new ways to communicate"
+            },
+            {
+              "quizNumber": 3,
+              "answers": [
+                "A. Section 1",
+                "B. Section 3",
+                "C. Section 4",
+                "D. Section 5"
+              ],
+              "rightAnswer": "D",
+              "quiz": "The unique nature of the scheme"
+            },
+            {
+              "quizNumber": 4,
+              "answers": [
+                "A. Section 1",
+                "B. Section 2",
+                "C. Section 4",
+                "D. Section 5"
+              ],
+              "rightAnswer": "B",
+              "quiz": "Recruiting people for the Snowy Mountains Scheme"
+            },
+            {
+              "quizNumber": 5,
+              "answers": [
+                "A. Section 1",
+                "B. Section 3",
+                "C. Section 4",
+                "D. Section 5"
+              ],
+              "rightAnswer": "C",
+              "quiz": "The workers and their families"
+            },
+            {
+              "quizNumber": 6,
+              "answers": ["A. Inland", "B. Coast", "C. Desert", "D. Forest"],
+              "rightAnswer": "A",
+              "quiz": "Awareness that the _____  could not be developed without irrigation"
+            },
+            {
+              "quizNumber": 7,
+              "answers": [
+                "A. Disorder",
+                "B. Fever",
+                "C. Obesity",
+                "D. Deadlock"
+              ],
+              "rightAnswer": "D",
+              "quiz": "Dispute between the states on the rivers' future, resulting in a _____ Premiers' Conference"
+            },
+            {
+              "quizNumber": 8,
+              "answers": ["A. 50,000", "B. 60,000", "C. 70,000", "D. 80,000"],
+              "rightAnswer": "B",
+              "quiz": "Snowy Mountains Scheme begins Recruitment of _____  people from abroad"
+            },
+            {
+              "quizNumber": 9,
+              "answers": ["A. Provides", "B. Moves", "C. Sets", "D. Begins"],
+              "rightAnswer": "D",
+              "quiz": "Work on Guthega Power Station _____"
+            },
+            {
+              "quizNumber": 10,
+              "answers": [
+                "A. Completed",
+                "B. Standed",
+                "C. Expected",
+                "D. Involved"
+              ],
+              "rightAnswer": "A",
+              "quiz": "Tumut III Power Station _____ "
+            },
+            {
+              "quizNumber": 11,
+              "answers": [
+                "A. Sign language",
+                "B. Absolutely ",
+                "C. Barely ",
+                "D. Grocery store"
+              ],
+              "rightAnswer": "A",
+              "quiz": "Communicating using _____   was necessary for the labourers because of the conditions."
+            },
+            {
+              "quizNumber": 12,
+              "answers": [
+                "A. Dwell",
+                "B. Kindergarten  ",
+                "C. Architect ",
+                "D. Hardships"
+              ],
+              "rightAnswer": "D",
+              "quiz": "The workers reminisced about the _____  endured in the early days at their reunion."
+            },
+            {
+              "quizNumber": 13,
+              "answers": [
+                "A. Security man",
+                "B. Engineering feat",
+                "C. Achievement ",
+                "D. Illustration"
+              ],
+              "rightAnswer": "B",
+              "quiz": "The Snowy Mountains Scheme was considered an _____ which altered Australian society thereafter."
+            }
+          ]
+        },
+        {
+          "passageImg": "https://iotcdn.oss-ap-southeast-1.aliyuncs.com/2020-11/Power%20from%20Earth-01.jpg",
+          "subTitle": "POWER FROM THE EARTH",
+          "passageContent": [
+            "A",
+            "Geothermal power refers to the generation of electrical power by making use of heat sources found well below the earth's surface.",
+            "As is well-known, if a hole were to be drilled deep into the earth, extremely hot, molten rock would soon be encountered. At depths of 30 to 50 km, temperatures exceeding 1000 degrees Celsius prevail. Obviously, accessing such temperatures would provide a wonderful source for geothermal power. The problem is, such depths are too difficult to access: drilling down some 30 or more kilometres is simply too costly with today's technology.",
+            "B",
+            "Fortunately, sufficiently hot temperatures are available at considerably shallower depths. In certain areas, where the earth's surface has been altered over time—through, for example, volcanic activity-temperatures exceeding 300 degrees Celsius can be found at depths of a mere 1 to 3 km, which can be feasibly accessed. These particular areas are potentially ideal for the generation of electricity through geothermal means.",
+            "C",
+            "It is possible to explain geothermal power generation as a steam power system that utilizes the earth itself as a boiler. When water is sent down to the depths of 1 to 3 km, it returns to the surface as steam and is capable of generating electricity. Electricity generated in this manner hardly produces any carbon dioxide or other waste materials. If the steam and hot water are routed back underground, the generation of electricity can be semi-permanent in nature.",
+            "D",
+            "Furthermore, geothermal power can provide a stable supply of electricity unlike other natural energy sources such as solar power and wind power, which both rely heavily on weather conditions. Accordingly, the generation of electricity through geothermal power is four to five times more efficient than through solar power.",
+            "As for wind power, geothermal power is some two times more cost effective. Only the generation of hydroelectric power comes close— the cost of power production from each is about the same.",
+            "E",
+            "Although geothermal power generation appears to be a most attractive option, development has been slow. The world's first successful attempt at geothermal power generation was accomplished in Italy in 1904. Power generation in Japan first started in 1925 at Beppu City. Since that time, countries as diverse as Iceland and New Zealand have joined the list of nations making use of this valuable source of energy. In the year 2000, Beppu City hosted the World Geothermal Congress, whose goal was to promote the adoption of geothermal energy production throughout the world.",
+            "F",
+            "The international geothermal community at the World Geothermal Congress 2000 called upon the governments of nations to make strong commitments to the development of their indigenous geo-thermal resources for the benefit of their own people, humanity and the environment. However, several factors are still hindering the development of geothermal power generation. Firstly, it has a low density of energy which makes it unsuitable for large-scale production in which, for example, over 1,000,000 kilowatts need to be produced. Secondly, the cost is still high when compared to today's most common sources of energy production: fossil fuels and atomic energy.",
+            "G",
+            "A further consideration is the amount of risk involved in successfully setting up a new geothermal power production facility. The drill-ing that must extend 2,000 to 3,000 m below the surface must be accurate to within a matter of just a few metres one side or the other of the targeted location. To achieve this, extensive surveys, drilling expertise and time are needed. It is not uncommon for a project to encompass ten years from its planning stage to the start of operations. The extent of the risks involved is clear.",
+            "H",
+            "Although it has long been considered a resource-poor nation, Japan, which is thought to have about 10% of the world's geothermal resources, may well have considerable advantages for tapping into geothermal power. It does have one of the longest serving power stations using geothermal energy. The station, built in 1966, pointed the way to the future when the country was affected by the two global oil shocks in the 1970s. Now there are some 17 plants in operation throughout the country which are responsible for a total output of over 530,000 kilowatts. This figure, though impressive, accounts for a mere 0.4% of Japan's total generation of electricity.",
+            "I",
+            "Clearly then, further progress needs to be made in the development of geothermal energy. As long as costs remain high in comparison to other sources of energy, geothermal power wilt struggle to match the efficiency of existing power sources. Further research and inno-vation in the field, as well as government support and a sense of urgency, are needed to help propel geothermal energy towards its promising future."
+          ],
+          "questionTitle": [
+            "Reading Passage 2 has nine paragraphs, A-l.Which paragraph contains the following information?",
+            "Do the following statements agree with the writer s claims in Reading Passage 2?"
+          ],
+          "questions": [
+            {
+              "quizNumber": 14,
+              "answers": ["A. B", "B. D", "C. I", "D. E"],
+              "rightAnswer": "D",
+              "quiz": "the history of the development of geothermal power."
+            },
+            {
+              "quizNumber": 15,
+              "answers": ["A. B", "B. H", "C. I", "D. E"],
+              "rightAnswer": "B",
+              "quiz": "one country’s use of geothermal power."
+            },
+            {
+              "quizNumber": 16,
+              "answers": ["A. B", "B. D", "C. I", "D. E"],
+              "rightAnswer": "B",
+              "quiz": "a comparison between various energy sources."
+            },
+            {
+              "quizNumber": 17,
+              "answers": ["A. C", "B. D", "C. I", "D. E"],
+              "rightAnswer": "A",
+              "quiz": "how geothermal energy can produce electricity."
+            },
+            {
+              "quizNumber": 18,
+              "answers": ["A. B", "B. G", "C. I", "D. C"],
+              "rightAnswer": "A",
+              "quiz": "conditions which permit access to geothermal power."
+            },
+            {
+              "quizNumber": 19,
+              "answers": ["A. B", "B. D", "C. I", "D. G"],
+              "rightAnswer": "D",
+              "quiz": "problems of geothermal exploration."
+            },
+            {
+              "quizNumber": 20,
+              "answers": ["A. Yes", "B. No", "C. Not Given"],
+              "rightAnswer": "B",
+              "quiz": "Accessing geothermal energy at depths greater than 3 km is currently not possible."
+            },
+            {
+              "quizNumber": 21,
+              "answers": ["A. Yes", "B. No", "C. Not Given"],
+              "rightAnswer": "B",
+              "quiz": "The generation of geothermal power produces a considerable amount of by-products that can be damaging to the environment."
+            },
+            {
+              "quizNumber": 22,
+              "answers": ["A. Yes", "B. No", "C. Not Given"],
+              "rightAnswer": "C",
+              "quiz": "The World Geothermal Congress has been able to raise money for research in this area."
+            },
+            {
+              "quizNumber": 23,
+              "answers": ["A. Yes", "B. No", "C. Not Given"],
+              "rightAnswer": "C",
+              "quiz": "Geothermal energy is still relatively expensive lo generate."
+            },
+            {
+              "quizNumber": 24,
+              "answers": ["A. Yes", "B. No", "C. Not Given"],
+              "rightAnswer": "A",
+              "quiz": "It can take a decade to develop a single geothermal power station."
+            },
+            {
+              "quizNumber": 25,
+              "answers": ["A. Yes", "B. No", "C. Not Given"],
+              "rightAnswer": "A",
+              "quiz": "Japan is capable of generating one quarter of its energy needs using geothermal energy."
+            },
+            {
+              "quizNumber": 26,
+              "answers": ["A. Yes", "B. No", "C. Not Given"],
+              "rightAnswer": "C",
+              "quiz": "The future of geothermal energy depends upon the decline of fossil fuel resources."
+            }
+          ]
+        },
+        {
+          "passageImg": "https://iotcdn.oss-ap-southeast-1.aliyuncs.com/2020-11/Science-01.jpg",
+          "subTitle": "ARE WE MANAGING TO DESTROY SCIENCE?",
+          "passageContent": [
+            "The government in the UK was concerned about the efficiency of research institutions and set up a Research Assessment Exercise (RAE) to consider what was being done in each university. The article hich follows is a response to the imposition of the RAE.",
+            "In the year ahead, the UK government is due to carry out the next Research Assessment Exercise (RAE ). The goal of this regular five-yearly check-up of the university sector is easy to understand: to increase productivity within public sector research. But striving for such productivity can lead to unfortunate consequences. In the case of the RAE, one risk attached to this is the creation of an overly controlling management culture that threatens the future of imaginative science.",
+            "Academic institutions are already preparing for the RAE with some anxiety—understand-ably so, for the financial consequences of failure are severe. Departments with a current rating of four or five (research is rated on a five point scale, with five the highest) must maintain their score or face a considerable loss of funding. Meanwhile, those with ratings of two or three are fighting for their survival.",
+            "The pressures are forcing research management onto the defensive. Common strategies for increasing academic output include grading individual researchers every year according to RAE criteria, pressurising them to publish anything regardless of quality, diverting funds from key and expensive laboratory science into areas of study such as management, and even threatening to close departments. Another strategy being readily adopted is to remove scientists who appear to be less active in research and replace them with new, probably younger, staff.",
+            "Although such measures may deliver results in the RAE , they are putting unsustainable pressure on academic staff. Particularly insidious is the pressure to publish. Put simply, RAE committees in the laboratory sciences must produce four excellent peer-reviewed publications per member of staff to meet the assessment criteria. Hence this is becoming a minimum requirement for existing members of staff, and a benchmark against which to measure new recruits.",
+            "But prolific publication does not necessarily add up to good science. Indeed, one young researcher was told in an interview for a lectureship that, although your publications are excellent, unfortunately, there are not enough of them. You should not worry so much about the quality of your publications.'",
+            "In a recent letter to Nature, the publication records of ten senior academics in the area of molecular microbiology were analysed. Each of these academics is now in very senior positions in universities or research institutes, with careers spanning a total of 262 years. All have achieved considerable status and respect within the UK and worldwide. However, their early publication records would preclude them from academic posts if the present criteria were applied.",
+            "Although the quality of their work was clearly outstanding—they initiated novel and perhaps risky projects early in their careers, which have since been recognised as research of international importance— they generally produced few papers over the first ten years after completing their PhDs. Indeed, over this period, they have an average gap of 3-8 years without the publication or production of a cited paper. In one case there was a five-year gap. Although these enquiries were limited to a specific area of research, it seems that this model of career progression is widespread in all of the chemical and biological sciences.",
+            "It seems that the atmosphere surrounding the RAE may be stifling talented young researchers or driving them out of science altogether. There urgently needs to be a more considered and careful nurturing of our young scientific talent. A new member of academic staff in the chemical or biological laboratory sciences surely needs a commitment to resources over a five- to ten-year period to establish their research. Senior academics managing this situation might be well advised to demand a long-term view from the government.",
+            "Unfortunately, management seems to be pulling in the opposite direction. Academics have to deal with more students than ever and the paperwork associated with the assessment of the quality of teaching is increasing. On top of that, the salary for university lecturers starts at only £32,665 (rising to £58,048). Tenure is rare, and most contracts are offered on a temporary contract basis. With the mean starting salary for new graduates now close to £36,000, it is surprising that anybody still wants a job in academia.",
+            "It need not be like this. Dealings with the many senior research managers in the chemical and water industries at the QUESTOR Centre (Queen's University Environmental Science and Technology Research Centre) provided some insight. The overall impression is that the private sector has a much more sensible and enlightened long-term view of research priorities. Why can the universities not develop the same attitude?",
+            "All organisations need managers, yet these managers will make sure they survive even when those they manage are lost. Research management in UK universities is in danger of evolving into such an overly controlled state that it will allow little time for careful thinking and teaching, and will undermine the development of imaginative young scientists."
+          ],
+          "questionTitle": [
+            "Complete the summary.",
+            "Do the following statements agree with the writer's claims in Reading Passage 3?",
+            "Choose the appropriate letter, A, B, C or D"
+          ],
+          "questions": [
+            {
+              "quizNumber": 27,
+              "answers": [
+                "A. Productivity",
+                "B. Inspiration",
+                "C. Masterpiece",
+                "D. Performance"
+              ],
+              "rightAnswer": "A",
+              "quiz": "In the UK, every five years, the Research Assessment Exercise (RAE) inspects research institutions to determine their rate of  _____ "
+            },
+            {
+              "quizNumber": 28,
+              "answers": [
+                "A. Inspiration",
+                "B. Pottery",
+                "C. Fire ",
+                "D. Anxiety"
+              ],
+              "rightAnswer": "D",
+              "quiz": "This tends to cause _____"
+            },
+            {
+              "quizNumber": 29,
+              "answers": ["A. Entire", "B. Severe", "C. United ", "D. Similar"],
+              "rightAnswer": "B",
+              "quiz": "In academic institutions because any failure would lead to _____ financial consequences."
+            },
+            {
+              "quizNumber": 30,
+              "answers": [
+                "A. Serious",
+                "B. Immediate",
+                "C. Pressures ",
+                "D. Responsible"
+              ],
+              "rightAnswer": "C",
+              "quiz": "RAE’s purpose, however, is to increase the academic output within research institutions. In response to the _____  of RAE, the research institutions are changing the way they do things."
+            },
+            {
+              "quizNumber": 31,
+              "answers": ["A. Publish", "B. Bring", "C. Allow ", "D. Produce"],
+              "rightAnswer": "A",
+              "quiz": "The research institutions are changing the way they do things. Some are forcing their research staff to _____   almost anything."
+            },
+            {
+              "quizNumber": 32,
+              "answers": [
+                "A. Dividend",
+                "B. Capital",
+                "C. Achievement ",
+                "D. Funds"
+              ],
+              "rightAnswer": "D",
+              "quiz": "While others are moving _____   from a laboratory focus to that of management."
+            },
+            {
+              "quizNumber": 33,
+              "answers": [
+                "A. Require ",
+                "B. Replace",
+                "C. Receive ",
+                "D. Agree"
+              ],
+              "rightAnswer": "B",
+              "quiz": "Another common approach utilised by management is to remove and _____  underperforming research staff."
+            },
+            {
+              "quizNumber": 34,
+              "answers": [
+                "A. Sufficient ",
+                "B. Psychological",
+                "C. Unsustainable ",
+                "D. Relevantee"
+              ],
+              "rightAnswer": "C",
+              "quiz": "The authors of this paper feel that the pressure on UK research institutions is _____"
+            },
+            {
+              "quizNumber": 35,
+              "answers": ["A. True ", "B. False", "C. Not Given "],
+              "rightAnswer": "B",
+              "quiz": "Good researchers are usually prolific publishers."
+            },
+            {
+              "quizNumber": 36,
+              "answers": ["A. True ", "B. False", "C. Not Given "],
+              "rightAnswer": "A",
+              "quiz": "People in industry seem to understand the long-term nature of research."
+            },
+            {
+              "quizNumber": 37,
+              "answers": ["A. True ", "B. False", "C. Not Given "],
+              "rightAnswer": "C",
+              "quiz": "The private sector has produced more in the way of quality research than universities."
+            },
+            {
+              "quizNumber": 38,
+              "answers": ["A. True ", "B. False", "C. Not Given "],
+              "rightAnswer": "A",
+              "quiz": "Management may be the only winners under the new system."
+            },
+            {
+              "quizNumber": 39,
+              "answers": [
+                "A. prevent institutions from employing them. ",
+                "B. rule out their chances of achieving any status using the current standards.",
+                "C. support their application for an academic posting under the present criteria.",
+                "D. hinder their academic prospects under the current criteria."
+              ],
+              "rightAnswer": "D",
+              "quiz": "The early publishing records of senior researchers would"
+            },
+            {
+              "quizNumber": 40,
+              "answers": [
+                "A. managed over a decade by senior academics. ",
+                "B. guided over a ten-year period to develop their research.",
+                "C. support their application for an academic posting under the present criteria.",
+                "D. advised of the government's long-term view on research."
+              ],
+              "rightAnswer": "C",
+              "quiz": "Gifted new scientists need to be"
+            }
+          ]
+        }
+      ]
     ],
     "may_2021": [
-      {
-        "test_name": "IELTS Mock Test 2021 May",
-        "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-05_1.png",
-        "passageImg": "https://iotcdn.oss-ap-southeast-1.aliyuncs.com/2021-04/Everest%20and%20Hillary-01.png",
-        "subTitle": "MOUNT EVEREST AND HILLARY",
-        "passageContent": [
-          "Mount Everest, also known as Sagarmartha (Goddess of the Sky), is 8,348 metres tall, the highest mountain on earth above sea level. Formed about 60 million years ago and lying between Tibet and Nepal, Mount Everest appeals to climbers of every level, from novice to experienced climber. Each mountaineer pays a considerable amount of money to an experienced guide to help them achieve a successful climb. Everest was given its official English name in 1865 by the Royal Geographic Society upon recommendation of Andrew Waugh, the British Surveyor General of India at the time.",
-          "When Everest was officially announced as the world’s highest mountain in 1852, it won interest from people all over the world, and the idea of climbing all (lie way to the summit was viewed as the ultimate feat. Nobody was able to climb Everest until 1920 when Tibet first opened its borders to outsiders, and between 1920 and 1952, seven major expeditions failed to reach the tip of Mount Everest, In fact, the mountain has a history of adversity and failure. With advances in climbing equipment in the last ten years or so, and more experienced guides, the fatality rates have dropped from 37% in 1990 to 4% in 2004. Nonetheless, the deadliest year in Mount Everest’s history was 1996, when 19 people died near the summit.",
-          "In 1924, Mount Everest claimed the lives of its first two climbers. George Mallory and Andrew Irvine were two British climbers, attempting to reach the summit. The men were last seen heading for the top of the mountain until clouds surrounded Everest and they disappeared. Mallory’s body was not seen again until 75 years on, in May of 1999, and Irvine’s body is yet to be found. There is still no evidence as to whether these two men made it to the top or not, although disputes rages on, Those that believe the pair were the first; to climb Everest point to two specific points, firstly, Mallory’s daughter has always said that Mallory carried a photograph of his wife on his person with the intention of leaving it on the summit when he reached it. This photo was not found on the body when it was discovered. Secondly, Mallory’s snow’ goggles were in his pocket when the body was found, indicating that he died at night. This implies that he and Irvine had made a push for the summit and were descending very late in the day. Given their known departure time and movements, had they not made the summit, it is unlikely that they would have still been out by nightfall.",
-          "The first time the actual peak of this monstrous mountain was reached was in 1953, in a combined effort by Sir Edmund Hillary and Tenzing Norgay. On the 29th of May that year, the duo conquered this epic mountain, standing at the highest point in the world for a brief 15 minutes. After a brief but fruitless search for evidence of the 1924 Mallory expedition, they buried a cross and some candy in the snow, taking a few photographs of the historic event. As Norgay had never operated a camera, there are no photographs of Hillary on top of the mountain, just shots of Norgay, and some additional photos looking down the mountain, ensuring evidence of their conquest and that the ascent was not faked.",
-          "When the news reached London on June 2nd, Sir Edmund Hillary was knighted in the Order of the British Empire and Norgay (a subject of the King of Nepal) was granted the George Medai by the UK, Sir Hillary turned to Antarctic exploration and led the New Zealand section of the Trans-Antarctic expedition from 1955 to 1958. In 1958, he took part in a mechanised expedition to the South Pole. Hillary continued to organise further mountain- climbing expeditions but, as the years passed, he became more and more concerned with the welfare of the Nepalese people. In the 1960s, he returned to Nepal, to aid in the development of the society, building clinics, hospitals and schools. After conquering Everest, Sir Edmund Hillary devoted most of his life to helping the Sherpa people of Nepal through the Himalayan Trust.",
-          "In January 2007, Sir Edmund Hillary went to Antarctica to commemorate the 50th anniversary of the founding of Scott Base. He flew to the station on 18 January 2007 with a delegation including the Prime Minister. On the 22nd of April 2007, while on a trip to Kathmandu, he was reported to have suffered a fall. There was no comment on the nature of his illness and lie did not immediately seek treatment. He was hospitalized after returning to New Zealand. Sadly, Sir Edmund Hillary died of a heart attack on the morning of January the 11th 2008. Hillary’s life was marked by wonderful achievements, his giving nature, grand discovery, and excitement. But he was a humble man who did not admit to being the first man to reach the summit of Everest until long after 1386, well after the death of his climbing companion Tenzing Norgay.",
-          "The latest record for climbing Mount Everest was set on the 30th of May in 2005 by Nepalese Mona Mulepati and PemDorje Sherpa, who were the first couple to get married on top of Mount Everest."
-        ],
-        "questionTitle": [
-          "Answer the questions",
-          "Do the following statements agree with the information given in the reading passage?"
-        ],
-        "questions": [
-          {
-            "quizNumber": 1,
-            "answers": [
-              "A. Andrew Waugh",
-              "B. Andrew Irvine",
-              "C. George Mallory",
-              "D. Sir Edmund Hillary"
-            ],
-            "rightAnswer": "A",
-            "quiz": "Who suggested that the name Everest be used to refer to the mountain?"
-          },
-          {
-            "quizNumber": 2,
-            "answers": ["A. England", "B. Tibet", "C. India", "D. America"],
-            "rightAnswer": "B",
-            "quiz": "Which country prevented explorers climbing Everest until 1920?"
-          },
-          {
-            "quizNumber": 3,
-            "answers": [
-              "A. Maloy’s backpack",
-              "B. Climbing equipment",
-              "C. Irvine’s hand",
-              "D. Irvine’s body"
-            ],
-            "rightAnswer": "D",
-            "quiz": "What has not yet been recovered?"
-          },
-          {
-            "quizNumber": 4,
-            "answers": [
-              "A. A photograph",
-              "B. Snow goggles",
-              "C. Climbing",
-              "D.  Backpack"
-            ],
-            "rightAnswer": "A",
-            "quiz": "What was not found on Mallory’s body that indicates he may have reached the summit?"
-          },
-          {
-            "quizNumber": 5,
-            "answers": [
-              "A. Maloy",
-              "B. Tenzing Norgay",
-              "C.Irvine",
-              "D. Sir Edmund Hillary "
-            ],
-            "rightAnswer": "B",
-            "quiz": "Who was photographed at the top of the mountain?"
-          },
-          {
-            "quizNumber": 6,
-            "answers": [
-              "A. Kathmandu",
-              "B. Tenzing Norgay ",
-              "C. Himalayan Trust",
-              "D. Mount Everest"
-            ],
-            "rightAnswer": "C",
-            "quiz": "What was the name of Hillary’s charitable organisation?"
-          },
-          {
-            "quizNumber": 7,
-            "answers": ["A. True", "B. False ", "C. Not Given"],
-            "rightAnswer": "B",
-            "quiz": "Mortality rates on Everest have consistently declined since 1990."
-          },
-          {
-            "quizNumber": 8,
-            "answers": ["A. True", "B. False ", "C. Not Given"],
-            "rightAnswer": "B",
-            "quiz": "Hillary found evidence of the Mallory expedition."
-          },
-          {
-            "quizNumber": 9,
-            "answers": ["A. True", "B. False", "C. Not Given"],
-            "rightAnswer": "A",
-            "quiz": "Photographs were taken from the summit as proof of the Hillary/ Norgay climb."
-          },
-          {
-            "quizNumber": 10,
-            "answers": ["A. True", "B. False", "C. Not Given"],
-            "rightAnswer": "A",
-            "quiz": "Both Hillary and Norgay received recognition of their achievement from Britain."
-          },
-          {
-            "quizNumber": 11,
-            "answers": ["A. True", "B. False", "C. Not Given"],
-            "rightAnswer": "C",
-            "quiz": "Hillary was the first person to reach the South Pole by mechanised transport."
-          },
-          {
-            "quizNumber": 12,
-            "answers": ["A. True", "B. False", "C. Not Given"],
-            "rightAnswer": "B",
-            "quiz": "Hillary’s death was attributed to an accident that occurred in Kathmandu."
-          }
-        ]
-      },
-      {
-        "passageImg": "https://iotcdn.oss-ap-southeast-1.aliyuncs.com/2021-04/Sleep-01.png",
-        "subTitle": "SLEEP",
-        "passageContent": [
-          "A. Like many things about your body, scientists and medical professionals still have a lot to learn about the process of sleep. One earlier misconception that has now been revised is that the body completely slows down during sleep; it is now dear that the body’s major organs and regulatory systems continue to work actively – the lungs, heart and stomach for example. Another important part of the body also operates at night – the glands and lymph nodes, which strengthen the immune system. This is commonly why the body’s natural immunity is weakened with insufficient sleep.",
-          "B. In some cases, certain systems actually become more active while we sleep. Hormones required for muscle development and growth, for instance, as well as the growth of new nerve cells. In the brain, activity of the pathways needed for learning and memory is increased.",
-          "C. Another common myth about sleep is that the body requires less sleep the older we get. Whilst It is true that babies need 16 hours compared to 9 hours and 8 hours respectively for teenagers and adults, this does not mean that older people need less sleep. However, what is true if that for a number of different factors, they often get less sleep or find their sleep less refreshing. This is because as people age, they spend less time in the deep, restful stages of sleep and are more easily awakened. Older people are also more likely to have medical conditions that affect their sleep, such as insomnia, sleep apnoea and heart problems.",
-          "D. Getting a good sleep is not just a matter of your head hitting the pillow at night and waking up in the morning. Your sleep goes in cycles throughout the night, moving back and forth between deep restorative sleep and more alert stages with dreaming. As the night progresses, you spend more time in a lighter dream sleep.",
-          "E. Sleep patterns can be broken down into two separate and distinct stages – REM and NREM sleep, REM (Rapid Eye Movement) sleep is when you dream. You usually have 3 to 5 periods of REM sleep each night, lasting from 5 minutes to over an hour, during which time your body’s activities increase. Breathing becomes fast, shallow and uneven, with an increase in brain activity, heartbeat and blood pressure. Although your major muscles generally don’t move, fingers and toes may twitch and body temperature changes and you may sweat or shiver.",
-          "F. Research has concluded that this sleep is most important for your brain. It is when it is most active, processing emotions and memories and relieving stress. The areas used for learning and developing more skills are activated. In fact, the brain waves measured during REM sleep are similar to those measured when awake.",
-          "G. NREM (Noil-Rapid Eye Movement) sleep is dreamless sleep. NREM sleep consists of four stages of deeper and deeper sleep. As you move through the stages, you become more relaxed, less aware of what is happening around you and more difficult to wake. Your body’s activity will also decrease as you move through the NREM stages, acting in the opposite manner to REM sleep. Stage 1 of NREM sleep is when you are falling to sleep. This period generally lasts between 5 and 10 minutes, during which time you can be woken easily. During stage 2, you are in a light sleep- the in-between stage before your fall into a deep sleep. It lasts about 20 minutes. In stage 3, deep sleep begins, paving the way for stage 4, in which you are difficult to awake and unaware of anything around you. This is when sleep walking and talking can occur. This is the most important stage for your body. Your brain has slowed right down and is recovering. Blood flow is redirected from your brain to your large muscles allowing them to mend any damage from your day at work. People woken quickly from stage 4 sleep often feel a sense of disorientation, which is why it is helpful to use an alarm clock with an ascending ring.",
-          "H. About an hour and a half into your sleep cycle you will go from deep Stage 4 sleep back into light Stage 2 sleep, then into REM sleep, before the cycle begins again. About 75% of your sleep is NREM sleep. If you sleep for eight hours, about six of them will be NREM sleep. As the night progresses, you spend more time in dream sleep and lighter sleep."
-        ],
-        "questionTitle": [
-          "Do the following statements agree with the information, given in the reading passage?",
-          "Choose correct letters",
-          "The reading passage has nine paragraphs, A-I.Which paragraph contains the following information"
-        ],
-        "questions": [
-          {
-            "quizNumber": 13,
-            "answers": ["A. True", "B. False", "C. Not Given"],
-            "rightAnswer": "A",
-            "quiz": "It was previously believed that biological processes slowed during sleep."
-          },
-          {
-            "quizNumber": 14,
-            "answers": ["A. True", "B. False", "C. Not Given"],
-            "rightAnswer": "C",
-            "quiz": "Teenagers lose less sleep than adults when they have a medical condition."
-          },
-          {
-            "quizNumber": 15,
-            "answers": ["A. True", "B. False", "C. Not Given"],
-            "rightAnswer": "B",
-            "quiz": "During the night, our sleep becomes increasingly deep."
-          },
-          {
-            "quizNumber": 16,
-            "answers": ["A. True", "B. False", "C. Not Given"],
-            "rightAnswer": "A",
-            "quiz": "Lack of sleep can cause heart problems and other medical"
-          },
-          {
-            "quizNumber": 17,
-            "answers": [
-              "A. Stress",
-              "B. Memories",
-              "C. Emotions",
-              "D. Relaxed"
-            ],
-            "rightAnswer": "A",
-            "quiz": "REM sleep can help reduce ______ "
-          },
-          {
-            "quizNumber": 18,
-            "answers": [
-              "A. Measured",
-              "B. Brain waves",
-              "C. The areas",
-              "D. Skills"
-            ],
-            "rightAnswer": "B",
-            "quiz": "During REM sleep, ______  are similar to those recorded whilst awake."
-          },
-          {
-            "quizNumber": 19,
-            "answers": ["A. Woken", "B. Through", "C. Aware", "D. Falling"],
-            "rightAnswer": "B",
-            "quiz": "During Stage 1 NREM sleep, you can be ______  with little effort."
-          },
-          {
-            "quizNumber": 20,
-            "answers": [
-              "A. Blood",
-              "B. Brain",
-              "C. Disorientation",
-              "D. Ascending"
-            ],
-            "rightAnswer": "C",
-            "quiz": "Suddenly being woken from deep sleep can cause ______  "
-          },
-          {
-            "quizNumber": 21,
-            "answers": [
-              "A. is more common for younger people",
-              "B. is when we dream",
-              "C. lasts about an hour a night",
-              "D. is when the brain is most relaxed"
-            ],
-            "rightAnswer": "B",
-            "quiz": " REM sleep"
-          },
-          {
-            "quizNumber": 22,
-            "answers": [
-              "A. may cause your extremities to move of their own accord",
-              "B. difficult to awake and unaware of anything",
-              "C. broken down into two separate and distinct stages",
-              "D. forth between deep restorative sleep"
-            ],
-            "rightAnswer": "A",
-            "quiz": "REM sleep"
-          },
-          {
-            "quizNumber": 23,
-            "answers": ["A. B", "B. C", "C. D", "D. E"],
-            "rightAnswer": "B",
-            "quiz": "Differences in sleep patterns between generations"
-          },
-          {
-            "quizNumber": 24,
-            "answers": ["A. H", "B. C", "C. G", "D. E"],
-            "rightAnswer": "C",
-            "quiz": "Brain activity is limited as resources are diverted"
-          },
-          {
-            "quizNumber": 25,
-            "answers": ["A. H", "B. C", "C. G", "D. E"],
-            "rightAnswer": "A",
-            "quiz": "Repetition of the cycle"
-          },
-          {
-            "quizNumber": 26,
-            "answers": ["A. B", "B. I", "C. D", "D. E"],
-            "rightAnswer": "B",
-            "quiz": "Dangers of accumulated lack of sleep"
-          },
-          {
-            "quizNumber": 27,
-            "answers": ["A. B", "B. C", "C. D", "D. E"],
-            "rightAnswer": "D",
-            "quiz": "Increased activity during sleep"
-          }
-        ]
-      },
-      {
-        "passageImg": "https://iotcdn.oss-ap-southeast-1.aliyuncs.com/2021-04/Constellation-01.png",
-        "subTitle": "Constellation",
-        "passageContent": [
-          "A. A constellation is a group of stars which when viewed collectively appear to have a physical proximity’ in the sky. Constellation boundaries and definitions as used today in Western culture, and as defined by the International Astronomical Union (IAU), were formalised in 1930 by Eugene Delporte. There are 88 official constellations as recognised by the IAU, those visible in the northern hemisphere being based upon those established by the ancient Greeks, The constellations of the southern hemisphere – since invisible to the Greeks due to geographical location – were not defined until later in the early modem era.",
-          "B. Arguably, the twelve constellations through which the sun passes – as used to represent the signs of the zodiac to define birth characteristics – are the most culturally significant and well known of those established by the ancient Greeks. Cultural differences in Interpretation and definition of star constellations mainly relate to these zodiac interpretations, Chinese constellations, for example, which are different to those defined in the western world due to the independent development of ancient Chinese astronomy, includes 28 ‘Xiu’ or ‘mansions’ instead of the 12 western zodiac counterparts. In Hindu/Vedic astronomy, in which constellations are known as ‘rashis’, 12 rashi corresponding directly to the twelve western star signs are acknowledged; these are however, divided again into 27 ‘Nakshatras’ or ’lunar houses’. Many cultures have an intricate mythology behind the stars and their constellations. In Greek mythology, for example Pegasus, the winged horse, is said to have sprung from the decapitated head of Medusa, and later was used by the God King Zeus to carry thunder and lightning to Earth, before being put into a constellation.",
-          "C. In Western astronomy, all modern constellation names derive from Latin, some stars within the constellations are named using the genitive form of the Latin word by using the usual rules of Latin grammar. For example the zodiac sign for the Fish constellation Pisces relates to Piscium. In addition, all constellation names have a standard three-letter abbreviation as assigned by the IAU, under which, for example, Pisces becomes PSC.",
-          "D. Some star patterns often wrongly considered constellations by laymen are actually ‘asterisms’ – a group of stars that appear to form patterns in the sky -and are not in fact one of the 88 officially divided areas truly defined as a constellation. A famous example of an asterism oft mistaken for a constellation is the Big Dipper’ (as it is termed in North America) or the ‘Plough’ as it is known in the UK. In astronomical terms, this famous star formation is in fact considered only part of the larger constellation known as Ursa Major.",
-          "E. In order to identify the position of stars relative to the Earth, there are a number of different celestial coordinate systems that cart provide a detailed reference point in space. There are many different systems, all of which are largely similar with the exception of a difference in the position of the fundamental plane – the division between northern and southern hemispheres. The five most common celestial systems are the Horizontal system, the Equatorial system, the Ecliptical system, the Galactic system and the Supergalactic system.",
-          "F. The launch of the Hubble space telescope in April 1990 changed the way that astronomers saw the universe, providing detailed digital images of constellations, planets and gas- clouds that had never been seen before. Compared to ground-based telescopes, Hubble is not particularly large. With a primary mirror diameter of 2.4 meters (94.5 inches). Hubble would be considered a medium-size telescope on the ground. However, the combination of its precision optics, state-of-the-art instrumentation, and unprecedented pointing stability and control, allows Hubble to more than make up for its lack of size, giving it a range of well over 12 billion light years.",
-          "G. The telescope’s location above the Earth’s atmosphere also has a number of significant advantages over land based telescopes. The atmosphere bends light due to a phenomenon known as diffraction (this is what causes starlight to appear to twinkle and leads to the often blurred images seen through ground-based telescopes). The Hubble Space Telescope can also observe infrared light that would otherwise be blocked by the atmosphere as the wavelength (distance between successive wave crests) of ultraviolet light is shorter than that of visible light.",
-          "H. Despite early setbacks – one of the reflective mirrors had to be replaced after finding that it had been ground incorrectly and did not produce the images expected – the telescope has reignited interest in space amongst the general public – a requirement, given that taxpayer funding paid for the research, deployment and maintenance of the telescope."
-        ],
-        "questionTitle": [
-          "The reading passage has nine paragraphs, A-H.Which paragraph contains the following information?",
-          "Complete the sentence",
-          "Complete the sentence"
-        ],
-        "questions": [
-          {
-            "quizNumber": 28,
-            "answers": ["A. B", "B. C", "C. D ", "D. E"],
-            "rightAnswer": "D",
-            "quiz": "Different methods of locating and identifying"
-          },
-          {
-            "quizNumber": 29,
-            "answers": ["A. B", "B. F", "C. D ", "D. E"],
-            "rightAnswer": "B",
-            "quiz": "A better view of the constellations"
-          },
-          {
-            "quizNumber": 30,
-            "answers": ["A. B", "B. C", "C. D", "D. E"],
-            "rightAnswer": "A",
-            "quiz": "Different interpretations of star groupings"
-          },
-          {
-            "quizNumber": 31,
-            "answers": ["A. H", "B. C", "C. D", "D. G"],
-            "rightAnswer": "C",
-            "quiz": "Common misconceptions"
-          },
-          {
-            "quizNumber": 32,
-            "answers": ["A. B", "B. C", "C. G", "D. E"],
-            "rightAnswer": "C",
-            "quiz": "Bypassing terrestrial limitations"
-          },
-          {
-            "quizNumber": 33,
-            "answers": ["A. B", "B. A", "C. D", "D. E"],
-            "rightAnswer": "B",
-            "quiz": "rmal marking of constellations"
-          },
-          {
-            "quizNumber": 34,
-            "answers": ["A. H", "B. C", "C. D", "D. E"],
-            "rightAnswer": "A",
-            "quiz": "Universal myths of constellations"
-          },
-          {
-            "quizNumber": 35,
-            "answers": ["A. G", "B. C", "C. A", "D. E"],
-            "rightAnswer": "B",
-            "quiz": "Historical and modern reference"
-          },
-          {
-            "quizNumber": 36,
-            "answers": [
-              "A. mirror ",
-              "B. image",
-              "C. telescope ",
-              "D. deployment"
-            ],
-            "rightAnswer": "A",
-            "quiz": "Despite an initial flaw in a _____"
-          },
-          {
-            "quizNumber": 37,
-            "answers": [
-              "A. the wavelength ",
-              "B. Infrared light",
-              "C. visible light ",
-              "D. ultraviolet light"
-            ],
-            "rightAnswer": "B",
-            "quiz": " he Hubble space telescope is superior to telescopes on land as it can identify _____   which would not normally reach the Earth’s surface."
-          },
-          {
-            "quizNumber": 38,
-            "answers": [
-              "A. precision ",
-              "B. pointing ",
-              "C. control ",
-              "D. medium-size "
-            ],
-            "rightAnswer": "D",
-            "quiz": "This is all the more impressive given that Hubble is only classified as a _____   telescope."
-          },
-          {
-            "quizNumber": 39,
-            "answers": [
-              "A. phenomenon ",
-              "B. diffraction ",
-              "C. atmosphere ",
-              "D. starlight"
-            ],
-            "rightAnswer": "B",
-            "quiz": "Being above the atmosphere, it also has the advantages of not being affected by _____"
-          },
-          {
-            "quizNumber": 40,
-            "answers": ["A. blurred ", "B. observe", "C. bends", "D. above"],
-            "rightAnswer": "A",
-            "quiz": "which would otherwise lead to _____  images."
-          }
-        ]
-      }
+      [
+        {
+          "test_name": "IELTS Mock Test 2021 May",
+          "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-05_1.png",
+          "passageImg": "https://iotcdn.oss-ap-southeast-1.aliyuncs.com/2021-04/Everest%20and%20Hillary-01.png",
+          "subTitle": "MOUNT EVEREST AND HILLARY",
+          "passageContent": [
+            "Mount Everest, also known as Sagarmartha (Goddess of the Sky), is 8,348 metres tall, the highest mountain on earth above sea level. Formed about 60 million years ago and lying between Tibet and Nepal, Mount Everest appeals to climbers of every level, from novice to experienced climber. Each mountaineer pays a considerable amount of money to an experienced guide to help them achieve a successful climb. Everest was given its official English name in 1865 by the Royal Geographic Society upon recommendation of Andrew Waugh, the British Surveyor General of India at the time.",
+            "When Everest was officially announced as the world’s highest mountain in 1852, it won interest from people all over the world, and the idea of climbing all (lie way to the summit was viewed as the ultimate feat. Nobody was able to climb Everest until 1920 when Tibet first opened its borders to outsiders, and between 1920 and 1952, seven major expeditions failed to reach the tip of Mount Everest, In fact, the mountain has a history of adversity and failure. With advances in climbing equipment in the last ten years or so, and more experienced guides, the fatality rates have dropped from 37% in 1990 to 4% in 2004. Nonetheless, the deadliest year in Mount Everest’s history was 1996, when 19 people died near the summit.",
+            "In 1924, Mount Everest claimed the lives of its first two climbers. George Mallory and Andrew Irvine were two British climbers, attempting to reach the summit. The men were last seen heading for the top of the mountain until clouds surrounded Everest and they disappeared. Mallory’s body was not seen again until 75 years on, in May of 1999, and Irvine’s body is yet to be found. There is still no evidence as to whether these two men made it to the top or not, although disputes rages on, Those that believe the pair were the first; to climb Everest point to two specific points, firstly, Mallory’s daughter has always said that Mallory carried a photograph of his wife on his person with the intention of leaving it on the summit when he reached it. This photo was not found on the body when it was discovered. Secondly, Mallory’s snow’ goggles were in his pocket when the body was found, indicating that he died at night. This implies that he and Irvine had made a push for the summit and were descending very late in the day. Given their known departure time and movements, had they not made the summit, it is unlikely that they would have still been out by nightfall.",
+            "The first time the actual peak of this monstrous mountain was reached was in 1953, in a combined effort by Sir Edmund Hillary and Tenzing Norgay. On the 29th of May that year, the duo conquered this epic mountain, standing at the highest point in the world for a brief 15 minutes. After a brief but fruitless search for evidence of the 1924 Mallory expedition, they buried a cross and some candy in the snow, taking a few photographs of the historic event. As Norgay had never operated a camera, there are no photographs of Hillary on top of the mountain, just shots of Norgay, and some additional photos looking down the mountain, ensuring evidence of their conquest and that the ascent was not faked.",
+            "When the news reached London on June 2nd, Sir Edmund Hillary was knighted in the Order of the British Empire and Norgay (a subject of the King of Nepal) was granted the George Medai by the UK, Sir Hillary turned to Antarctic exploration and led the New Zealand section of the Trans-Antarctic expedition from 1955 to 1958. In 1958, he took part in a mechanised expedition to the South Pole. Hillary continued to organise further mountain- climbing expeditions but, as the years passed, he became more and more concerned with the welfare of the Nepalese people. In the 1960s, he returned to Nepal, to aid in the development of the society, building clinics, hospitals and schools. After conquering Everest, Sir Edmund Hillary devoted most of his life to helping the Sherpa people of Nepal through the Himalayan Trust.",
+            "In January 2007, Sir Edmund Hillary went to Antarctica to commemorate the 50th anniversary of the founding of Scott Base. He flew to the station on 18 January 2007 with a delegation including the Prime Minister. On the 22nd of April 2007, while on a trip to Kathmandu, he was reported to have suffered a fall. There was no comment on the nature of his illness and lie did not immediately seek treatment. He was hospitalized after returning to New Zealand. Sadly, Sir Edmund Hillary died of a heart attack on the morning of January the 11th 2008. Hillary’s life was marked by wonderful achievements, his giving nature, grand discovery, and excitement. But he was a humble man who did not admit to being the first man to reach the summit of Everest until long after 1386, well after the death of his climbing companion Tenzing Norgay.",
+            "The latest record for climbing Mount Everest was set on the 30th of May in 2005 by Nepalese Mona Mulepati and PemDorje Sherpa, who were the first couple to get married on top of Mount Everest."
+          ],
+          "questionTitle": [
+            "Answer the questions",
+            "Do the following statements agree with the information given in the reading passage?"
+          ],
+          "questions": [
+            {
+              "quizNumber": 1,
+              "answers": [
+                "A. Andrew Waugh",
+                "B. Andrew Irvine",
+                "C. George Mallory",
+                "D. Sir Edmund Hillary"
+              ],
+              "rightAnswer": "A",
+              "quiz": "Who suggested that the name Everest be used to refer to the mountain?"
+            },
+            {
+              "quizNumber": 2,
+              "answers": ["A. England", "B. Tibet", "C. India", "D. America"],
+              "rightAnswer": "B",
+              "quiz": "Which country prevented explorers climbing Everest until 1920?"
+            },
+            {
+              "quizNumber": 3,
+              "answers": [
+                "A. Maloy’s backpack",
+                "B. Climbing equipment",
+                "C. Irvine’s hand",
+                "D. Irvine’s body"
+              ],
+              "rightAnswer": "D",
+              "quiz": "What has not yet been recovered?"
+            },
+            {
+              "quizNumber": 4,
+              "answers": [
+                "A. A photograph",
+                "B. Snow goggles",
+                "C. Climbing",
+                "D.  Backpack"
+              ],
+              "rightAnswer": "A",
+              "quiz": "What was not found on Mallory’s body that indicates he may have reached the summit?"
+            },
+            {
+              "quizNumber": 5,
+              "answers": [
+                "A. Maloy",
+                "B. Tenzing Norgay",
+                "C.Irvine",
+                "D. Sir Edmund Hillary "
+              ],
+              "rightAnswer": "B",
+              "quiz": "Who was photographed at the top of the mountain?"
+            },
+            {
+              "quizNumber": 6,
+              "answers": [
+                "A. Kathmandu",
+                "B. Tenzing Norgay ",
+                "C. Himalayan Trust",
+                "D. Mount Everest"
+              ],
+              "rightAnswer": "C",
+              "quiz": "What was the name of Hillary’s charitable organisation?"
+            },
+            {
+              "quizNumber": 7,
+              "answers": ["A. True", "B. False ", "C. Not Given"],
+              "rightAnswer": "B",
+              "quiz": "Mortality rates on Everest have consistently declined since 1990."
+            },
+            {
+              "quizNumber": 8,
+              "answers": ["A. True", "B. False ", "C. Not Given"],
+              "rightAnswer": "B",
+              "quiz": "Hillary found evidence of the Mallory expedition."
+            },
+            {
+              "quizNumber": 9,
+              "answers": ["A. True", "B. False", "C. Not Given"],
+              "rightAnswer": "A",
+              "quiz": "Photographs were taken from the summit as proof of the Hillary/ Norgay climb."
+            },
+            {
+              "quizNumber": 10,
+              "answers": ["A. True", "B. False", "C. Not Given"],
+              "rightAnswer": "A",
+              "quiz": "Both Hillary and Norgay received recognition of their achievement from Britain."
+            },
+            {
+              "quizNumber": 11,
+              "answers": ["A. True", "B. False", "C. Not Given"],
+              "rightAnswer": "C",
+              "quiz": "Hillary was the first person to reach the South Pole by mechanised transport."
+            },
+            {
+              "quizNumber": 12,
+              "answers": ["A. True", "B. False", "C. Not Given"],
+              "rightAnswer": "B",
+              "quiz": "Hillary’s death was attributed to an accident that occurred in Kathmandu."
+            }
+          ]
+        },
+        {
+          "passageImg": "https://iotcdn.oss-ap-southeast-1.aliyuncs.com/2021-04/Sleep-01.png",
+          "subTitle": "SLEEP",
+          "passageContent": [
+            "A. Like many things about your body, scientists and medical professionals still have a lot to learn about the process of sleep. One earlier misconception that has now been revised is that the body completely slows down during sleep; it is now dear that the body’s major organs and regulatory systems continue to work actively – the lungs, heart and stomach for example. Another important part of the body also operates at night – the glands and lymph nodes, which strengthen the immune system. This is commonly why the body’s natural immunity is weakened with insufficient sleep.",
+            "B. In some cases, certain systems actually become more active while we sleep. Hormones required for muscle development and growth, for instance, as well as the growth of new nerve cells. In the brain, activity of the pathways needed for learning and memory is increased.",
+            "C. Another common myth about sleep is that the body requires less sleep the older we get. Whilst It is true that babies need 16 hours compared to 9 hours and 8 hours respectively for teenagers and adults, this does not mean that older people need less sleep. However, what is true if that for a number of different factors, they often get less sleep or find their sleep less refreshing. This is because as people age, they spend less time in the deep, restful stages of sleep and are more easily awakened. Older people are also more likely to have medical conditions that affect their sleep, such as insomnia, sleep apnoea and heart problems.",
+            "D. Getting a good sleep is not just a matter of your head hitting the pillow at night and waking up in the morning. Your sleep goes in cycles throughout the night, moving back and forth between deep restorative sleep and more alert stages with dreaming. As the night progresses, you spend more time in a lighter dream sleep.",
+            "E. Sleep patterns can be broken down into two separate and distinct stages – REM and NREM sleep, REM (Rapid Eye Movement) sleep is when you dream. You usually have 3 to 5 periods of REM sleep each night, lasting from 5 minutes to over an hour, during which time your body’s activities increase. Breathing becomes fast, shallow and uneven, with an increase in brain activity, heartbeat and blood pressure. Although your major muscles generally don’t move, fingers and toes may twitch and body temperature changes and you may sweat or shiver.",
+            "F. Research has concluded that this sleep is most important for your brain. It is when it is most active, processing emotions and memories and relieving stress. The areas used for learning and developing more skills are activated. In fact, the brain waves measured during REM sleep are similar to those measured when awake.",
+            "G. NREM (Noil-Rapid Eye Movement) sleep is dreamless sleep. NREM sleep consists of four stages of deeper and deeper sleep. As you move through the stages, you become more relaxed, less aware of what is happening around you and more difficult to wake. Your body’s activity will also decrease as you move through the NREM stages, acting in the opposite manner to REM sleep. Stage 1 of NREM sleep is when you are falling to sleep. This period generally lasts between 5 and 10 minutes, during which time you can be woken easily. During stage 2, you are in a light sleep- the in-between stage before your fall into a deep sleep. It lasts about 20 minutes. In stage 3, deep sleep begins, paving the way for stage 4, in which you are difficult to awake and unaware of anything around you. This is when sleep walking and talking can occur. This is the most important stage for your body. Your brain has slowed right down and is recovering. Blood flow is redirected from your brain to your large muscles allowing them to mend any damage from your day at work. People woken quickly from stage 4 sleep often feel a sense of disorientation, which is why it is helpful to use an alarm clock with an ascending ring.",
+            "H. About an hour and a half into your sleep cycle you will go from deep Stage 4 sleep back into light Stage 2 sleep, then into REM sleep, before the cycle begins again. About 75% of your sleep is NREM sleep. If you sleep for eight hours, about six of them will be NREM sleep. As the night progresses, you spend more time in dream sleep and lighter sleep."
+          ],
+          "questionTitle": [
+            "Do the following statements agree with the information, given in the reading passage?",
+            "Choose correct letters",
+            "The reading passage has nine paragraphs, A-I.Which paragraph contains the following information"
+          ],
+          "questions": [
+            {
+              "quizNumber": 13,
+              "answers": ["A. True", "B. False", "C. Not Given"],
+              "rightAnswer": "A",
+              "quiz": "It was previously believed that biological processes slowed during sleep."
+            },
+            {
+              "quizNumber": 14,
+              "answers": ["A. True", "B. False", "C. Not Given"],
+              "rightAnswer": "C",
+              "quiz": "Teenagers lose less sleep than adults when they have a medical condition."
+            },
+            {
+              "quizNumber": 15,
+              "answers": ["A. True", "B. False", "C. Not Given"],
+              "rightAnswer": "B",
+              "quiz": "During the night, our sleep becomes increasingly deep."
+            },
+            {
+              "quizNumber": 16,
+              "answers": ["A. True", "B. False", "C. Not Given"],
+              "rightAnswer": "A",
+              "quiz": "Lack of sleep can cause heart problems and other medical"
+            },
+            {
+              "quizNumber": 17,
+              "answers": [
+                "A. Stress",
+                "B. Memories",
+                "C. Emotions",
+                "D. Relaxed"
+              ],
+              "rightAnswer": "A",
+              "quiz": "REM sleep can help reduce ______ "
+            },
+            {
+              "quizNumber": 18,
+              "answers": [
+                "A. Measured",
+                "B. Brain waves",
+                "C. The areas",
+                "D. Skills"
+              ],
+              "rightAnswer": "B",
+              "quiz": "During REM sleep, ______  are similar to those recorded whilst awake."
+            },
+            {
+              "quizNumber": 19,
+              "answers": ["A. Woken", "B. Through", "C. Aware", "D. Falling"],
+              "rightAnswer": "B",
+              "quiz": "During Stage 1 NREM sleep, you can be ______  with little effort."
+            },
+            {
+              "quizNumber": 20,
+              "answers": [
+                "A. Blood",
+                "B. Brain",
+                "C. Disorientation",
+                "D. Ascending"
+              ],
+              "rightAnswer": "C",
+              "quiz": "Suddenly being woken from deep sleep can cause ______  "
+            },
+            {
+              "quizNumber": 21,
+              "answers": [
+                "A. is more common for younger people",
+                "B. is when we dream",
+                "C. lasts about an hour a night",
+                "D. is when the brain is most relaxed"
+              ],
+              "rightAnswer": "B",
+              "quiz": " REM sleep"
+            },
+            {
+              "quizNumber": 22,
+              "answers": [
+                "A. may cause your extremities to move of their own accord",
+                "B. difficult to awake and unaware of anything",
+                "C. broken down into two separate and distinct stages",
+                "D. forth between deep restorative sleep"
+              ],
+              "rightAnswer": "A",
+              "quiz": "REM sleep"
+            },
+            {
+              "quizNumber": 23,
+              "answers": ["A. B", "B. C", "C. D", "D. E"],
+              "rightAnswer": "B",
+              "quiz": "Differences in sleep patterns between generations"
+            },
+            {
+              "quizNumber": 24,
+              "answers": ["A. H", "B. C", "C. G", "D. E"],
+              "rightAnswer": "C",
+              "quiz": "Brain activity is limited as resources are diverted"
+            },
+            {
+              "quizNumber": 25,
+              "answers": ["A. H", "B. C", "C. G", "D. E"],
+              "rightAnswer": "A",
+              "quiz": "Repetition of the cycle"
+            },
+            {
+              "quizNumber": 26,
+              "answers": ["A. B", "B. I", "C. D", "D. E"],
+              "rightAnswer": "B",
+              "quiz": "Dangers of accumulated lack of sleep"
+            },
+            {
+              "quizNumber": 27,
+              "answers": ["A. B", "B. C", "C. D", "D. E"],
+              "rightAnswer": "D",
+              "quiz": "Increased activity during sleep"
+            }
+          ]
+        },
+        {
+          "passageImg": "https://iotcdn.oss-ap-southeast-1.aliyuncs.com/2021-04/Constellation-01.png",
+          "subTitle": "Constellation",
+          "passageContent": [
+            "A. A constellation is a group of stars which when viewed collectively appear to have a physical proximity’ in the sky. Constellation boundaries and definitions as used today in Western culture, and as defined by the International Astronomical Union (IAU), were formalised in 1930 by Eugene Delporte. There are 88 official constellations as recognised by the IAU, those visible in the northern hemisphere being based upon those established by the ancient Greeks, The constellations of the southern hemisphere – since invisible to the Greeks due to geographical location – were not defined until later in the early modem era.",
+            "B. Arguably, the twelve constellations through which the sun passes – as used to represent the signs of the zodiac to define birth characteristics – are the most culturally significant and well known of those established by the ancient Greeks. Cultural differences in Interpretation and definition of star constellations mainly relate to these zodiac interpretations, Chinese constellations, for example, which are different to those defined in the western world due to the independent development of ancient Chinese astronomy, includes 28 ‘Xiu’ or ‘mansions’ instead of the 12 western zodiac counterparts. In Hindu/Vedic astronomy, in which constellations are known as ‘rashis’, 12 rashi corresponding directly to the twelve western star signs are acknowledged; these are however, divided again into 27 ‘Nakshatras’ or ’lunar houses’. Many cultures have an intricate mythology behind the stars and their constellations. In Greek mythology, for example Pegasus, the winged horse, is said to have sprung from the decapitated head of Medusa, and later was used by the God King Zeus to carry thunder and lightning to Earth, before being put into a constellation.",
+            "C. In Western astronomy, all modern constellation names derive from Latin, some stars within the constellations are named using the genitive form of the Latin word by using the usual rules of Latin grammar. For example the zodiac sign for the Fish constellation Pisces relates to Piscium. In addition, all constellation names have a standard three-letter abbreviation as assigned by the IAU, under which, for example, Pisces becomes PSC.",
+            "D. Some star patterns often wrongly considered constellations by laymen are actually ‘asterisms’ – a group of stars that appear to form patterns in the sky -and are not in fact one of the 88 officially divided areas truly defined as a constellation. A famous example of an asterism oft mistaken for a constellation is the Big Dipper’ (as it is termed in North America) or the ‘Plough’ as it is known in the UK. In astronomical terms, this famous star formation is in fact considered only part of the larger constellation known as Ursa Major.",
+            "E. In order to identify the position of stars relative to the Earth, there are a number of different celestial coordinate systems that cart provide a detailed reference point in space. There are many different systems, all of which are largely similar with the exception of a difference in the position of the fundamental plane – the division between northern and southern hemispheres. The five most common celestial systems are the Horizontal system, the Equatorial system, the Ecliptical system, the Galactic system and the Supergalactic system.",
+            "F. The launch of the Hubble space telescope in April 1990 changed the way that astronomers saw the universe, providing detailed digital images of constellations, planets and gas- clouds that had never been seen before. Compared to ground-based telescopes, Hubble is not particularly large. With a primary mirror diameter of 2.4 meters (94.5 inches). Hubble would be considered a medium-size telescope on the ground. However, the combination of its precision optics, state-of-the-art instrumentation, and unprecedented pointing stability and control, allows Hubble to more than make up for its lack of size, giving it a range of well over 12 billion light years.",
+            "G. The telescope’s location above the Earth’s atmosphere also has a number of significant advantages over land based telescopes. The atmosphere bends light due to a phenomenon known as diffraction (this is what causes starlight to appear to twinkle and leads to the often blurred images seen through ground-based telescopes). The Hubble Space Telescope can also observe infrared light that would otherwise be blocked by the atmosphere as the wavelength (distance between successive wave crests) of ultraviolet light is shorter than that of visible light.",
+            "H. Despite early setbacks – one of the reflective mirrors had to be replaced after finding that it had been ground incorrectly and did not produce the images expected – the telescope has reignited interest in space amongst the general public – a requirement, given that taxpayer funding paid for the research, deployment and maintenance of the telescope."
+          ],
+          "questionTitle": [
+            "The reading passage has nine paragraphs, A-H.Which paragraph contains the following information?",
+            "Complete the sentence",
+            "Complete the sentence"
+          ],
+          "questions": [
+            {
+              "quizNumber": 28,
+              "answers": ["A. B", "B. C", "C. D ", "D. E"],
+              "rightAnswer": "D",
+              "quiz": "Different methods of locating and identifying"
+            },
+            {
+              "quizNumber": 29,
+              "answers": ["A. B", "B. F", "C. D ", "D. E"],
+              "rightAnswer": "B",
+              "quiz": "A better view of the constellations"
+            },
+            {
+              "quizNumber": 30,
+              "answers": ["A. B", "B. C", "C. D", "D. E"],
+              "rightAnswer": "A",
+              "quiz": "Different interpretations of star groupings"
+            },
+            {
+              "quizNumber": 31,
+              "answers": ["A. H", "B. C", "C. D", "D. G"],
+              "rightAnswer": "C",
+              "quiz": "Common misconceptions"
+            },
+            {
+              "quizNumber": 32,
+              "answers": ["A. B", "B. C", "C. G", "D. E"],
+              "rightAnswer": "C",
+              "quiz": "Bypassing terrestrial limitations"
+            },
+            {
+              "quizNumber": 33,
+              "answers": ["A. B", "B. A", "C. D", "D. E"],
+              "rightAnswer": "B",
+              "quiz": "rmal marking of constellations"
+            },
+            {
+              "quizNumber": 34,
+              "answers": ["A. H", "B. C", "C. D", "D. E"],
+              "rightAnswer": "A",
+              "quiz": "Universal myths of constellations"
+            },
+            {
+              "quizNumber": 35,
+              "answers": ["A. G", "B. C", "C. A", "D. E"],
+              "rightAnswer": "B",
+              "quiz": "Historical and modern reference"
+            },
+            {
+              "quizNumber": 36,
+              "answers": [
+                "A. mirror ",
+                "B. image",
+                "C. telescope ",
+                "D. deployment"
+              ],
+              "rightAnswer": "A",
+              "quiz": "Despite an initial flaw in a _____"
+            },
+            {
+              "quizNumber": 37,
+              "answers": [
+                "A. the wavelength ",
+                "B. Infrared light",
+                "C. visible light ",
+                "D. ultraviolet light"
+              ],
+              "rightAnswer": "B",
+              "quiz": " he Hubble space telescope is superior to telescopes on land as it can identify _____   which would not normally reach the Earth’s surface."
+            },
+            {
+              "quizNumber": 38,
+              "answers": [
+                "A. precision ",
+                "B. pointing ",
+                "C. control ",
+                "D. medium-size "
+              ],
+              "rightAnswer": "D",
+              "quiz": "This is all the more impressive given that Hubble is only classified as a _____   telescope."
+            },
+            {
+              "quizNumber": 39,
+              "answers": [
+                "A. phenomenon ",
+                "B. diffraction ",
+                "C. atmosphere ",
+                "D. starlight"
+              ],
+              "rightAnswer": "B",
+              "quiz": "Being above the atmosphere, it also has the advantages of not being affected by _____"
+            },
+            {
+              "quizNumber": 40,
+              "answers": ["A. blurred ", "B. observe", "C. bends", "D. above"],
+              "rightAnswer": "A",
+              "quiz": "which would otherwise lead to _____  images."
+            }
+          ]
+        }
+      ]
     ],
     "june_2021": [
-      {
-        "test_name": "IELTS Mock Test 2021 June",
-        "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-06.png",
-        "passageImg": "https://iotcdn.oss-ap-southeast-1.aliyuncs.com/2021-05/Hot%20air%20ballooning-01.png",
-        "subTitle": "HOT AIR BALLOONING",
-        "passageContent": [
-          "The birth of the hot air balloon is largely contributed to the efforts of two French brothers, Joseph and Etienne Montgolfier, who employed the fact that hot air was lighter than cool air and using this, managed to lift a small silk balloon 32 metres into the air. The brothers went on to elevate a balloon into the air ten thousand metres before it started to descend and then exploded. Arguably limited success, but their work came to the eye of the French Science Academy as the discovery of the properties of hot air balloons helped scientists to study weather patterns and the atmosphere.",
-          "It was not until some considerable time later that a balloon was launched that was capable of carrying passengers. Initial flights were trialled by animals, but after the success of these voyages, two passengers, Jean Francois Pilatre and Francois Laurent d’Arlendes, were sent up in a balloon which travelled across Paris for 29 minutes. The men fuelled the fire in the centre of their wicker basket to keep the balloon elevated and the trip across Paris was a great success.",
-          "The discovery of hydrogen-fuelled flights led to the death in 1785 of Pilatre, a tragedy which caused a downfall in the popularity of hot air ballooning but an increase in the popularity of hydrogen. Hot air ballooning lost further ground when alternate modes of air travel were introduced» but in the 1950s, ballooning experienced something of a revival as a leisure activity and sport. Today there are balloons of all shapes and sizes, with many unique designs.",
-          "In 1987, British entrepreneur Richard Branson crossed the Atlantic in a balloon named Virgin Atlantic Flyer. At the time, this balloon was the largest ever constructed at 65 thousand cubic metres, but four years later, he and Per Lindstrand from Sweden flew nearly 8000 kilometres from Japan to Northern Canada in their balloon the Virgin Pacific Flyer, which was nearly 10 thousand cubic metres bigger and was the longest flight in a hot air balloon ever made. The Pacific Flyer was designed to fly in the trans-oceanic jet streams and recorded the highest ground speed for a manned balloon at 394 kilometres per hour.",
-          "There are now a wide variety of designs and equipment available, from baskets with room for two people right up to 35 or more, separated compartments and specially designed flame resistant fabrics, but the basic parts of the balloon have remained relatively unchanged. There is a basket, commonly made of wicker, inside which are stored the propane fuel tanks. Immediately above the basket and partly wrapped around by the skirt are the burners, attached on suspension wires. The balloon itself is made of strips of fabric called gores which run from the skirt to the top of the balloon; they are further broken into individual panels. This section of the craft is referred to as the envelope. At the top of the envelope is a self closing flap that allows hot air to escape at a controlled rate to slow ascents or cause the balloon to descend descents. This is named the parachute valve, and is controlled by the vent line – the cable that runs the length of the envelope and hangs just above the basket so the pilot can open and close the parachute valve.",
-          "At the mercy of prevailing wind currents, piloting a balloon takes a huge amount of skill but the controls used are fairly straight forward. To lift a balloon the pilot moves the control which releases propane. The pilot can control the speed of the balloon by increasing or decreasing the flow of propane gas, but they cannot control horizontal direction. As a result, balloons are often followed by ground crew, who may have to pick up the pilot, passengers and balloon from any number of landing sites. A pilot who wants to fly a hot air balloon must have his commercial pilot’s license to fly and must have at least 35 hours of flight instruction. There are no official safety requirements for passengers onboard, but they should know whom they’re flying with and what qualifications they may have. For safety reasons, hot air balloons don’t fly in the rain because the heat in the balloon can cause water to boil on top of the balloon and destroy the fabric.",
-          "One of the largest hot air balloon organisations is the Balloon Federation of America. Founded in 1961, membership in the BFA attracts those with a fascination with ballooning (or ‘Lighter Than Air’ flight). With an active discussion forum, meetings and displays all around the USA and beyond, the BFA runs on a number of guiding principles, primarily that the future of ballooning is directly related to the safety of enthusiasts. They run a number of training courses, from a novice who is interested in getting a basic licence to pilot achievement courses. They even boast of a balloon simulator, which although will not directly lead to a pilot’s license, it can give participants a degree of the sensation enjoyed by professional balloon pilots."
-        ],
-        "questionTitle": [
-          "Answer the questions",
-          "Do the following statements agree with the information given in the reading passage?"
-        ],
-        "questions": [
-          {
-            "quizNumber": 1,
-            "answers": ["A. True", "B. False", "C. Not Given"],
-            "rightAnswer": "B",
-            "quiz": "The Montgolfier brothers were the first people to fly in a hot air balloon."
-          },
-          {
-            "quizNumber": 2,
-            "answers": ["A. True", "B. False", "C. Not Given"],
-            "rightAnswer": "A",
-            "quiz": "Hot air ballooning became less popular in the late eighteenth century."
-          },
-          {
-            "quizNumber": 3,
-            "answers": ["A. True", "B. False", "C. Not Given"],
-            "rightAnswer": "B",
-            "quiz": "The largest hot air balloon had a capacity of over 75000 cubic metres."
-          },
-          {
-            "quizNumber": 4,
-            "answers": ["A. True", "B. False", "C. Not Given"],
-            "rightAnswer": "C",
-            "quiz": "Membership of the BFA is only open to people in America."
-          },
-          {
-            "quizNumber": 5,
-            "answers": [
-              "A. Etienne Montgolfier",
-              "B. Joseph",
-              "C.Per Lindstrand",
-              "D. Jean Francois Pilatre "
-            ],
-            "rightAnswer": "C",
-            "quiz": "Who accompanied the entrepreneur on the longest balloon flight?"
-          },
-          {
-            "quizNumber": 6,
-            "answers": [
-              "A. Ground crew",
-              "B. Richard Branson ",
-              "C. Virgin Pacific Flyer",
-              "D. The pilot"
-            ],
-            "rightAnswer": "A",
-            "quiz": "Who follows a hot air balloon’s flight to retrieve the craft when it lands?"
-          },
-          {
-            "quizNumber": 7,
-            "answers": [
-              "A. Balloon simulator",
-              "B. Passengers ",
-              "C. Landing sites",
-              "D. Enthusiasts"
-            ],
-            "rightAnswer": "A",
-            "quiz": "What can give newcomers to the sport some idea of the feeling of flying a balloon?"
-          },
-          {
-            "quizNumber": 8,
-            "answers": [
-              "A. Envelope",
-              "B. Parachute valve ",
-              "C. Gores",
-              "D. Panels"
-            ],
-            "rightAnswer": "B",
-            "quiz": "https://ieltsonlinetests.com/sites/default/files/2018-08/apr%202017%20R1%20Q8-11.png"
-          },
-          {
-            "quizNumber": 9,
-            "answers": [
-              "A. Panels",
-              "B. Gores ",
-              "C. Parachute valve",
-              "D.  Envelope"
-            ],
-            "rightAnswer": "D",
-            "quiz": ""
-          },
-          {
-            "quizNumber": 10,
-            "answers": [
-              "A. Envelope",
-              "B. Gores ",
-              "C. Parachute valve",
-              "D. Panels"
-            ],
-            "rightAnswer": "D",
-            "quiz": ""
-          },
-          {
-            "quizNumber": 11,
-            "answers": [
-              "A. Envelope",
-              "B. Gores ",
-              "C. Parachute valve",
-              "D. Panels"
-            ],
-            "rightAnswer": "B",
-            "quiz": ""
-          }
-        ]
-      },
-      {
-        "passageImg": "https://iotcdn.oss-ap-southeast-1.aliyuncs.com/2021-05/illegal%20downloads-01.png",
-        "subTitle": "ILLEGAL DOWNLOADS",
-        "passageContent": [
-          "A. Downloading music from the internet has become a simple, fast and easy thing to do. The correct or legal way of going about it seems to be ignored by those who find it too costly. Illegal music downloads have reached an all time high, and a recent survey of high school students revealed an estimated 3.6 billion songs being downloaded per month. There are now endless possibilities available to the public where music can be downloaded for free and people are choosing to take this route even though it is illegal. iTunes is one of the most well known sites where music can be bought legally for just over 51 per track. So when it is this cheap why are people still going to alternative unauthorized sites? Or is the legal route still considered a costly way to go about it?",
-          "B. If you think that copying music results in simply a slap on the wrist, think twice. Under government law, record companies are entitled to $750 to $30,000 per infringement but the law allows the jury to increase that to as much as $150,000 per song if it finds the infringements were deliberate. The music industry has threatened about 35,000 people with charges of copyright Infringement over the past decade. In recent months there have been more cases of music piracy heading to the courts. The industry estimates that more than a hundred of these cases remain unsettled in court, with fewer than 10 offenders actively arguing the case against them. The penalties for breaching the copyright act differ slightly depending upon whether the infringing is for commercial or private financial gain, with the latter punishment being far milder.",
-          "C. Nonetheless, the potential gain from illegal downloading versus the punitive measures that can be taken are, in many cases, poles apart. Recently, an American woman shared 27 illegally downloaded songs with her friends and was ordered to pay $1.92 million to the record company for deliberate infringement of the companies’ copyrights. More recently in America a 12 year old girl was sued for downloading music illegally and could face a penalty of $1150per song. The order of payment from the courts to the American woman who shared the 27 tracks with her friends has spurred controversy as the public disagree with the ordered Infringement. The woman shared 27 songs at $1.99 per song, so should she be liable to pay such a large and impossible amount?",
-          "D. It has also been noted that of all measures that can be taken, fining is actually the least likely method of preventing further abuse. With driving, for example, statistics have shown that those that repeatedly drive over the speed limit are not discouraged by the loss of a sum of money, but this attitude quickly changed when the penalty was possibly losing their driving licence or even spending time in prison.",
-          "E. Being a difficult thing to police, the music industry has decided that it would be much easier to go after the internet service provider than to try and track down each individual case. The music industry feels internet piracy has decreased their artists’ sales dramatically and is a danger to their business, although on the other hand, online music sales promote individual tracks to be sold rather than albums, therefore increasing the amount spent by the purchaser.",
-          "F. If there are so many issues around the downloading of music, you might wonder why sales of MP3 players and CD burners are increasing rapidly The answer is simple – these devices do have a legitimate purpose defined as ‘fair use’. You can choose to make your personal back-up copy to use in a MP3 player, or you may visit one of many web sites, like iTunes, which offers music that you pay for as you download. While some may wonder why you would pay for something that can be had for free, those who do prefer to obey the copyright protection laws have purchased over 150 million songs from the iTunes site alone.",
-          "G. Online music sales are a business just like any other and music companies are fighting to salvage their industry. Cary Sherman, the President of RIAA (Recording Industry Association of America), stated that when your product is being regularly stolen, there comes a time when you have to take appropriate action. At the same time, the RIAA has offered amnesty to the illegal downloader who decide to come forward and agree to stop illegally downloading music over the Internet. People who have already been sued are obviously not eligible for amnesty.",
-          "H. When high school students were asked how they felt about the business of downloading illegally from the net, they appeared to be divided on the issue. Some seemed to think there was absolutely nothing wrong with it, others felt that it should be thought of as a serious crime like any other form of theft."
-        ],
-        "questionTitle": [
-          "The reading passage has eight paragraphs, A-H.Which paragraph contains the following information?",
-          "Do the following statements agree with the information given in the reading passage?"
-        ],
-        "questions": [
-          {
-            "quizNumber": 12,
-            "answers": ["A. B", "B. C", "C. H", "D. E"],
-            "rightAnswer": "B",
-            "quiz": "The disparity between fines and costs"
-          },
-          {
-            "quizNumber": 13,
-            "answers": ["A. D", "B. F", "C. B", "D. G"],
-            "rightAnswer": "C",
-            "quiz": "The potential costs of piracy to the defendant"
-          },
-          {
-            "quizNumber": 14,
-            "answers": ["A. A", "B. C", "C. H", "D. F"],
-            "rightAnswer": "A",
-            "quiz": "The number of songs illegally obtained from the internet"
-          },
-          {
-            "quizNumber": 15,
-            "answers": ["A. B", "B. E", "C. G", "D. H"],
-            "rightAnswer": "D",
-            "quiz": "Ambivalence towards the problem"
-          },
-          {
-            "quizNumber": 16,
-            "answers": ["A. D", "B. C", "C. G", "D. F"],
-            "rightAnswer": "B",
-            "quiz": "A reprieve for illegal downloaders"
-          },
-          {
-            "quizNumber": 17,
-            "answers": [
-              "A. 30000 dollars",
-              "B. 150000 dollars",
-              "C. 750 dollars",
-              "D. 25000 dollars"
-            ],
-            "rightAnswer": "A",
-            "quiz": "The maximum fine that a record company can impose is _____ "
-          },
-          {
-            "quizNumber": 18,
-            "answers": [
-              "A. Electrical",
-              "B. Music",
-              "C. Commercial",
-              "D. Penalties"
-            ],
-            "rightAnswer": "C",
-            "quiz": "The penalty for breaking copyright laws is harsher when undertaken for _____. benefit"
-          },
-          {
-            "quizNumber": 19,
-            "answers": [
-              "A. Internet service provider",
-              "B. Track down",
-              "C.  Ssimple",
-              "D. Issues"
-            ],
-            "rightAnswer": "A",
-            "quiz": "The music industry targets each ________. rather than each specific person downloading illegally."
-          },
-          {
-            "quizNumber": 20,
-            "answers": [
-              "A. Actively arguing",
-              "B. Fair use",
-              "C. Music industry",
-              "D. Amnesty"
-            ],
-            "rightAnswer": "B",
-            "quiz": "Appliances used in connection with illegal downloads are sold under the term ______"
-          },
-          {
-            "quizNumber": 21,
-            "answers": ["A. True", "B. False", "C. Not Given"],
-            "rightAnswer": "B",
-            "quiz": " Most people sued for illegal downloading actively fight back against the record company"
-          },
-          {
-            "quizNumber": 22,
-            "answers": ["A. True", "B. False", "C. Not Given"],
-            "rightAnswer": "A",
-            "quiz": " Illegal downloading can be difficult to monitor and control."
-          },
-          {
-            "quizNumber": 23,
-            "answers": ["A. True", "B. False", "C. Not Given"],
-            "rightAnswer": "C",
-            "quiz": "High school students are responsible for illegally downloading the most music."
-          }
-        ]
-      },
-      {
-        "passageImg": "https://iotcdn.oss-ap-southeast-1.aliyuncs.com/2021-05/The%20natural%20world-01.png",
-        "subTitle": "The natural world",
-        "passageContent": [
-          "A. The natural world is dominated by cycles that are constant and repeated – the moon’s rotation around the earth, the changing of the seasons, the changes between night and day. It is these cycles or rhythms that in part control changes in our metabolism, mood and behaviour, and even the patterns of our sleep.",
-          "B. The circadian rhythm is the cycle that indicates when to be awake and when to be asleep. This is a daily cycle that is controlled by changes in amplitude (highs and lows) of light and temperature. As day turns to night, the sun sets and it becomes cooler. The triggers of less light and lower temperatures signal to the body that it is time to slow and begin the pattern of sleep. Of course, there may be many hours between sunset and the time people actually go to bed, but it is from this time that we generally become increasingly less alert and reaction times can be noticeably slower.",
-          "C. There are a number of factors that can affect our circadian rhythm. Working night shifts, which requires people to act in contradiction to the body’s natural rhythm, is perhaps the most damaging. Despite getting a good 8 hours sleep during the day, night shift workers still tend to feel drowsy for at least some of the night. This is the main factor for the increase in workplace accidents on this shift when compared to the day shift. The seasons can also affect our natural rhythm, with people having less energy during winter months when there is less sunlight and warmth to stimulate the brain. International travel, notably when travelling in excess of 4 hours, can also have a significant effect; in extreme cases, it can take up to 7 days for your rhythm to reset due to this, a phenomenon referred to as jet lag. A similar, although milder, effect can be felt in countries with daylight savings time, when the clocks are moved forward and backward depending on the season.",
-          "D. There are some tips for helping your body work with your circadian rhythm. First thing in the morning take a short walk outside or open all the curtains to get as much light as possible through the eyes and into the brain. Lighting levels that affect circadian rhythm in humans are higher than the levels usually used in artificial lighting in homes. In addition to the strength of the light, wavelength (or colour) of light is a factor, the best being that present in sunlight. Plan your work and other activities around the highs and lows of your temperature rhythm. For example, plan easier activities for first thing in the morning when you’re not operating at your physical best. Late morning is better for challenging tasks. After lunch you may feel like nodding off. Take scheduled breaks. The best time to exercise is in the late afternoon – your body temperature reaches its daily high, it is warmed up and stretched from spending your day at work. Avoid driving during sleep times. Sleepy drivers should stop for a nap – playing loud music or leaving windows open is an overrated misconception. At night, close the blinds and curtains and sleep in a dark room. If you work the night shift, use bright lights and music in the workplace to keep your brain alert. Wear an eye mask to block out the light when you want to go to sleep.",
-          "E. Every human – in fact, most non-nocturnal animals – follow the basic rules of the circadian rhythm. However, we also have our own unique body clocks which control the daily changes in how we think and feel, and oversee a number of our personal characteristics such as sleep patterns. Your body clock dictates whether you are a night owl, happy to work late into the night, an early bird who prefers the morning or a humming bird, happy to work both ends of the day. Your body clock determines not only your personal sleep patterns, but also whether or not you are grumpy before you have your morning coffee, when and what you need to eat throughout the day, whether you work better In the morning or the afternoon and the best time for you to do exercise. It also affects physical performance, such as temperature, blood pressure, digestion, hormone levels and brain activity (such as mood, behaviour, and alertness). Your body clock is what causes you to gain a few kilograms in autumn and winter time and to make it easier to lose weight in spring and summer.",
-          "F. Being aware of a few issues can help us maintain the best rhythms for our body docks, but there are some tips and tools for that can help. Keeping to the same bedtime routine and wake-up schedule, even on your days off, is particularly important – there should be no more than a few hours difference in the time you go to bed. Avoiding interruptions to your sleep is also very important. If there is intermittent, irregular noise, use a fan or any white noise device that generates calming sounds. This is particularly important for night shift workers, for whom daytime noises are generally louder; soft, background noise can help drown out daytime activity noises. Eat small frequent meals to help stoke your metabolism. This is not only helpful in weight maintenance, but reinforces the “day” phase of your circadian clock. Eat most of your energy foods earlier in the day and avoid eating a heavy meal near bedtime. Avoid all-nighters, like studying all night before an assessment. Cutting back on sleep the night before may mean that you perform less well. Reduce changes to your work shift, such as changing from night shift to day shift. Avoid alcohol and cigarettes before sleep time. If you feel sleepy during the day, take a short nap. Set an alarm so you sleep for no more than about 20 minutes. Anything more than just a ‘catnap’ and you will enter into Stage 3 (deep sleep) and find it harder to wake up from"
-        ],
-        "questionTitle": [
-          "Do the following statements agree with the information given in the reading passage?",
-          "Complete the sentence"
-        ],
-        "questions": [
-          {
-            "quizNumber": 24,
-            "answers": ["A. True", "B. False", "C. Not Given"],
-            "rightAnswer": "B",
-            "quiz": "Our reactions are at their slowest at sunset."
-          },
-          {
-            "quizNumber": 25,
-            "answers": ["A. True", "B. False", "C. Not Given"],
-            "rightAnswer": "B",
-            "quiz": "There are more accidents on the night shift because workers tend to get less sleep."
-          },
-          {
-            "quizNumber": 26,
-            "answers": ["A. True", "B. False", "C. Not Given"],
-            "rightAnswer": "A",
-            "quiz": "There are more accidents on the night shift because workers tend to get less sleep."
-          },
-          {
-            "quizNumber": 27,
-            "answers": ["A. True", "B. False", "C. Not Given"],
-            "rightAnswer": "B",
-            "quiz": "The circadian rhythm starts when light reaches the brain."
-          },
-          {
-            "quizNumber": 28,
-            "answers": ["A. True", "B. False", "C. Not Given"],
-            "rightAnswer": "B",
-            "quiz": ".  If a driver is tired, taking a short sleep, listening to music or winding down the window are all equally effective measures for keeping awake."
-          },
-          {
-            "quizNumber": 29,
-            "answers": ["A. True", "B. False", "C. Not Given"],
-            "rightAnswer": "B",
-            "quiz": "Humans share the same trends with regards their body clocks."
-          },
-          {
-            "quizNumber": 30,
-            "answers": ["A. True", "B. False", "C. Not Given"],
-            "rightAnswer": "C",
-            "quiz": "Many people take a short rest just after eating lunch."
-          },
-          {
-            "quizNumber": 31,
-            "answers": [
-              "A. Wavelength",
-              "B. Triggers",
-              "C. Factors ",
-              "D. Working night shifts"
-            ],
-            "rightAnswer": "A",
-            "quiz": "As well as the intensity, what else is important in sunlight for our circadian rhythm?"
-          },
-          {
-            "quizNumber": 32,
-            "answers": [
-              "A. During the day",
-              "B. Sunlight ",
-              "C. Sunset ",
-              "D. Late afternoon"
-            ],
-            "rightAnswer": "D",
-            "quiz": "What specific part of the day is the body at its warmest?"
-          },
-          {
-            "quizNumber": 33,
-            "answers": ["A. Pillow ", "B. An eye mask", "C. Blanket", "D. Fan"],
-            "rightAnswer": "B",
-            "quiz": "What should night shift workers use to help them sleep?"
-          },
-          {
-            "quizNumber": 34,
-            "answers": [
-              "A. A humming bird ",
-              "B. Light",
-              "C. Dark room ",
-              "D. Bright lghts"
-            ],
-            "rightAnswer": "A",
-            "quiz": "What type of person works equally well in the morning and the evening?"
-          },
-          {
-            "quizNumber": 35,
-            "answers": [
-              "A. Blood pressure ",
-              "B. Lose weight",
-              "C. Gain a few kilograms ",
-              "D. Digestion"
-            ],
-            "rightAnswer": "B",
-            "quiz": "What does our body clock make it easier to do after the winter?"
-          },
-          {
-            "quizNumber": 36,
-            "answers": [
-              "A. Alcohol and cigarettes",
-              "B. Party",
-              "C. Overnight",
-              "D. Coffee"
-            ],
-            "rightAnswer": "A",
-            "quiz": "What should you avoid before bed to help you get a good night’s sleep?"
-          },
-          {
-            "quizNumber": 37,
-            "answers": ["A. Rhythm ", "B. Sleep", "C. Nap", "D. Alcohol"],
-            "rightAnswer": "A",
-            "quiz": "Keep a good _____ by following routines. Try to sleep and wake at roughly the same times when working and on days off."
-          },
-          {
-            "quizNumber": 38,
-            "answers": ["A. Black ", "B. Blue", "C. Pink", "D. White"],
-            "rightAnswer": "D",
-            "quiz": "Use ______ noise to help you sleep if there are external distractions"
-          },
-          {
-            "quizNumber": 39,
-            "answers": [
-              "A. Noises ",
-              "B. Metabolism",
-              "C. Bedtime",
-              "D. Circadian clock"
-            ],
-            "rightAnswer": "B",
-            "quiz": "Small and regular meals keep your _______ operating at its best"
-          },
-          {
-            "quizNumber": 40,
-            "answers": ["A. Sleep ", "B. Run", "C. Staff", "D. Meal"],
-            "rightAnswer": "A",
-            "quiz": "Limit changes to your work shift, and if necessary take a short _____ during the day."
-          }
-        ]
-      }
+      [
+        {
+          "test_name": "IELTS Mock Test 2021 June",
+          "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-06.png",
+          "passageImg": "https://iotcdn.oss-ap-southeast-1.aliyuncs.com/2021-05/Hot%20air%20ballooning-01.png",
+          "subTitle": "HOT AIR BALLOONING",
+          "passageContent": [
+            "The birth of the hot air balloon is largely contributed to the efforts of two French brothers, Joseph and Etienne Montgolfier, who employed the fact that hot air was lighter than cool air and using this, managed to lift a small silk balloon 32 metres into the air. The brothers went on to elevate a balloon into the air ten thousand metres before it started to descend and then exploded. Arguably limited success, but their work came to the eye of the French Science Academy as the discovery of the properties of hot air balloons helped scientists to study weather patterns and the atmosphere.",
+            "It was not until some considerable time later that a balloon was launched that was capable of carrying passengers. Initial flights were trialled by animals, but after the success of these voyages, two passengers, Jean Francois Pilatre and Francois Laurent d’Arlendes, were sent up in a balloon which travelled across Paris for 29 minutes. The men fuelled the fire in the centre of their wicker basket to keep the balloon elevated and the trip across Paris was a great success.",
+            "The discovery of hydrogen-fuelled flights led to the death in 1785 of Pilatre, a tragedy which caused a downfall in the popularity of hot air ballooning but an increase in the popularity of hydrogen. Hot air ballooning lost further ground when alternate modes of air travel were introduced» but in the 1950s, ballooning experienced something of a revival as a leisure activity and sport. Today there are balloons of all shapes and sizes, with many unique designs.",
+            "In 1987, British entrepreneur Richard Branson crossed the Atlantic in a balloon named Virgin Atlantic Flyer. At the time, this balloon was the largest ever constructed at 65 thousand cubic metres, but four years later, he and Per Lindstrand from Sweden flew nearly 8000 kilometres from Japan to Northern Canada in their balloon the Virgin Pacific Flyer, which was nearly 10 thousand cubic metres bigger and was the longest flight in a hot air balloon ever made. The Pacific Flyer was designed to fly in the trans-oceanic jet streams and recorded the highest ground speed for a manned balloon at 394 kilometres per hour.",
+            "There are now a wide variety of designs and equipment available, from baskets with room for two people right up to 35 or more, separated compartments and specially designed flame resistant fabrics, but the basic parts of the balloon have remained relatively unchanged. There is a basket, commonly made of wicker, inside which are stored the propane fuel tanks. Immediately above the basket and partly wrapped around by the skirt are the burners, attached on suspension wires. The balloon itself is made of strips of fabric called gores which run from the skirt to the top of the balloon; they are further broken into individual panels. This section of the craft is referred to as the envelope. At the top of the envelope is a self closing flap that allows hot air to escape at a controlled rate to slow ascents or cause the balloon to descend descents. This is named the parachute valve, and is controlled by the vent line – the cable that runs the length of the envelope and hangs just above the basket so the pilot can open and close the parachute valve.",
+            "At the mercy of prevailing wind currents, piloting a balloon takes a huge amount of skill but the controls used are fairly straight forward. To lift a balloon the pilot moves the control which releases propane. The pilot can control the speed of the balloon by increasing or decreasing the flow of propane gas, but they cannot control horizontal direction. As a result, balloons are often followed by ground crew, who may have to pick up the pilot, passengers and balloon from any number of landing sites. A pilot who wants to fly a hot air balloon must have his commercial pilot’s license to fly and must have at least 35 hours of flight instruction. There are no official safety requirements for passengers onboard, but they should know whom they’re flying with and what qualifications they may have. For safety reasons, hot air balloons don’t fly in the rain because the heat in the balloon can cause water to boil on top of the balloon and destroy the fabric.",
+            "One of the largest hot air balloon organisations is the Balloon Federation of America. Founded in 1961, membership in the BFA attracts those with a fascination with ballooning (or ‘Lighter Than Air’ flight). With an active discussion forum, meetings and displays all around the USA and beyond, the BFA runs on a number of guiding principles, primarily that the future of ballooning is directly related to the safety of enthusiasts. They run a number of training courses, from a novice who is interested in getting a basic licence to pilot achievement courses. They even boast of a balloon simulator, which although will not directly lead to a pilot’s license, it can give participants a degree of the sensation enjoyed by professional balloon pilots."
+          ],
+          "questionTitle": [
+            "Answer the questions",
+            "Do the following statements agree with the information given in the reading passage?"
+          ],
+          "questions": [
+            {
+              "quizNumber": 1,
+              "answers": ["A. True", "B. False", "C. Not Given"],
+              "rightAnswer": "B",
+              "quiz": "The Montgolfier brothers were the first people to fly in a hot air balloon."
+            },
+            {
+              "quizNumber": 2,
+              "answers": ["A. True", "B. False", "C. Not Given"],
+              "rightAnswer": "A",
+              "quiz": "Hot air ballooning became less popular in the late eighteenth century."
+            },
+            {
+              "quizNumber": 3,
+              "answers": ["A. True", "B. False", "C. Not Given"],
+              "rightAnswer": "B",
+              "quiz": "The largest hot air balloon had a capacity of over 75000 cubic metres."
+            },
+            {
+              "quizNumber": 4,
+              "answers": ["A. True", "B. False", "C. Not Given"],
+              "rightAnswer": "C",
+              "quiz": "Membership of the BFA is only open to people in America."
+            },
+            {
+              "quizNumber": 5,
+              "answers": [
+                "A. Etienne Montgolfier",
+                "B. Joseph",
+                "C.Per Lindstrand",
+                "D. Jean Francois Pilatre "
+              ],
+              "rightAnswer": "C",
+              "quiz": "Who accompanied the entrepreneur on the longest balloon flight?"
+            },
+            {
+              "quizNumber": 6,
+              "answers": [
+                "A. Ground crew",
+                "B. Richard Branson ",
+                "C. Virgin Pacific Flyer",
+                "D. The pilot"
+              ],
+              "rightAnswer": "A",
+              "quiz": "Who follows a hot air balloon’s flight to retrieve the craft when it lands?"
+            },
+            {
+              "quizNumber": 7,
+              "answers": [
+                "A. Balloon simulator",
+                "B. Passengers ",
+                "C. Landing sites",
+                "D. Enthusiasts"
+              ],
+              "rightAnswer": "A",
+              "quiz": "What can give newcomers to the sport some idea of the feeling of flying a balloon?"
+            },
+            {
+              "quizNumber": 8,
+              "answers": [
+                "A. Envelope",
+                "B. Parachute valve ",
+                "C. Gores",
+                "D. Panels"
+              ],
+              "rightAnswer": "B",
+              "quiz": "https://ieltsonlinetests.com/sites/default/files/2018-08/apr%202017%20R1%20Q8-11.png"
+            },
+            {
+              "quizNumber": 9,
+              "answers": [
+                "A. Panels",
+                "B. Gores ",
+                "C. Parachute valve",
+                "D.  Envelope"
+              ],
+              "rightAnswer": "D",
+              "quiz": ""
+            },
+            {
+              "quizNumber": 10,
+              "answers": [
+                "A. Envelope",
+                "B. Gores ",
+                "C. Parachute valve",
+                "D. Panels"
+              ],
+              "rightAnswer": "D",
+              "quiz": ""
+            },
+            {
+              "quizNumber": 11,
+              "answers": [
+                "A. Envelope",
+                "B. Gores ",
+                "C. Parachute valve",
+                "D. Panels"
+              ],
+              "rightAnswer": "B",
+              "quiz": ""
+            }
+          ]
+        },
+        {
+          "passageImg": "https://iotcdn.oss-ap-southeast-1.aliyuncs.com/2021-05/illegal%20downloads-01.png",
+          "subTitle": "ILLEGAL DOWNLOADS",
+          "passageContent": [
+            "A. Downloading music from the internet has become a simple, fast and easy thing to do. The correct or legal way of going about it seems to be ignored by those who find it too costly. Illegal music downloads have reached an all time high, and a recent survey of high school students revealed an estimated 3.6 billion songs being downloaded per month. There are now endless possibilities available to the public where music can be downloaded for free and people are choosing to take this route even though it is illegal. iTunes is one of the most well known sites where music can be bought legally for just over 51 per track. So when it is this cheap why are people still going to alternative unauthorized sites? Or is the legal route still considered a costly way to go about it?",
+            "B. If you think that copying music results in simply a slap on the wrist, think twice. Under government law, record companies are entitled to $750 to $30,000 per infringement but the law allows the jury to increase that to as much as $150,000 per song if it finds the infringements were deliberate. The music industry has threatened about 35,000 people with charges of copyright Infringement over the past decade. In recent months there have been more cases of music piracy heading to the courts. The industry estimates that more than a hundred of these cases remain unsettled in court, with fewer than 10 offenders actively arguing the case against them. The penalties for breaching the copyright act differ slightly depending upon whether the infringing is for commercial or private financial gain, with the latter punishment being far milder.",
+            "C. Nonetheless, the potential gain from illegal downloading versus the punitive measures that can be taken are, in many cases, poles apart. Recently, an American woman shared 27 illegally downloaded songs with her friends and was ordered to pay $1.92 million to the record company for deliberate infringement of the companies’ copyrights. More recently in America a 12 year old girl was sued for downloading music illegally and could face a penalty of $1150per song. The order of payment from the courts to the American woman who shared the 27 tracks with her friends has spurred controversy as the public disagree with the ordered Infringement. The woman shared 27 songs at $1.99 per song, so should she be liable to pay such a large and impossible amount?",
+            "D. It has also been noted that of all measures that can be taken, fining is actually the least likely method of preventing further abuse. With driving, for example, statistics have shown that those that repeatedly drive over the speed limit are not discouraged by the loss of a sum of money, but this attitude quickly changed when the penalty was possibly losing their driving licence or even spending time in prison.",
+            "E. Being a difficult thing to police, the music industry has decided that it would be much easier to go after the internet service provider than to try and track down each individual case. The music industry feels internet piracy has decreased their artists’ sales dramatically and is a danger to their business, although on the other hand, online music sales promote individual tracks to be sold rather than albums, therefore increasing the amount spent by the purchaser.",
+            "F. If there are so many issues around the downloading of music, you might wonder why sales of MP3 players and CD burners are increasing rapidly The answer is simple – these devices do have a legitimate purpose defined as ‘fair use’. You can choose to make your personal back-up copy to use in a MP3 player, or you may visit one of many web sites, like iTunes, which offers music that you pay for as you download. While some may wonder why you would pay for something that can be had for free, those who do prefer to obey the copyright protection laws have purchased over 150 million songs from the iTunes site alone.",
+            "G. Online music sales are a business just like any other and music companies are fighting to salvage their industry. Cary Sherman, the President of RIAA (Recording Industry Association of America), stated that when your product is being regularly stolen, there comes a time when you have to take appropriate action. At the same time, the RIAA has offered amnesty to the illegal downloader who decide to come forward and agree to stop illegally downloading music over the Internet. People who have already been sued are obviously not eligible for amnesty.",
+            "H. When high school students were asked how they felt about the business of downloading illegally from the net, they appeared to be divided on the issue. Some seemed to think there was absolutely nothing wrong with it, others felt that it should be thought of as a serious crime like any other form of theft."
+          ],
+          "questionTitle": [
+            "The reading passage has eight paragraphs, A-H.Which paragraph contains the following information?",
+            "Do the following statements agree with the information given in the reading passage?"
+          ],
+          "questions": [
+            {
+              "quizNumber": 12,
+              "answers": ["A. B", "B. C", "C. H", "D. E"],
+              "rightAnswer": "B",
+              "quiz": "The disparity between fines and costs"
+            },
+            {
+              "quizNumber": 13,
+              "answers": ["A. D", "B. F", "C. B", "D. G"],
+              "rightAnswer": "C",
+              "quiz": "The potential costs of piracy to the defendant"
+            },
+            {
+              "quizNumber": 14,
+              "answers": ["A. A", "B. C", "C. H", "D. F"],
+              "rightAnswer": "A",
+              "quiz": "The number of songs illegally obtained from the internet"
+            },
+            {
+              "quizNumber": 15,
+              "answers": ["A. B", "B. E", "C. G", "D. H"],
+              "rightAnswer": "D",
+              "quiz": "Ambivalence towards the problem"
+            },
+            {
+              "quizNumber": 16,
+              "answers": ["A. D", "B. C", "C. G", "D. F"],
+              "rightAnswer": "B",
+              "quiz": "A reprieve for illegal downloaders"
+            },
+            {
+              "quizNumber": 17,
+              "answers": [
+                "A. 30000 dollars",
+                "B. 150000 dollars",
+                "C. 750 dollars",
+                "D. 25000 dollars"
+              ],
+              "rightAnswer": "A",
+              "quiz": "The maximum fine that a record company can impose is _____ "
+            },
+            {
+              "quizNumber": 18,
+              "answers": [
+                "A. Electrical",
+                "B. Music",
+                "C. Commercial",
+                "D. Penalties"
+              ],
+              "rightAnswer": "C",
+              "quiz": "The penalty for breaking copyright laws is harsher when undertaken for _____. benefit"
+            },
+            {
+              "quizNumber": 19,
+              "answers": [
+                "A. Internet service provider",
+                "B. Track down",
+                "C.  Ssimple",
+                "D. Issues"
+              ],
+              "rightAnswer": "A",
+              "quiz": "The music industry targets each ________. rather than each specific person downloading illegally."
+            },
+            {
+              "quizNumber": 20,
+              "answers": [
+                "A. Actively arguing",
+                "B. Fair use",
+                "C. Music industry",
+                "D. Amnesty"
+              ],
+              "rightAnswer": "B",
+              "quiz": "Appliances used in connection with illegal downloads are sold under the term ______"
+            },
+            {
+              "quizNumber": 21,
+              "answers": ["A. True", "B. False", "C. Not Given"],
+              "rightAnswer": "B",
+              "quiz": " Most people sued for illegal downloading actively fight back against the record company"
+            },
+            {
+              "quizNumber": 22,
+              "answers": ["A. True", "B. False", "C. Not Given"],
+              "rightAnswer": "A",
+              "quiz": " Illegal downloading can be difficult to monitor and control."
+            },
+            {
+              "quizNumber": 23,
+              "answers": ["A. True", "B. False", "C. Not Given"],
+              "rightAnswer": "C",
+              "quiz": "High school students are responsible for illegally downloading the most music."
+            }
+          ]
+        },
+        {
+          "passageImg": "https://iotcdn.oss-ap-southeast-1.aliyuncs.com/2021-05/The%20natural%20world-01.png",
+          "subTitle": "The natural world",
+          "passageContent": [
+            "A. The natural world is dominated by cycles that are constant and repeated – the moon’s rotation around the earth, the changing of the seasons, the changes between night and day. It is these cycles or rhythms that in part control changes in our metabolism, mood and behaviour, and even the patterns of our sleep.",
+            "B. The circadian rhythm is the cycle that indicates when to be awake and when to be asleep. This is a daily cycle that is controlled by changes in amplitude (highs and lows) of light and temperature. As day turns to night, the sun sets and it becomes cooler. The triggers of less light and lower temperatures signal to the body that it is time to slow and begin the pattern of sleep. Of course, there may be many hours between sunset and the time people actually go to bed, but it is from this time that we generally become increasingly less alert and reaction times can be noticeably slower.",
+            "C. There are a number of factors that can affect our circadian rhythm. Working night shifts, which requires people to act in contradiction to the body’s natural rhythm, is perhaps the most damaging. Despite getting a good 8 hours sleep during the day, night shift workers still tend to feel drowsy for at least some of the night. This is the main factor for the increase in workplace accidents on this shift when compared to the day shift. The seasons can also affect our natural rhythm, with people having less energy during winter months when there is less sunlight and warmth to stimulate the brain. International travel, notably when travelling in excess of 4 hours, can also have a significant effect; in extreme cases, it can take up to 7 days for your rhythm to reset due to this, a phenomenon referred to as jet lag. A similar, although milder, effect can be felt in countries with daylight savings time, when the clocks are moved forward and backward depending on the season.",
+            "D. There are some tips for helping your body work with your circadian rhythm. First thing in the morning take a short walk outside or open all the curtains to get as much light as possible through the eyes and into the brain. Lighting levels that affect circadian rhythm in humans are higher than the levels usually used in artificial lighting in homes. In addition to the strength of the light, wavelength (or colour) of light is a factor, the best being that present in sunlight. Plan your work and other activities around the highs and lows of your temperature rhythm. For example, plan easier activities for first thing in the morning when you’re not operating at your physical best. Late morning is better for challenging tasks. After lunch you may feel like nodding off. Take scheduled breaks. The best time to exercise is in the late afternoon – your body temperature reaches its daily high, it is warmed up and stretched from spending your day at work. Avoid driving during sleep times. Sleepy drivers should stop for a nap – playing loud music or leaving windows open is an overrated misconception. At night, close the blinds and curtains and sleep in a dark room. If you work the night shift, use bright lights and music in the workplace to keep your brain alert. Wear an eye mask to block out the light when you want to go to sleep.",
+            "E. Every human – in fact, most non-nocturnal animals – follow the basic rules of the circadian rhythm. However, we also have our own unique body clocks which control the daily changes in how we think and feel, and oversee a number of our personal characteristics such as sleep patterns. Your body clock dictates whether you are a night owl, happy to work late into the night, an early bird who prefers the morning or a humming bird, happy to work both ends of the day. Your body clock determines not only your personal sleep patterns, but also whether or not you are grumpy before you have your morning coffee, when and what you need to eat throughout the day, whether you work better In the morning or the afternoon and the best time for you to do exercise. It also affects physical performance, such as temperature, blood pressure, digestion, hormone levels and brain activity (such as mood, behaviour, and alertness). Your body clock is what causes you to gain a few kilograms in autumn and winter time and to make it easier to lose weight in spring and summer.",
+            "F. Being aware of a few issues can help us maintain the best rhythms for our body docks, but there are some tips and tools for that can help. Keeping to the same bedtime routine and wake-up schedule, even on your days off, is particularly important – there should be no more than a few hours difference in the time you go to bed. Avoiding interruptions to your sleep is also very important. If there is intermittent, irregular noise, use a fan or any white noise device that generates calming sounds. This is particularly important for night shift workers, for whom daytime noises are generally louder; soft, background noise can help drown out daytime activity noises. Eat small frequent meals to help stoke your metabolism. This is not only helpful in weight maintenance, but reinforces the “day” phase of your circadian clock. Eat most of your energy foods earlier in the day and avoid eating a heavy meal near bedtime. Avoid all-nighters, like studying all night before an assessment. Cutting back on sleep the night before may mean that you perform less well. Reduce changes to your work shift, such as changing from night shift to day shift. Avoid alcohol and cigarettes before sleep time. If you feel sleepy during the day, take a short nap. Set an alarm so you sleep for no more than about 20 minutes. Anything more than just a ‘catnap’ and you will enter into Stage 3 (deep sleep) and find it harder to wake up from"
+          ],
+          "questionTitle": [
+            "Do the following statements agree with the information given in the reading passage?",
+            "Complete the sentence"
+          ],
+          "questions": [
+            {
+              "quizNumber": 24,
+              "answers": ["A. True", "B. False", "C. Not Given"],
+              "rightAnswer": "B",
+              "quiz": "Our reactions are at their slowest at sunset."
+            },
+            {
+              "quizNumber": 25,
+              "answers": ["A. True", "B. False", "C. Not Given"],
+              "rightAnswer": "B",
+              "quiz": "There are more accidents on the night shift because workers tend to get less sleep."
+            },
+            {
+              "quizNumber": 26,
+              "answers": ["A. True", "B. False", "C. Not Given"],
+              "rightAnswer": "A",
+              "quiz": "There are more accidents on the night shift because workers tend to get less sleep."
+            },
+            {
+              "quizNumber": 27,
+              "answers": ["A. True", "B. False", "C. Not Given"],
+              "rightAnswer": "B",
+              "quiz": "The circadian rhythm starts when light reaches the brain."
+            },
+            {
+              "quizNumber": 28,
+              "answers": ["A. True", "B. False", "C. Not Given"],
+              "rightAnswer": "B",
+              "quiz": ".  If a driver is tired, taking a short sleep, listening to music or winding down the window are all equally effective measures for keeping awake."
+            },
+            {
+              "quizNumber": 29,
+              "answers": ["A. True", "B. False", "C. Not Given"],
+              "rightAnswer": "B",
+              "quiz": "Humans share the same trends with regards their body clocks."
+            },
+            {
+              "quizNumber": 30,
+              "answers": ["A. True", "B. False", "C. Not Given"],
+              "rightAnswer": "C",
+              "quiz": "Many people take a short rest just after eating lunch."
+            },
+            {
+              "quizNumber": 31,
+              "answers": [
+                "A. Wavelength",
+                "B. Triggers",
+                "C. Factors ",
+                "D. Working night shifts"
+              ],
+              "rightAnswer": "A",
+              "quiz": "As well as the intensity, what else is important in sunlight for our circadian rhythm?"
+            },
+            {
+              "quizNumber": 32,
+              "answers": [
+                "A. During the day",
+                "B. Sunlight ",
+                "C. Sunset ",
+                "D. Late afternoon"
+              ],
+              "rightAnswer": "D",
+              "quiz": "What specific part of the day is the body at its warmest?"
+            },
+            {
+              "quizNumber": 33,
+              "answers": [
+                "A. Pillow ",
+                "B. An eye mask",
+                "C. Blanket",
+                "D. Fan"
+              ],
+              "rightAnswer": "B",
+              "quiz": "What should night shift workers use to help them sleep?"
+            },
+            {
+              "quizNumber": 34,
+              "answers": [
+                "A. A humming bird ",
+                "B. Light",
+                "C. Dark room ",
+                "D. Bright lghts"
+              ],
+              "rightAnswer": "A",
+              "quiz": "What type of person works equally well in the morning and the evening?"
+            },
+            {
+              "quizNumber": 35,
+              "answers": [
+                "A. Blood pressure ",
+                "B. Lose weight",
+                "C. Gain a few kilograms ",
+                "D. Digestion"
+              ],
+              "rightAnswer": "B",
+              "quiz": "What does our body clock make it easier to do after the winter?"
+            },
+            {
+              "quizNumber": 36,
+              "answers": [
+                "A. Alcohol and cigarettes",
+                "B. Party",
+                "C. Overnight",
+                "D. Coffee"
+              ],
+              "rightAnswer": "A",
+              "quiz": "What should you avoid before bed to help you get a good night’s sleep?"
+            },
+            {
+              "quizNumber": 37,
+              "answers": ["A. Rhythm ", "B. Sleep", "C. Nap", "D. Alcohol"],
+              "rightAnswer": "A",
+              "quiz": "Keep a good _____ by following routines. Try to sleep and wake at roughly the same times when working and on days off."
+            },
+            {
+              "quizNumber": 38,
+              "answers": ["A. Black ", "B. Blue", "C. Pink", "D. White"],
+              "rightAnswer": "D",
+              "quiz": "Use ______ noise to help you sleep if there are external distractions"
+            },
+            {
+              "quizNumber": 39,
+              "answers": [
+                "A. Noises ",
+                "B. Metabolism",
+                "C. Bedtime",
+                "D. Circadian clock"
+              ],
+              "rightAnswer": "B",
+              "quiz": "Small and regular meals keep your _______ operating at its best"
+            },
+            {
+              "quizNumber": 40,
+              "answers": ["A. Sleep ", "B. Run", "C. Staff", "D. Meal"],
+              "rightAnswer": "A",
+              "quiz": "Limit changes to your work shift, and if necessary take a short _____ during the day."
+            }
+          ]
+        }
+      ]
     ],
     "october_2021": [
       [

@@ -38,6 +38,7 @@
     float: left;
     position: relative;
     min-height: 1px;
+    cursor: pointer;
 }
 
 .book-item {
