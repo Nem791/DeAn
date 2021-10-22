@@ -218,6 +218,7 @@ audio, canvas, progress, video {
     height: 30px;
     line-height: 30px;
     color: floralwhite;
+    cursor: pointer;
 }
 
 .listening-icon {

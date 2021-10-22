@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="./css/contact-form.css">
     <link rel="stylesheet" href="./css/footer.css">
     <!-- <link rel="stylesheet" href="./components/loading/loading.css"> -->
-    <title>Document</title>
+    <title>Main</title>
 </head>
 
 <body>
@@ -50,16 +50,16 @@
                                 <div class="container">
                                     <ul>
                                         <li>
-                                            <a class="link-drop-down" href="">Listening</a>
+                                            <a class="link-drop-down" href="./tips.html">Listening</a>
                                         </li>
                                         <li>
-                                            <a class="link-drop-down" href="">Reading</a>
+                                            <a class="link-drop-down" href="./tips.html">Reading</a>
                                         </li>
                                         <li>
-                                            <a class="link-drop-down" href="">Speaking</a>
+                                            <a class="link-drop-down" href="./tips.html">Speaking</a>
                                         </li>
                                         <li>
-                                            <a class="link-drop-down" href="">Writing</a>
+                                            <a class="link-drop-down" href="./tips.html">Writing</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -442,6 +442,7 @@
 <!-- The core Firebase JS SDK is always required and must be listed first -->
 <script src="https://www.gstatic.com/firebasejs/8.9.1/firebase-app.js"></script>
 <script src="https://www.gstatic.com/firebasejs/8.9.1/firebase-auth.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.9.1/firebase-firestore.js"></script>
 
 <script>
     // TODO: Add SDKs for Firebase products that you want to use
@@ -459,6 +460,7 @@
 
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);
+    let db = firebase.firestore();
 </script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"

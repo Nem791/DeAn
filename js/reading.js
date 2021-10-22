@@ -6,13 +6,23 @@ import { calculateScore } from "./calculateScore.js";
 import { changePassage } from "./changePassage.js";
 import { countdownTimer } from "./timer.js";
 
+// Phan biet de load dung test 
+var url_string = location.href;
+var url = new URL(url_string);
+var id = url.searchParams.get("id");
+let test = url.searchParams.get("test") - 1;
+
 function renderTest() {
-  fetch("http://localhost:3000/ielts")
+  fetch("http://localhost:3000/ielts_reading")
     .then((response) => {
       return response.json();
     })
     .then((data) => {
-      console.log(data);
+      data = data.ielts_reading;
+      // render info 
+      document.querySelector('.volume__title').innerText = data[id][0][0].test_name;
+      document.querySelector('.volume__practice-title').innerText = `${document.title} Practice Test ${test + 1}`;
+
       for (let i = 0; i < 3; i++) {
         // render passage
         let splitRight = document.querySelector(".split-right");
@@ -20,8 +30,8 @@ function renderTest() {
         splitRight.appendChild(readingSection.render());
 
         // data cua section hien tai
-        let currentData = data.may_2021[0][i];
-        console.log(currentData.questions.length);
+        let currentData = data[id][test][i];
+        console.log(currentData);
 
         // render hinh anh passage
         let sectionImage =

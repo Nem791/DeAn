@@ -1,0 +1,2938 @@
+{
+  "ielts_listening": {
+    "january_2021": [
+      {
+        "test_name": "IELTS Mock Test 2021 Jannuary",
+        "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-01.png",
+
+        "link": "https://www.youtube.com/embed/Zu5RSC_oxOU",
+        "questions": [
+          {
+            "quizNumber": 1,
+            "answers": ["A. Image A", "B. Image B", "C. Image C", "D. Image D"],
+            "rightAnswer": "A",
+            "quiz": "https://ieltsonlinetests.com/sites/default/files/fileman/Uploads/9/7/6.1.png"
+          },
+          {
+            "quizNumber": 2,
+            "answers": ["A. Image A", "B. Image B", "C. Image C", "D. Image D"],
+            "rightAnswer": "B",
+            "quiz": "https://ieltsonlinetests.com/sites/default/files/fileman/Uploads/9/7/6.1%20(1).png"
+          },
+          {
+            "quizNumber": 3,
+            "answers": [
+              "A. now",
+              "B. in ten minutes' time",
+              "C. at 10 o'clock",
+              "D. in 30 minutes"
+            ],
+            "rightAnswer": "D",
+            "quiz": "When will Ken leave?"
+          },
+          {
+            "quizNumber": 4,
+            "answers": ["A. Image A", "B. Image B", "C. Image C", "D. Image D"],
+            "rightAnswer": "A",
+            "quiz": "https://ieltsonlinetests.com/sites/default/files/fileman/Uploads/9/7/6.2.png"
+          },
+          {
+            "quizNumber": 5,
+            "answers": ["A. none", "B. three", "C. two", "D. a group"],
+            "rightAnswer": "D",
+            "quiz": "How many people will they meet there?"
+          },
+          {
+            "quizNumber": 6,
+            "answers": [
+              "A. nothing",
+              "B. just the fares",
+              "C. less than $40.00",
+              "D. more than $40.00"
+            ],
+            "rightAnswer": "C",
+            "quiz": "How much will the evening cost?"
+          },
+          {
+            "quizNumber": 7,
+            "answers": [
+              "A. before midnight",
+              "B. after midnight",
+              "C. on the last bus",
+              "D. tomorrow morning"
+            ],
+            "rightAnswer": "A",
+            "quiz": "What time does Megan plan to come home?"
+          },
+          {
+            "quizNumber": 8,
+            "answers": ["A. 1", "B. 2", "C. 3", "D. 4"],
+            "rightAnswer": "A",
+            "quiz": "Which number will Ken press: if he wishes to order a cab now?"
+          },
+          {
+            "quizNumber": 9,
+            "answers": ["A. 1", "B. 2", "C. 3", "D. 4"],
+            "rightAnswer": "C",
+            "quiz": "Which number will Ken press: if he wishes to order a cab for later?"
+          },
+          {
+            "quizNumber": 10,
+            "answers": ["A. 1", "B. 5", "C. 3", "D. 4"],
+            "rightAnswer": "B",
+            "quiz": "Which number will Ken press: if he has lost something in a cab?"
+          },
+          {
+            "quizNumber": 11,
+            "answers": ["A. 8:5 am", "B. 8:15 am", "C. 8:25 am", "D. 8:25pm"],
+            "rightAnswer": "C",
+            "quiz": "AIRPORT : flying on British Airways, departing Wednesday at _____"
+          },
+          {
+            "quizNumber": 12,
+            "answers": ["A. coach", "B. professor", "C. player", "D. referee"],
+            "rightAnswer": "A",
+            "quiz": "must have all travel documents ready, transport from Athens Airport by _____ "
+          },
+          {
+            "quizNumber": 13,
+            "answers": ["A. 1", "B. 3", "C. 2", "D. 4"],
+            "rightAnswer": "C",
+            "quiz": "CITY OF ATHENS : hotel accommodation for _____ nights, visiting National Archaeological Museum"
+          },
+          {
+            "quizNumber": 14,
+            "answers": ["A. Friday", "B. Tuesday", "C. Saturday", "D. Monday"],
+            "rightAnswer": "A",
+            "quiz": "dinner at Greek restaurant,free time on _____ evening"
+          },
+          {
+            "quizNumber": 15,
+            "answers": ["A. sailing boat", "B. canoe", "C. media", "D. oven"],
+            "rightAnswer": "A",
+            "quiz": "GREEK ISLANDS : travel by _____, shoppong off ai different islands"
+          },
+          {
+            "quizNumber": 16,
+            "answers": [
+              "A. traditional music",
+              "B. culinary",
+              "C. cultural",
+              "D. tradition"
+            ],
+            "rightAnswer": "A",
+            "quiz": "experience _____ on board"
+          },
+          {
+            "quizNumber": 17,
+            "answers": [
+              "A. expert people",
+              "B. investment",
+              "C. industry",
+              "D. definition"
+            ],
+            "rightAnswer": "A",
+            "quiz": "This tour owes its success to the hard work of _____"
+          },
+          {
+            "quizNumber": 18,
+            "answers": [
+              "A. management",
+              "B. countryt",
+              "C. cultures",
+              "D. organization"
+            ],
+            "rightAnswer": "C",
+            "quiz": "The tour group shares an interest in learning about ancient societies and _____"
+          },
+          {
+            "quizNumber": 19,
+            "answers": [
+              "A. direction",
+              "B. Greek tour",
+              "C. series",
+              "D. strategy"
+            ],
+            "rightAnswer": "B",
+            "quiz": "Complete this baggage label."
+          },
+          {
+            "quizNumber": 20,
+            "answers": ["A. AA6", "B. AC5", "C. AC6", "D. AA3"],
+            "rightAnswer": "D",
+            "quiz": "Complete this baggage label."
+          },
+          {
+            "quizNumber": 21,
+            "answers": [
+              "A. accommodation problems",
+              "B. technology problems",
+              "C. environment problems",
+              "D. marketing problems"
+            ],
+            "rightAnswer": "A",
+            "quiz": "The increase in student numbers from Brazil resulted in _____ "
+          },
+          {
+            "quizNumber": 22,
+            "answers": [
+              "A. hospitality",
+              "B. university",
+              "C. article",
+              "D. audience"
+            ],
+            "rightAnswer": "A",
+            "quiz": "A large number of students from Turkey are studying _____"
+          },
+          {
+            "quizNumber": 23,
+            "answers": [
+              "A. English for marketing",
+              "B. English for environment",
+              "C. English for farming",
+              "D. English for community"
+            ],
+            "rightAnswer": "C",
+            "quiz": "The Indonesian students studied _____  at the Language Learning Centre."
+          },
+          {
+            "quizNumber": 24,
+            "answers": [
+              "A. politics",
+              "B. education",
+              "C. medicine",
+              "D. orientation"
+            ],
+            "rightAnswer": "D",
+            "quiz": "The _____ course helps to settle students down."
+          },
+          {
+            "quizNumber": 25,
+            "answers": [
+              "A. relationship",
+              "B. word of mouth",
+              "C. discussion",
+              "D. insurance"
+            ],
+            "rightAnswer": "B",
+            "quiz": "_____  is the best form of advertising for the Language Learning Centre."
+          },
+          {
+            "quizNumber": 26,
+            "answers": [
+              "A. All students",
+              "B. Beginner",
+              "C. Advanced students"
+            ],
+            "rightAnswer": "C",
+            "quiz": "Non-English Language Courses"
+          },
+          {
+            "quizNumber": 27,
+            "answers": [
+              "A. All students",
+              "B. Beginner",
+              "C. Advanced students"
+            ],
+            "rightAnswer": "A",
+            "quiz": "Jazz Club"
+          },
+          {
+            "quizNumber": 28,
+            "answers": [
+              "A. All students",
+              "B. Beginner",
+              "C. Advanced students"
+            ],
+            "rightAnswer": "C",
+            "quiz": "Drama Society"
+          },
+          {
+            "quizNumber": 29,
+            "answers": [
+              "A. All students",
+              "B. Beginner",
+              "C. Advanced students"
+            ],
+            "rightAnswer": "A",
+            "quiz": "Choral Group"
+          },
+          {
+            "quizNumber": 30,
+            "answers": [
+              "A. All students",
+              "B. Beginner",
+              "C. Advanced students"
+            ],
+            "rightAnswer": "B",
+            "quiz": "Special Conversation Group"
+          },
+          {
+            "quizNumber": 31,
+            "answers": [
+              "A. courses that feature vocational training.",
+              "B. full-time courses.",
+              "C. part-time courses.",
+              "D. research-based courses."
+            ],
+            "rightAnswer": "A",
+            "quiz": "Most postgraduate students are studying"
+          },
+          {
+            "quizNumber": 32,
+            "answers": [
+              "A. take as many diverse subjects as possible.",
+              "B. accept an intellectual challenge.",
+              "C. be sure to have a definite goal.",
+              "D. have already completed training."
+            ],
+            "rightAnswer": "C",
+            "quiz": "Postgraduate students are advised to"
+          },
+          {
+            "quizNumber": 33,
+            "answers": [
+              "A. is of minimal importance.",
+              "B. must be somewhere you like.",
+              "C. must be reasonably priced.",
+              "D. should be based on your course."
+            ],
+            "rightAnswer": "B",
+            "quiz": "The speaker says that where you study"
+          },
+          {
+            "quizNumber": 34,
+            "answers": [
+              "A. the quality of the housing for postgraduate students.",
+              "B. the reputation of the department they work in.",
+              "C. the reputation of the organisation they attend.",
+              "D. the quality of the supervision they receive."
+            ],
+            "rightAnswer": "D",
+            "quiz": "Choosing an institution should be mainly based on"
+          },
+          {
+            "quizNumber": 35,
+            "answers": [
+              "A. libraries and laboratories.",
+              "B. computer support.",
+              "C. medicsecretarial services.",
+              "D. the working environment."
+            ],
+            "rightAnswer": "B",
+            "quiz": "In terms of available facilities, the speaker places more importance on"
+          },
+          {
+            "quizNumber": 36,
+            "answers": [
+              "A. of higher living expenses.",
+              "B. of the moderate work load.",
+              "C. the majority of students are younger.",
+              "D. course deadlines are stricter."
+            ],
+            "rightAnswer": "C",
+            "quiz": "The experience of a postgraduate is different because"
+          },
+          {
+            "quizNumber": 37,
+            "answers": [
+              "A. discussing any problems with a medical professional",
+              "B. joining associations of their peers.",
+              "C. participating in outside community activities.",
+              "D. getting in touch with the student union."
+            ],
+            "rightAnswer": "B",
+            "quiz": "Postgraduates can avoid feeling alone by"
+          },
+          {
+            "quizNumber": 38,
+            "answers": ["A. True", "B. False", "C. Not Given"],
+            "rightAnswer": "A",
+            "quiz": "postgraduates are not eligible for government student loans"
+          },
+          {
+            "quizNumber": 39,
+            "answers": ["A. True", "B. False", "C. Not Given"],
+            "rightAnswer": "B",
+            "quiz": "banks provide facilities for overdrafts"
+          },
+          {
+            "quizNumber": 40,
+            "answers": ["A. True", "B. False", "C. Not Given"],
+            "rightAnswer": "A",
+            "quiz": "Studies are funded from student's own income"
+          }
+        ]
+      },
+      {
+        "link": "https://www.youtube.com/embed/EZZ-3O_fOkw",
+        "questions": [
+          {
+            "quizNumber": 1,
+            "answers": ["A. comedy", "B. various", "C. emotional", "D. scared"],
+            "rightAnswer": "A",
+            "quiz": "The movie Peter and Mary will see is a _____"
+          },
+          {
+            "quizNumber": 2,
+            "answers": [
+              "A. salad",
+              "B. noodles",
+              "C. Cheese biscuits",
+              "D. Salmon"
+            ],
+            "rightAnswer": "B",
+            "quiz": "Afterwards, they will eat _____"
+          },
+          {
+            "quizNumber": 3,
+            "answers": ["A. 9:20 am", "B. 9:15 am", "C. 9:30 am", "D. 9 am"],
+            "rightAnswer": "D",
+            "quiz": "On Sunday, they will start at ______"
+          },
+          {
+            "quizNumber": 4,
+            "answers": ["A. science", "B. situation", "C. depth", "D. recipe"],
+            "rightAnswer": "A",
+            "quiz": "They will study _____"
+          },
+          {
+            "quizNumber": 5,
+            "answers": ["A. Turkey", "B. Herring", "C. Lamb", "D. sandwiches"],
+            "rightAnswer": "D",
+            "quiz": "Later they will eat _____"
+          },
+          {
+            "quizNumber": 6,
+            "answers": ["A. Good", "B. Bad", "C. Average"],
+            "rightAnswer": "A",
+            "quiz": "Mary's opinion : Mr Vernon"
+          },
+          {
+            "quizNumber": 7,
+            "answers": ["A. Good", "B. Bad", "C. Average"],
+            "rightAnswer": "B",
+            "quiz": "Peter's opinion : Mr Harrison"
+          },
+          {
+            "quizNumber": 8,
+            "answers": ["A. Good", "B. Bad", "C. Average"],
+            "rightAnswer": "C",
+            "quiz": "Mary's opinion: Mr Harrison"
+          },
+          {
+            "quizNumber": 9,
+            "answers": ["A. Good", "B. Bad", "C. Average"],
+            "rightAnswer": "C",
+            "quiz": "Peter's opinion : Ms Whitehead"
+          },
+          {
+            "quizNumber": 10,
+            "answers": ["A. Good", "B. Bad", "C. Average"],
+            "rightAnswer": "B",
+            "quiz": "Marry's opinion : Ms Whitehead"
+          },
+          {
+            "quizNumber": 11,
+            "answers": [
+              "A. passion",
+              "B. collection",
+              "C. sinks",
+              "D. resource"
+            ],
+            "rightAnswer": "C",
+            "quiz": "Washing Hands: signs and _____ available"
+          },
+          {
+            "quizNumber": 12,
+            "answers": ["A. spray", "B. seem", "C. follow", "D. stand"],
+            "rightAnswer": "A",
+            "quiz": "Washing Hands : must also _____ "
+          },
+          {
+            "quizNumber": 13,
+            "answers": [
+              "A. global",
+              "B. impossible",
+              "C. special care",
+              "D. competitive"
+            ],
+            "rightAnswer": "C",
+            "quiz": "Washing Hands: hands in the _____ nursery"
+          },
+          {
+            "quizNumber": 14,
+            "answers": ["A. 3", "B. 5", "C. 4", "D. 2"],
+            "rightAnswer": "A",
+            "quiz": "Visitors : maximun _____ "
+          },
+          {
+            "quizNumber": 15,
+            "answers": [
+              "A. visitor gate",
+              "B. severe",
+              "C. foreign",
+              "D. unusual"
+            ],
+            "rightAnswer": "A",
+            "quiz": "Vistors : must pass through _____"
+          },
+          {
+            "quizNumber": 16,
+            "answers": ["A. banned", "B. ebanned", "C. cause", "D. try"],
+            "rightAnswer": "A",
+            "quiz": "Smoking : _____ in and around the hospital"
+          },
+          {
+            "quizNumber": 17,
+            "answers": ["A. security", "B. debate", "C. scene", "D. finding"],
+            "rightAnswer": "A",
+            "quiz": "Smoking:  _____will enforce this."
+          },
+          {
+            "quizNumber": 18,
+            "answers": [
+              "A. Western Wing",
+              "B. Rear Annex",
+              "C. Matheson Building"
+            ],
+            "rightAnswer": "A",
+            "quiz": "opened first?"
+          },
+          {
+            "quizNumber": 19,
+            "answers": [
+              "A. Western Wing",
+              "B. Rear Annex",
+              "C. Matheson Building"
+            ],
+            "rightAnswer": "C",
+            "quiz": "has the maternity ward?"
+          },
+          {
+            "quizNumber": 20,
+            "answers": [
+              "A. Western Wing",
+              "B. Rear Annex",
+              "C. Matheson Building"
+            ],
+            "rightAnswer": "A",
+            "quiz": "was damaged in the fire?"
+          },
+          {
+            "quizNumber": 21,
+            "answers": [
+              "A. assignments",
+              "B. competition",
+              "C. distribution",
+              "D. president"
+            ],
+            "rightAnswer": "A",
+            "quiz": "The student is having problems with his _____ "
+          },
+          {
+            "quizNumber": 22,
+            "answers": ["A. reading text", "B. provide", "C. ask", "D. agree"],
+            "rightAnswer": "A",
+            "quiz": "so the lecturer recommends writing a summary at the end of each _____"
+          },
+          {
+            "quizNumber": 23,
+            "answers": [
+              "A. list of painting",
+              "B. list of moment",
+              "C. list of details",
+              "D. list of office"
+            ],
+            "rightAnswer": "C",
+            "quiz": "These must not just be a _____ "
+          },
+          {
+            "quizNumber": 24,
+            "answers": ["A. pay ", "B. leave", "C. include", "D. purpose"],
+            "rightAnswer": "D",
+            "quiz": "but instead contain the main point or _____ "
+          },
+          {
+            "quizNumber": 25,
+            "answers": [
+              "A. mental",
+              "B. most important",
+              "C. intelligent",
+              "D. insurfederal"
+            ],
+            "rightAnswer": "B",
+            "quiz": "Being short is the _____  issue in this type of writing."
+          },
+          {
+            "quizNumber": 26,
+            "answers": [
+              "A. author's wife",
+              "B. author's son",
+              "C. author's name ",
+              "D. author's daughter"
+            ],
+            "rightAnswer": "C",
+            "quiz": "https://ieltsonlinetests.com/sites/default/files/2018-03/2018-08-02_15-41-55.png"
+          },
+          {
+            "quizNumber": 27,
+            "answers": [
+              "A. bullet points",
+              "B. wood points",
+              "C. member points",
+              "D. customer points"
+            ],
+            "rightAnswer": "A",
+            "quiz": "citation details in _____"
+          },
+          {
+            "quizNumber": 28,
+            "answers": [
+              "A. inflation",
+              "B. appearance",
+              "C. qoute",
+              "D. expression"
+            ],
+            "rightAnswer": "C",
+            "quiz": "used later whenever students paraphrase or _____ from the text"
+          },
+          {
+            "quizNumber": 29,
+            "answers": [
+              "A. foundation",
+              "B. appearance",
+              "C. perspective",
+              "D. recipe"
+            ],
+            "rightAnswer": "A",
+            "quiz": "Older books require a  _____ about why they are used."
+          },
+          {
+            "quizNumber": 30,
+            "answers": ["A. helpful", "B. logical", "C. huge", "D. critical"],
+            "rightAnswer": "B",
+            "quiz": "Stored using _____ order"
+          },
+          {
+            "quizNumber": 31,
+            "answers": [
+              "A. are also called ‘joeys’.",
+              "B. like forest and bushland.",
+              "C. exist in large numbers."
+            ],
+            "rightAnswer": "C",
+            "quiz": "Kangaroos"
+          },
+          {
+            "quizNumber": 32,
+            "answers": [
+              "A. involve rifles.",
+              "B. occur twice a year.",
+              "C. started recently."
+            ],
+            "rightAnswer": "A",
+            "quiz": "'Culls’"
+          },
+          {
+            "quizNumber": 33,
+            "answers": [
+              "A. popular in Australia.",
+              "B. healthier",
+              "C. sometimes given to pets.."
+            ],
+            "rightAnswer": "C",
+            "quiz": "Kangaroo meat is"
+          },
+          {
+            "quizNumber": 34,
+            "answers": [
+              "A. patience",
+              "B. memory",
+              "C. debt",
+              "D. environment"
+            ],
+            "rightAnswer": "D",
+            "quiz": "https://ieltsonlinetests.com/sites/default/files/2018-03/2018-08-02_15-52-49.png"
+          },
+          {
+            "quizNumber": 35,
+            "answers": ["A. aware", "B. harmony", "C. hungry", "D. suitable"],
+            "rightAnswer": "B",
+            "quiz": " "
+          },
+          {
+            "quizNumber": 36,
+            "answers": [
+              "A. personality",
+              "B. response",
+              "C. methane",
+              "D. storage"
+            ],
+            "rightAnswer": "C",
+            "quiz": " "
+          },
+          {
+            "quizNumber": 37,
+            "answers": ["A. complaint", "B. space", "C. emphasis", "D. steak"],
+            "rightAnswer": "B",
+            "quiz": " "
+          },
+          {
+            "quizNumber": 38,
+            "answers": [
+              "A. perceived",
+              "B. leaded",
+              "C. offered",
+              "D. suggestes"
+            ],
+            "rightAnswer": "A",
+            "quiz": " "
+          },
+          {
+            "quizNumber": 39,
+            "answers": ["A. entry", "B. guns", "C. mixture", "D. region"],
+            "rightAnswer": "B",
+            "quiz": " "
+          },
+          {
+            "quizNumber": 40,
+            "answers": ["A. videos", "B. seat", "C. actor", "D. delivery"],
+            "rightAnswer": "A",
+            "quiz": " "
+          }
+        ]
+      }
+    ],
+    "february_2021":[
+      {
+        "test_name": "IELTS Mock Test 2021 February",
+        "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-02.png",
+
+        "link": "https://www.youtube.com/embed/gov282KgEmk",
+        "questions":[
+          {
+            "quizNumber": 1,
+            "answers": [
+              "A. Yaris", 
+              "B. Echo", 
+              "C. Francis",
+              "D. Bob"],
+            "rightAnswer": "A",
+            "quiz": "Model: _____"
+          },
+          {
+            "quizNumber": 2,
+            "answers": [
+              "A. cream", 
+              "B. yellow", 
+              "C. canary",
+              "D. black"],
+            "rightAnswer": "B",
+            "quiz": "Colour: ______"
+          },
+          {
+            "quizNumber": 3,
+            "answers": [
+              "A. 3", 
+              "B. 6", 
+              "C. 5",
+              "D. 4"],
+            "rightAnswer": "D",
+            "quiz": "No. of cylinders: ______"
+          },
+          {
+            "quizNumber": 4,
+            "answers": [
+              "A. two doors", 
+              "B. four doors", 
+              "C. five doors",
+              "D. six doors"],
+            "rightAnswer": "A",
+            "quiz": "No. of doors: _____"
+          },
+          {
+            "quizNumber": 5,
+            "answers": [
+              "A. accessories", 
+              "B. air conditioner", 
+              "C. CD player",
+              "D. radio"
+            ],
+            "rightAnswer": "D",
+            "quiz": "Extras: _____"
+          },
+          {
+            "quizNumber": 6,
+            "answers": [
+              "A. $12,000", 
+              "B. $12,500 ", 
+              "C. $12,400",
+              "D. $13,000"],
+            "rightAnswer": "C",
+            "quiz": "Price agreed ($): ______"
+          },
+          {
+            "quizNumber": 7,
+            "answers": [
+              "A. 3 years ago,", 
+              "B. 12 years ago,", 
+              "C. 5 years ago,",
+              "D. 8 years ago,"],
+            "rightAnswer": "A",
+            "quiz": "Age (years): ______"
+          },
+          {
+            "quizNumber": 8,
+            "answers": [
+              "A. True", 
+              "B. False", 
+              "C. Not Given"],
+            "rightAnswer": "B",
+            "quiz": "Lots of registration"
+          },
+          {
+            "quizNumber": 9,
+            "answers": [
+              "A. True", 
+              "B. False", 
+              "C. Not Given"],
+            "rightAnswer": "A",
+            "quiz": "Being highly manoeuvrable"
+          },
+          {
+            "quizNumber": 10,
+            "answers": [
+              "A. True", 
+              "B. False", 
+              "C. Not Given"],
+            "rightAnswer": "A",
+            "quiz": "Being easy to park"
+          },
+          {
+            "quizNumber": 11,
+            "answers": [
+              "A. C", 
+              "B. D", 
+              "C. B",
+              "D. E"
+            ],
+            "rightAnswer": "C",
+            "quiz": ["https://ieltsonlinetests.com/sites/default/files/2018-08/Dec%202018%20Listening%202%20s2.png"," Wilsons"]
+          },
+          {
+            "quizNumber": 12,
+            "answers": [
+              "A. G", 
+              "B. I", 
+              "C. F",
+              "D. H"
+            ],
+            "rightAnswer": "A",
+            "quiz": "DVD Shop"
+          },
+          {
+            "quizNumber": 13,
+            "answers": [
+              "A. H", 
+              "B. C", 
+              "C. E",
+              "D. F"
+            ],
+            "rightAnswer": "C",
+            "quiz": "Student Union Office"
+          },
+          {
+            "quizNumber": 14,
+            "answers": [
+              "A. I", 
+              "B. D", 
+              "C. B",
+              "D. C"],
+            "rightAnswer": "A",
+            "quiz": "Engineering Institute"
+          },
+          {
+            "quizNumber": 15,
+            "answers": [
+              "A. H", 
+              "B. B", 
+              "C. A",
+              "D. D"],
+            "rightAnswer": "A",
+            "quiz": "Fitness Room"
+          },
+          {
+            "quizNumber": 16,
+            "answers": [
+              "A. F", 
+              "B. H", 
+              "C. G",
+              "D. E"
+            ],
+            "rightAnswer": "A",
+            "quiz": "Bookshop"
+          },
+          {
+            "quizNumber": 17,
+            "answers": [
+              "A. Mon, Tue", 
+              "B. Mon, Wed", 
+              "C. Thu, Fri",
+              "D. Sun, Sat"],
+            "rightAnswer": "A",
+            "quiz": "Yoga Club"
+          },
+          {
+            "quizNumber": 18,
+            "answers": [
+              "A. Mon", 
+              "B. Fri", 
+              "C. Tue",
+              "D. Sat"
+            ],
+            "rightAnswer": "C",
+            "quiz": "Aerobic Dancing"
+          },
+          {
+            "quizNumber": 19,
+            "answers": [
+              "A. Mon, Tue", 
+              "B. Mon, Wed", 
+              "C. Thu, Fri",
+              "D. Sun, Sat"
+            ],
+            "rightAnswer": "D",
+            "quiz": "Prayer Centre"
+          },
+          {
+            "quizNumber": 20,
+            "answers": [
+              "A. Mon", 
+              "B. Fri", 
+              "C. Tue",
+              "D. Sat"
+            ],
+            "rightAnswer": "B",
+            "quiz": "Chess Club"
+          },
+          {
+            "quizNumber": 21,
+            "answers": [
+              "A. first minute", 
+              "B. audience", 
+              "C. message",
+              "D. theory"],
+            "rightAnswer": "A",
+            "quiz": "The most important part of a presentation is the _____ "
+          },
+          {
+            "quizNumber": 22,
+            "answers": [
+              "A. interesting story", 
+              "B. dilemma", 
+              "C. subject",
+              "D. course "
+            ],
+            "rightAnswer": "A",
+            "quiz": "thus it is important to use a hook, such as a surprising fact, _____, or a puzzling problem."
+          },
+          {
+            "quizNumber": 23,
+            "answers": [
+              "A. advice", 
+              "B. same", 
+              "C. equals",
+              "D. case"
+            ],
+            "rightAnswer": "C",
+            "quiz": "The best presenters treat their audience as  _____  at the Language Learning Centre."
+          },
+          {
+            "quizNumber": 24,
+            "answers": [
+              "A. involved", 
+              "B. issues", 
+              "C. introduce",
+              "D. discussion"
+            ],
+            "rightAnswer": "D",
+            "quiz": " and involve them in the subject matter under _____ , which they make interesting."
+          },
+          {
+            "quizNumber": 25,
+            "answers": [
+              "A. background ", 
+              "B. historical", 
+              "C. views",
+              "D. insurance"
+            ],
+            "rightAnswer": "B",
+            "quiz": "Subject :_____ context"
+          },
+          {
+            "quizNumber": 26,
+            "answers": [
+              "A. length", 
+              "B. Hoffman’s theory", 
+              "C. differences",
+              "D. style"],
+            "rightAnswer": "C",
+            "quiz": "Details : cultural _____ and management styles "
+          },
+          {
+            "quizNumber": 27,
+            "answers": [
+              "A. multicultural", 
+              "B. excellent", 
+              "C. problems facing",
+              "D. insurance"
+            ],
+            "rightAnswer": "A",
+            "quiz": "Details :complexity of _____ workplace"
+          },
+          {
+            "quizNumber": 28,
+            "answers": [
+              "A. Cotter’s Theory", 
+              "B. Hoffman’s theory", 
+              "C. Diversity",
+              "D. Pluralism"
+            ],
+            "rightAnswer": "C",
+            "quiz": "Details :review Productive ______"
+          },
+          {
+            "quizNumber": 29,
+            "answers": [
+              "A. Universals", 
+              "B. Hoffman’s theory", 
+              "C. Dylan",
+              "D. Cotter’s Theory"
+            ],
+            "rightAnswer": "A",
+            "quiz": "Details : i Theory of Human ______"
+          },
+          {
+            "quizNumber": 30,
+            "answers": [
+              "A. decision-making", 
+              "B. depth", 
+              "C. democracy",
+              "D. unworkable"
+            ],
+            "rightAnswer": "B",
+            "quiz": "Details :prepare answers related to industrial_____"
+          },
+          {
+            "quizNumber": 31,
+            "answers": [
+              "A. hydrogen", 
+              "B. oil ", 
+              "C. coal-burning",
+              "D. fusion"
+            ],
+            "rightAnswer": "A",
+            "quiz": "https://ieltsonlinetests.com/sites/default/files/2018-03/img%20test%202%20dec-1.png"
+          },
+          {
+            "quizNumber": 32,
+            "answers": [
+              "A. step", 
+              "B. process", 
+              "C. approach",
+              "D. particles"],
+            "rightAnswer": "C",
+            "quiz": " "
+          },
+          {
+            "quizNumber": 33,
+            "answers": [
+              "A. opposed", 
+              "B. similar", 
+              "C. particles ",
+              "D. nuclei"],
+            "rightAnswer": "B",
+            "quiz": " "
+          },
+          {
+            "quizNumber": 34,
+            "answers": [
+              "A. material", 
+              "B. incredible", 
+              "C. repulsion",
+              "D. heat"
+            ],
+            "rightAnswer": "D",
+            "quiz": " "
+          },
+          {
+            "quizNumber": 35,
+            "answers": [
+              "A. self-sustained", 
+              "B. energy", 
+              "C. temperatures",
+              "D. particles"
+            ],
+            "rightAnswer": "B",
+            "quiz": " "
+          },
+          {
+            "quizNumber": 36,
+            "answers": [
+              "A. Tocamak", 
+              "B. Hokama.", 
+              "C. Tokamak",
+              "D. Jokamak"
+            ],
+            "rightAnswer": "C",
+            "quiz": "https://ieltsonlinetests.com/sites/default/files/2018-03/dec%20test%202-2.png"
+          },
+          {
+            "quizNumber": 37,
+            "answers": [
+              "A. interacts", 
+              "B. magnetic field", 
+              "C. plasma",
+              "D. vessel"
+            ],
+            "rightAnswer": "B",
+            "quiz": " "
+          },
+          {
+            "quizNumber": 38,
+            "answers": ["A. cooled", "B.  hot", "C. melted", "D. cryogenic"],
+            "rightAnswer": "A",
+            "quiz": " "
+          },
+          {
+            "quizNumber": 39,
+            "answers": ["A. serious", "B.  unstable", "C. control", "D. disaster "],
+            "rightAnswer": "B",
+            "quiz": " "
+          },
+          {
+            "quizNumber": 40,
+            "answers": ["A. 1 second", "B.  10 seconds", "C. 20 seconds", "D. 2 seconds"],
+            "rightAnswer": "A",
+            "quiz": " "
+          }
+            ]
+      }
+    ],
+    "march_2021" :[
+      {
+        "test_name": "IELTS Mock Test 2021 March",
+        "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-03.png",
+
+        "link": "https://www.youtube.com/embed/FPKgPihAU-E",
+        "questions":[
+          {
+            "quizNumber": 1,
+            "answers": ["A. 15th September", "B. 18th September", "C. 5th September", "D. 8th September"],
+            "rightAnswer": "A",
+            "quiz": "Conference start date:"
+          },
+          {
+            "quizNumber": 2,
+            "answers": ["A. Paradise Hotel", "B. Pacific Hotel", "C.  Wyndham Hotels", "D. Marriott International"],
+            "rightAnswer": "B",
+            "quiz": "Conference location:"
+          },
+          {
+            "quizNumber": 3,
+            "answers": [
+              "A. 08 9441 1233",
+              "B. 07 9144 1233",
+              "C. 08 9444 1223",
+              "D. 07 9444 1233"
+            ],
+            "rightAnswer": "D",
+            "quiz": "Reservation phone No.:"
+          },
+          {
+            "quizNumber": 4,
+            "answers": ["A. $50 a day.", "B. $100 a day", "C. $40 a day", "D. $60 a day"],
+            "rightAnswer": "A",
+            "quiz": "Student rate:$180 for 4 days or"
+          },
+          {
+            "quizNumber": 5,
+            "answers": ["A. Gorfmen", "B. Dorfmen", "C. Corfman", "D. Dorfman"],
+            "rightAnswer": "D",
+            "quiz": "Contact person:"
+          },
+          {
+            "quizNumber": 6,
+            "answers": [
+              "A. Paris",
+              "B. Australia",
+              "C. London",
+              "D. Japan"
+            ],
+            "rightAnswer": "C",
+            "quiz": "Candidate’s name:John Helatone, a computing technology student from _____ University"
+          },
+          {
+            "quizNumber": 7,
+            "answers": [
+              "A. last Friday",
+              "B. last Saturday",
+              "C. last Sunday",
+              "D. last Monday"
+            ],
+            "rightAnswer": "A",
+            "quiz": "Closing date for talk:"
+          },
+          {
+            "quizNumber": 8,
+            "answers": ["A. interesting title", "B. attention", "C. attract", "D. make sure"],
+            "rightAnswer": "A",
+            "quiz": "Send outline including:"
+          },
+          {
+            "quizNumber": 9,
+            "answers": ["A. name", "B. qualifications", "C. brief CV", "D. the usual "],
+            "rightAnswer": "C",
+            "quiz": "Also send:"
+          },
+          {
+            "quizNumber": 10,
+            "answers": ["A. administrative ", "B. admin", "C. officer", "D. conference "],
+            "rightAnswer": "B",
+            "quiz": "E-mail address:______@annuconf.edu.au"
+          },
+          {
+            "quizNumber": 11,
+            "answers": ["A. family", "B. kitchen", "C. medicine", "D. programme"],
+            "rightAnswer": "C",
+            "quiz": "The Chinese used ginger principally for  _____"
+          },
+          {
+            "quizNumber": 12,
+            "answers": ["A. China; India", "B.  Nigeria", "C.  the West Indies", "D. Central America, East Africa"],
+            "rightAnswer": "A",
+            "quiz": "Ginger was first grown in _____ "
+          },
+          {
+            "quizNumber": 13,
+            "answers": ["A. extremely popular", "B. highly valued ", "C. a good price", "D. aromatic properties"],
+            "rightAnswer": "C",
+            "quiz": "Spice traders were able to get _____  for ginger."
+          },
+          {
+            "quizNumber": 14,
+            "answers": ["A. 20th", "B. 19th", "C. 17th", "D. 18th"],
+            "rightAnswer": "A",
+            "quiz": "Ginger was introduced to Australia in the _____ century."
+          },
+          {
+            "quizNumber": 15,
+            "answers": ["A. perfect ", "B. humidity", "C. comparatively ", "D. produce "],
+            "rightAnswer": "A",
+            "quiz": "High rainfall in Queensland :  _____"
+          },
+          {
+            "quizNumber": 16,
+            "answers": [
+              "A. production cost",
+              "B. disadvantge",
+              "C. comparison",
+              "D. production"
+            ],
+            "rightAnswer": "A",
+            "quiz": "High _____ : Australian ginger was not price competitive"
+          },
+          {
+            "quizNumber": 17,
+            "answers": [
+              "A. Second World War",
+              "B. Queensland",
+              "C. Australia started",
+              "D. Buderim"
+            ],
+            "rightAnswer": "A",
+            "quiz": "_____ :Supplies of ginger ran low"
+          },
+          {
+            "quizNumber": 18,
+            "answers": [
+              "A. 18",
+              "B. 14",
+              "C. 25",
+              "D. 20"
+            ],
+            "rightAnswer": "C",
+            "quiz": "Cooperative was formed with £ _____"
+          },
+          {
+            "quizNumber": 19,
+            "answers": [
+              "A. 4 tons",
+              "B. 14 tons",
+              "C. 10 tons",
+              "D. 40 tons"
+            ],
+            "rightAnswer": "B",
+            "quiz": " and two wooden vats and _____  of raw ginger."
+          },
+          {
+            "quizNumber": 20,
+            "answers": ["A. Buderim ", "B. south Africa", "C. Europe", "D. Australia"],
+            "rightAnswer": "D",
+            "quiz": "40% of ginger is used in _____"
+          },
+          {
+            "quizNumber": 21,
+            "answers": [
+              "A. human activities",
+              "B. people’s minds",
+              "C. global warming",
+              "D. scientists"
+            ],
+            "rightAnswer": "A",
+            "quiz": "Scientists want to know whether global warming is caused by _____ "
+          },
+          {
+            "quizNumber": 22,
+            "answers": [
+              "A. get warmer",
+              "B. get thicker",
+              "C. being radiated",
+              "D. find out"
+            ],
+            "rightAnswer": "A",
+            "quiz": "Insulation may cause the Earth to _____"
+          },
+          {
+            "quizNumber": 23,
+            "answers": [
+              "A. prediction ",
+              "B. effects ",
+              "C. influences",
+              "D. carbon dioxide"
+            ],
+            "rightAnswer": "C",
+            "quiz": "There are many _____ on the global climate."
+          },
+          {
+            "quizNumber": 24,
+            "answers": [
+              "A. the atmosphere",
+              "B. land mass",
+              "C. the oceans",
+              "D. Earth’s temperature"
+            ],
+            "rightAnswer": "D",
+            "quiz": "The _____ does not remain static."
+          },
+          {
+            "quizNumber": 25,
+            "answers": [
+              "A. transports ",
+              "B. ocean",
+              "C. reservoir ",
+              "D. insurance"
+            ],
+            "rightAnswer": "B",
+            "quiz": "We cannot understand the global climate without understanding _____  "
+          },
+          {
+            "quizNumber": 26,
+            "answers": [
+              "A. buoys ",
+              "B. thermometers ",
+              "C. engines",
+              "D. measured "
+            ],
+            "rightAnswer": "C",
+            "quiz": "When water is drawn through the _____ of ships "
+          },
+          {
+            "quizNumber": 27,
+            "answers": [
+              "A. space ",
+              "B. scanning  ",
+              "C. detector ",
+              "D. separate  "
+            ],
+            "rightAnswer": "A",
+            "quiz": "ATSR (infra-red detector) : _____ "
+          },
+          {
+            "quizNumber": 28,
+            "answers": [
+              "A. True ",
+              "B. False ",
+              "C. Not Given"
+            ],
+            "rightAnswer": "A",
+            "quiz": "Is located In two places"
+          },
+          {
+            "quizNumber": 29,
+            "answers": [
+              "A. True ",
+              "B. False ",
+              "C. Not Given"
+            ],
+            "rightAnswer": "A",
+            "quiz": "measures very accurately"
+          },
+          {
+            "quizNumber": 30,
+            "answers": [
+              "A. True ",
+              "B. False ",
+              "C. Not Given"
+            ],
+            "rightAnswer": "A",
+            "quiz": "produces large amounts of data"
+          },
+          {
+            "quizNumber": 31,
+            "answers": [
+              "A. Patients",
+              "B. preventative ",
+              "C. practitioners ",
+              "D. doctor"
+            ],
+            "rightAnswer": "A",
+            "quiz": " _____ should take charge of their health."
+          },
+          {
+            "quizNumber": 32,
+            "answers": [
+              "A. responsibility",
+              "B. decide ",
+              "C. smoking",
+              "D. regime "
+            ],
+            "rightAnswer": "C",
+            "quiz": "The single greatest threat to health is _____"
+          },
+          {
+            "quizNumber": 33,
+            "answers": [
+              "A. men",
+              "B. young men",
+              "C. colleagues ",
+              "D. student"
+            ],
+            "rightAnswer": "B",
+            "quiz": " the group who was at most risk of early death is _____"
+          },
+          {
+            "quizNumber": 34,
+            "answers": [
+              "A. exercise",
+              "B. considerable ",
+              "C. saturated ",
+              "D. heavy diet"
+            ],
+            "rightAnswer": "D",
+            "quiz": "Possible causes are:drinking too much alcohol;heavy smoking; _____ "
+          },
+          {
+            "quizNumber": 35,
+            "answers": [
+              "A. factors ",
+              "B. sun",
+              "C. environmental ",
+              "D. hazards"
+            ],
+            "rightAnswer": "B",
+            "quiz": "Environmental factors affecting health:the threat of _____  is most under-rated."
+          },
+          {
+            "quizNumber": 36,
+            "answers": [
+              "A. particularly valuable",
+              "B. self-destructive",
+              "C. public health",
+              "D. well-funded education"
+            ],
+            "rightAnswer": "C",
+            "quiz": "A well-funded education campaign will help enhance _____"
+          },
+          {
+            "quizNumber": 37,
+            "answers": [
+              "A. incidence of sickness",
+              "B. healthy lifestyle",
+              "C. preventable",
+              "D. qualification"
+            ],
+            "rightAnswer": "B",
+            "quiz": "and many illnesses could be prevented by ______ "
+          },
+          {
+            "quizNumber": 38,
+            "answers": ["A. fun ", "B. health ", "C. mind ", "D. body "],
+            "rightAnswer": "A",
+            "quiz": "Do exercises for ______  so you may find someone to join you."
+          },
+          {
+            "quizNumber": 39,
+            "answers": ["A. flexibility", "B. warm-up", "C. prepare ", "D. important "],
+            "rightAnswer": "B",
+            "quiz": " Make adequate ______ prevent sports injury."
+          },
+          {
+            "quizNumber": 40,
+            "answers": ["A. cross-training", "B. techniques ", "C. stamina ","D. hand coordination"],
+            "rightAnswer": "A",
+            "quiz": "Reduce injuries by using ______  techniques."
+          }
+        ]
+      }
+    ],
+    "may_2021" :[
+      {
+        "test_name": "IELTS Mock Test 2021 May",
+        "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-05.png",
+
+        "link": "https://www.youtube.com/embed/a3h67p5Fhqs",
+        "questions":[
+          {
+            "quizNumber": 1,
+            "answers": ["A. 50", "B. 15", "C. 16", "D. 60"],
+            "rightAnswer": "A",
+            "quiz": "SOCIOLOGY RESEARCH PROJECT SURVEY: Age: "
+          },
+          {
+            "quizNumber": 2,
+            "answers": ["A. 7A87UP", "B. HA87UP", "C.  HA87QP", "D. 7A8HQP"],
+            "rightAnswer": "B",
+            "quiz": "Postcode:"
+          },
+          {
+            "quizNumber": 3,
+            "answers": [
+              "A. university",
+              "B. School",
+              "C. town",
+              "D. library"
+            ],
+            "rightAnswer": "D",
+            "quiz": "COMPUTER FACILITIES ALREADY USED: Where?"
+          },
+          {
+            "quizNumber": 4,
+            "answers": ["A. swimming pool", "B. tennis", "C. badminton", "D. volleyball"],
+            "rightAnswer": "A",
+            "quiz": "SPORTS FACILITIES ALREADY USED: Where?"
+          },
+          {
+            "quizNumber": 5,
+            "answers": ["A. Spanish classes", "B. community centre ", "C. coffee", "D. college"],
+            "rightAnswer": "D",
+            "quiz": "EDUCATION FACILITIES ALREADY USED: Where?"
+          },
+          {
+            "quizNumber": 6,
+            "answers": [
+              "A. volleyball",
+              "B. Swimming",
+              "C. badminton,yoga",
+              "D. tennis"
+            ],
+            "rightAnswer": "C",
+            "quiz": "IMPROVEMENTS FOR THE COMMUNITY CENTRE: New sports:"
+          },
+          {
+            "quizNumber": 7,
+            "answers": [
+              "A. pensioners",
+              "B. student",
+              "C. teacher",
+              "D. doctor"
+            ],
+            "rightAnswer": "A",
+            "quiz": "Classes organized only for:"
+          },
+          {
+            "quizNumber": 8,
+            "answers": ["A. arts and crafts", "B. arts", "C. crafts", "D. community"],
+            "rightAnswer": "A",
+            "quiz": "Education classes:"
+          },
+          {
+            "quizNumber": 9,
+            "answers": ["A. 4", "B. 3", "C. 2", "D. 6 "],
+            "rightAnswer": "C",
+            "quiz": "Willing to pay about: £ _____ for new classes."
+          },
+          {
+            "quizNumber": 10,
+            "answers": ["A. 2 ", "B. 3", "C. 1", "D. 4 "],
+            "rightAnswer": "B",
+            "quiz": "Possible frequency of visits, if improvements made? _____ a week"
+          },
+          {
+            "quizNumber": 11,
+            "answers": ["A. very large.", "B. fairly large.", "C. fairly small."],
+            "rightAnswer": "A",
+            "quiz": "The Dark which makes up Hampstead Heath is"
+          },
+          {
+            "quizNumber": 12,
+            "answers": ["A. the shallowest in the system.", "B.  the deepest in the system.", "C.  the oldest in London."],
+            "rightAnswer": "B",
+            "quiz": "According the sPeaker. Hampstead underground station is"
+          },
+          {
+            "quizNumber": 13,
+            "answers": ["A. have a meal in the famous restaurants.", "B. avoid Hampstead village as it is very busy. ", "C. visit Hampstead village to look at the shops."],
+            "rightAnswer": "C",
+            "quiz": "The speaker suggests that after their walk people might want to •"
+          },
+          {
+            "quizNumber": 14,
+            "answers": ["A. on the edge of the heath.", "B. on the heath itself.", "C. opposite the heath."],
+            "rightAnswer": "B",
+            "quiz": "The houses in the Vale of the Heath are built"
+          },
+          {
+            "quizNumber": 15,
+            "answers": ["A. hear the silence away from the traffic. ", "B. ensure they are not being followed.", "C. isten to the noises in the park. "],
+            "rightAnswer": "C",
+            "quiz": "The speaker advises walkers to remove their headphones to"
+          },
+          {
+            "quizNumber": 16,
+            "answers": [
+              "A. have snacks",
+              "B. go fishing",
+              "C. view London",
+              "D. have a swim"
+            ],
+            "rightAnswer": "A",
+            "quiz": "Kenwood House"
+          },
+          {
+            "quizNumber": 17,
+            "answers": [
+              "A. have picnics",
+              "B. view London",
+              "C. attend concerts",
+              "D. watch plays"
+            ],
+            "rightAnswer": "A",
+            "quiz": "grassy slopes"
+          },
+          {
+            "quizNumber": 18,
+            "answers": [
+              "A. go fishing",
+              "B. have snacks",
+              "C. attend concerts",
+              "D. have a swim"
+            ],
+            "rightAnswer": "C",
+            "quiz": "open-air stage"
+          },
+          {
+            "quizNumber": 19,
+            "answers": [
+              "A. have picnics",
+              "B. have a swim",
+              "C. view London",
+              "D. watch plays"
+            ],
+            "rightAnswer": "B",
+            "quiz": "ponds"
+          },
+          {
+            "quizNumber": 20,
+            "answers": ["A. have a swim ", "B. have snacks", "C. watch plays", "D. view London"],
+            "rightAnswer": "D",
+            "quiz": " Parliament Hill"
+          },
+          {
+            "quizNumber": 21,
+            "answers": [
+              "A. successful",
+              "B. dangerous",
+              "C. too expensive",
+              "D. too many objections"
+            ],
+            "rightAnswer": "A",
+            "quiz": " green belt"
+          },
+          {
+            "quizNumber": 22,
+            "answers": [
+              "A. unpractical",
+              "B. disruptive",
+              "C. successful",
+              "D. unsuccessful"
+            ],
+            "rightAnswer": "A",
+            "quiz": "decentralization"
+          },
+          {
+            "quizNumber": 23,
+            "answers": [
+              "A. too many objections ",
+              "B. unpractical ",
+              "C. too expensive",
+              "D. dangerous"
+            ],
+            "rightAnswer": "C",
+            "quiz": "newtowns"
+          },
+          {
+            "quizNumber": 24,
+            "answers": [
+              "A. too expensive",
+              "B. unpractical",
+              "C. disruptive",
+              "D. dangerous"
+            ],
+            "rightAnswer": "D",
+            "quiz": "brownfield sites"
+          },
+          {
+            "quizNumber": 25,
+            "answers": [
+              "A. unsuccessful ",
+              "B. disruptive",
+              "C. too expensive ",
+              "D. too many objections"
+            ],
+            "rightAnswer": "B",
+            "quiz": "pedestrianized zones"
+          },
+          {
+            "quizNumber": 26,
+            "answers": [
+              "A. Understanding the statistics. ",
+              "B. The lack of material. ",
+              "C. The selection of statistics."
+            ],
+            "rightAnswer": "C",
+            "quiz": "Which area is jack having the most problems with?"
+          },
+          {
+            "quizNumber": 27,
+            "answers": [
+              "A. Central government intervention. ",
+              "B. Working together with residents.  ",
+              "C. Giving responsibility to strategists. "
+            ],
+            "rightAnswer": "B",
+            "quiz": "What has been central to Curitiba’s success?"
+          },
+          {
+            "quizNumber": 28,
+            "answers": [
+              "A. There are cheap fares for the poor and elderly. ",
+              "B. Bicycles can use the bus lanes. ",
+              "C. There is a low car ownership."
+            ],
+            "rightAnswer": "A",
+            "quiz": "Why does the transport system work so well?"
+          },
+          {
+            "quizNumber": 29,
+            "answers": [
+              "A. True ",
+              "B. False ",
+              "C. Not Given"
+            ],
+            "rightAnswer": "B",
+            "quiz": "the amount of parkland"
+          },
+          {
+            "quizNumber": 30,
+            "answers": [
+              "A. True ",
+              "B. False ",
+              "C. Not Given"
+            ],
+            "rightAnswer": "A",
+            "quiz": "the pedestrianized zones"
+          },
+          {
+            "quizNumber": 31,
+            "answers": [
+              "A. priorities",
+              "B. information  ",
+              "C. economics  ",
+              "D. course "
+            ],
+            "rightAnswer": "A",
+            "quiz": "Students:will receive information about economics and the ______ to concentrate on"
+          },
+          {
+            "quizNumber": 32,
+            "answers": [
+              "A. teacher",
+              "B. students  ",
+              "C. researcher",
+              "D. professor "
+            ],
+            "rightAnswer": "C",
+            "quiz": "will have an opportunity to be taught by a ______ in the field"
+          },
+          {
+            "quizNumber": 33,
+            "answers": [
+              "A. lectures ",
+              "B. higher education",
+              "C. learning culture ",
+              "D. essential "
+            ],
+            "rightAnswer": "B",
+            "quiz": " twill take part in the learning culture in _____"
+          },
+          {
+            "quizNumber": 34,
+            "answers": [
+              "A. exercise",
+              "B. considerable ",
+              "C. undergraduate  ",
+              "D. student understanding"
+            ],
+            "rightAnswer": "D",
+            "quiz": "Common problems students have with techniques used in lectures may not develop _____ : no immediate questions"
+          },
+          {
+            "quizNumber": 35,
+            "answers": [
+              "A. learning culture ",
+              "B. learning outcomes",
+              "C. listening  ",
+              "D. learning from an expert"
+            ],
+            "rightAnswer": "B",
+            "quiz": "newer techniques help improve _____  more than lectures."
+          },
+          {
+            "quizNumber": 36,
+            "answers": [
+              "A. mini quiz",
+              "B. it",
+              "C. all items",
+              "D. list"
+            ],
+            "rightAnswer": "C",
+            "quiz": "How to avoid problems and make learning easier: leave time to read _____  on the booklist test yourself with quizzes"
+          },
+          {
+            "quizNumber": 37,
+            "answers": [
+              "A. a year",
+              "B. gap year",
+              "C. a period of time working",
+              "D. 3 months"
+            ],
+            "rightAnswer": "B",
+            "quiz": "if you have had a ______ "
+          },
+          {
+            "quizNumber": 38,
+            "answers": ["A. background research ", "B. resources  ", "C. web  ", "D. information  "],
+            "rightAnswer": "A",
+            "quiz": "evise what you previously learned use the web to do more ______ "
+          },
+          {
+            "quizNumber": 39,
+            "answers": ["A. flexibility", "B. reliable", "C. important  ", "D. extra  "],
+            "rightAnswer": "B",
+            "quiz": " heck the sources of information on the web are ______"
+          },
+          {
+            "quizNumber": 40,
+            "answers": ["A. discuss ideas ", "B. find  ", "C. learning  ","D. charge "],
+            "rightAnswer": "A",
+            "quiz": " ______ with your classmates."
+          }
+        ]
+      }
+    ],
+    "august_2021":[
+      {
+        "test_name": "IELTS Mock Test 2021 May",
+        "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-08.png",
+
+        "link": "https://www.youtube.com/embed/LEHliiNbRt4",
+        "questions":[
+          {
+            "quizNumber": 1,
+            "answers": ["A. 18th - 20th October", "B. 18th - 21th October", "C. 8th - 21th October", "D. 8th - 12th October"],
+            "rightAnswer": "A",
+            "quiz": "Architecture 21 conference: Conference dates: "
+          },
+          {
+            "quizNumber": 2,
+            "answers": ["A. university", "B. the pacific hotel", "C.  Paradise Hotel.", "D. Architecture Hotel"],
+            "rightAnswer": "B",
+            "quiz": "Conference venue:"
+          },
+          {
+            "quizNumber": 3,
+            "answers": [
+              "A. 0793232266",
+              "B. 0973332226",
+              "C. 0973332266",
+              "D. 0793332266"
+            ],
+            "rightAnswer": "D",
+            "quiz": "Reservations phone no.:"
+          },
+          {
+            "quizNumber": 4,
+            "answers": ["A. 60", "B. 80", "C. 150", "D. 300"],
+            "rightAnswer": "A",
+            "quiz": "Student rate per day:"
+          },
+          {
+            "quizNumber": 5,
+            "answers": ["A. John Helstone.", "B. Secretary ", "C. Teacher", "D. professor burt"],
+            "rightAnswer": "D",
+            "quiz": "Contact person:"
+          },
+          {
+            "quizNumber": 6,
+            "answers": [
+              "A. last Monday",
+              "B. last Saturday",
+              "C. last Friday",
+              "D. last Sunday"
+            ],
+            "rightAnswer": "C",
+            "quiz": "Closing date for talks:"
+          },
+          {
+            "quizNumber": 7,
+            "answers": [
+              "A. interesting",
+              "B. attract ",
+              "C. attention",
+              "D. quicker"
+            ],
+            "rightAnswer": "A",
+            "quiz": "Summary should have:"
+          },
+          {
+            "quizNumber": 8,
+            "answers": ["A. 300 words", "B. 600 words", "C. 500 words", "D. 400 words"],
+            "rightAnswer": "A",
+            "quiz": "Maximum length:"
+          },
+          {
+            "quizNumber": 9,
+            "answers": ["A. name", "B. qualifications", "C. brief CV", "D. email  "],
+            "rightAnswer": "C",
+            "quiz": "Also send:"
+          },
+          {
+            "quizNumber": 10,
+            "answers": ["A. Prof ", "B. info", "C. Burt", "D. admin "],
+            "rightAnswer": "B",
+            "quiz": "Email address: _____ @uniconf.edu.au"
+          },
+          {
+            "quizNumber": 11,
+            "answers": ["A. 1771-1778", "B.1772-1778", "C. 1717-1728", "D. 1778-1787"],
+            "rightAnswer": "A",
+            "quiz": "The house was built between ______ "
+          },
+          {
+            "quizNumber": 12,
+            "answers": ["A. family home", "B. office.", "C. public house"],
+            "rightAnswer": "B",
+            "quiz": "It was originally constructed as a/an:"
+          },
+          {
+            "quizNumber": 13,
+            "answers": ["A. large art gallery", "B. open  ", "C. all over europe", "D. avid collector"],
+            "rightAnswer": "C",
+            "quiz": "The house contains art from: _____"
+          },
+          {
+            "quizNumber": 14,
+            "answers": ["A. open ", "B. closed to the public", "C. private ", "D. interested "],
+            "rightAnswer": "B",
+            "quiz": "Until recently, the art gallery was:_____"
+          },
+          {
+            "quizNumber": 15,
+            "answers": ["A. Felix  ", "B. Apsley House", "C. the art gallery ", "D. The Duke"],
+            "rightAnswer": "C",
+            "quiz": "Tomorrow’s talk will be on: ______"
+          },
+          {
+            "quizNumber": 16,
+            "answers": [
+              "A. your room",
+              "B. kitchen ",
+              "C. garden",
+              "D. office"
+            ],
+            "rightAnswer": "A",
+            "quiz": "Breakfast is served in the cafeteria or:______"
+          },
+          {
+            "quizNumber": 17,
+            "answers": [
+              "A. vegetarian food",
+              "B. cafeteria",
+              "C. eggs",
+              "D. meat"
+            ],
+            "rightAnswer": "A",
+            "quiz": "You can choose between an English breakfast or: ______"
+          },
+          {
+            "quizNumber": 18,
+            "answers": [
+              "A. Scottish",
+              "B. Henry James",
+              "C. visitors",
+              "D. Robert Adam"
+            ],
+            "rightAnswer": "C",
+            "quiz": "A car park was built because of an increase in: _______"
+          },
+          {
+            "quizNumber": 19,
+            "answers": [
+              "A. birds",
+              "B. animals",
+              "C. squirrels",
+              "D. rabbits"
+            ],
+            "rightAnswer": "B",
+            "quiz": "The garden contains many: ______"
+          },
+          {
+            "quizNumber": 20,
+            "answers": ["A. enjoy  ", "B. kind", "C. beauty", "D.  friendly"],
+            "rightAnswer": "D",
+            "quiz": "The animals at Apsley House are all: ______"
+          },
+          {
+            "quizNumber": 21,
+            "answers": [
+              "A. The Henry Music Institute",
+              "B. Leeds Conservatory of Contemporary Music",
+              "C. The Academy in London" 
+            ],
+            "rightAnswer": "A",
+            "quiz": "Which college does Chris suggest would be best?"
+          },
+          {
+            "quizNumber": 22,
+            "answers": [
+              "A. an interview",
+              "B. an audition",
+              "C. an essay" 
+            ],
+            "rightAnswer": "A",
+            "quiz": "What entry requirements are common to all the colleges?"
+          },
+          {
+            "quizNumber": 23,
+            "answers": [
+              "A. £7,000 a year ",
+              "B. £8,000 a year ",
+              "C. £6,000 a year" 
+            ],
+            "rightAnswer": "C",
+            "quiz": "How much does the course at Leeds Conservatory of Contemporary Music cost?"
+          },
+          {
+            "quizNumber": 24,
+            "answers": [
+              "A. train fare",
+              "B. insurance",
+              "C. application fee" 
+            ],
+            "rightAnswer": "C",
+            "quiz": "What other expenses are payable to the colleges?"
+          },
+          {
+            "quizNumber": 25,
+            "answers": [
+              "A. January 9th ",
+              "B. January 19th",
+              "C. January 30th " 
+            ],
+            "rightAnswer": "B",
+            "quiz": "When is the deadline for Leeds Conservatory of Contemporary Music?"
+          },
+          {
+            "quizNumber": 26,
+            "answers": [
+              "A. practice rooms",
+              "B. recording studio ",
+              "C. research facility",
+              "D. student canteen G technology suite"
+            ],
+            "rightAnswer": "C",
+            "quiz": " Northdown College"
+          },
+          {
+            "quizNumber": 27,
+            "answers": [
+              "A. large gardens",
+              "B. multiple sites",
+              "C. practice rooms",
+              "D. recording studio"
+            ],
+            "rightAnswer": "B",
+            "quiz": "The Academy in London"
+          },
+          {
+            "quizNumber": 28,
+            "answers": [
+              "A. practice rooms",
+              "B. multiple sites",
+              "C. large gardens",
+              "D. recording studio"
+            ],
+            "rightAnswer": "A",
+            "quiz": "Leeds Conservatory of Contemporary Music"
+          },
+          {
+            "quizNumber": 29,
+            "answers": [
+              "A. student canteen G technology suite ",
+              "B. technology suite ",
+              "C. research facility",
+              "D. recording studio"
+            ],
+            "rightAnswer": "B",
+            "quiz": "The Henry Music Institute"
+          },
+          {
+            "quizNumber": 30,
+            "answers": [
+              "A. recording studio ",
+              "B. research facility ",
+              "C. practice rooms",
+              "D. multiple sites"
+            ],
+            "rightAnswer": "A",
+            "quiz": "The James Academy of Music"
+          },
+          {
+            "quizNumber": 31,
+            "answers": [
+              "A. social",
+              "B. powers   ",
+              "C. present   ",
+              "D. research  "
+            ],
+            "rightAnswer": "A",
+            "quiz": "According to the speaker, art and music can benefit patients’ emotional, ______  and physical well-being."
+          },
+          {
+            "quizNumber": 32,
+            "answers": [
+              "A. 1819",
+              "B. 1816  ",
+              "C. 1860",
+              "D. 1890 "
+            ],
+            "rightAnswer": "C",
+            "quiz": "Florence Nightingale first noted the improvements in the year ______ "
+          },
+          {
+            "quizNumber": 33,
+            "answers": [
+              "A. physical well-being. ",
+              "B. strictly controlled",
+              "C. more quickly",
+              "D. brightly "
+            ],
+            "rightAnswer": "B",
+            "quiz": "The results of many studies did not prove a link between health and art as they were rarely _____"
+          },
+          {
+            "quizNumber": 34,
+            "answers": [
+              "A. operation ",
+              "B. overlooking   ",
+              "C. research   ",
+              "D. recovery time"
+            ],
+            "rightAnswer": "D",
+            "quiz": "The American study looked at the effects of architecture on patients’ _____ "
+          },
+          {
+            "quizNumber": 35,
+            "answers": [
+              "A. controlled  ",
+              "B. nice view",
+              "C. groundbreaking   ",
+              "D. wards "
+            ],
+            "rightAnswer": "B",
+            "quiz": "The patients who were in a ward with a  _____ were not in hospital for as long and needed less medication."
+          },
+          {
+            "quizNumber": 36,
+            "answers": [
+              "A. jazz",
+              "B. hiphop",
+              "C. live music",
+              "D. ballad"
+            ],
+            "rightAnswer": "C",
+            "quiz": "Unborn babies: Type of art/music : _____ "
+          },
+          {
+            "quizNumber": 37,
+            "answers": [
+              "A. live music",
+              "B. artistic pictures",
+              "C. hiphop",
+              "D. jazz"
+            ],
+            "rightAnswer": "B",
+            "quiz": "Cancer patient : Type of art/music : ______ "
+          },
+          {
+            "quizNumber": 38,
+            "answers": ["A. less pain ", "B. relaxed  ", "C. anxious ", "D. understandable   "],
+            "rightAnswer": "A",
+            "quiz": "Cancer patient :Effect on patients: ______ "
+          },
+          {
+            "quizNumber": 39,
+            "answers": ["A. guitar", "B. classical ", "C. jazz  ", "D. rap  "],
+            "rightAnswer": "B",
+            "quiz": "Hip replacement (elderly):Type of art/music : ______"
+          },
+          {
+            "quizNumber": 40,
+            "answers": ["A. happier ", "B. positive ", "C. healthy","D. anxiou "],
+            "rightAnswer": "A",
+            "quiz": "Hip replacement (elderly):Other improvements : ______  "
+          }
+        ]
+      }
+    ],
+    "june_2021":[
+      {
+        "test_name": "IELTS Mock Test 2021 June",
+        "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-06.png",
+
+        "link": "https://www.youtube.com/embed/-nU8CzuxT-M",
+        "questions":[
+          {
+            "quizNumber": 1,
+            "answers": ["A. Okamura", "B. Okamira", "C. Okamure", "D. Ocamura"],
+            "rightAnswer": "A",
+            "quiz": "Name: Kelly ______ "
+          },
+          {
+            "quizNumber": 2,
+            "answers": ["A. Kingstone Street", "B. Kalakaua Avenue", "C. Kuhio Avenue", "D. King Street"],
+            "rightAnswer": "B",
+            "quiz": "Address:106 _______ , Hawaii."
+          },
+          {
+            "quizNumber": 3,
+            "answers": [
+              "A. British",
+              "B. American",
+              "C. Chinese ",
+              "D. Japanese"
+            ],
+            "rightAnswer": "D",
+            "quiz": "Nationality:"
+          },
+          {
+            "quizNumber": 4,
+            "answers": ["A. 32", "B. 23", "C. 20", "D. 30"],
+            "rightAnswer": "A",
+            "quiz": "Age:"
+          },
+          {
+            "quizNumber": 5,
+            "answers": ["A. single", "B. Married ", "C. divorce"],
+            "rightAnswer": "B",
+            "quiz": "Marital status:"
+          },
+          {
+            "quizNumber": 6,
+            "answers": [
+              "A. His cousin.",
+              "B. His uncle.",
+              "C. His sister-in-law." 
+            ],
+            "rightAnswer": "C",
+            "quiz": "According to the applicant, who lives in Australia?"
+          },
+          {
+            "quizNumber": 7,
+            "answers": [
+              "A. develop his business.",
+              "B. do some travelling. ",
+              "C. work." 
+            ],
+            "rightAnswer": "A",
+            "quiz": "The applicant wants to visit Australia because he wants to_."
+          },
+          {
+            "quizNumber": 8,
+            "answers": ["A. 6 months.", "B. 12 months.", "C. 30 days." ],
+            "rightAnswer": "A",
+            "quiz": "The applicant can have a visa for_."
+          },
+          {
+            "quizNumber": 9,
+            "answers": ["A. Monday; Saturday", "B. Tuesday; Friday", "C. Monday; Friday", "D. Monday; Thurday  "],
+            "rightAnswer": "C",
+            "quiz": "The applicant must go to the visa office between______"
+          },
+          {
+            "quizNumber": 10,
+            "answers": ["A.passport ", "B. photos;passport", "C. photo", "D. visa; photos "],
+            "rightAnswer": "B",
+            "quiz": "What things must the applicant take to the visa office? "
+          },
+          {
+            "quizNumber": 11,
+            "answers": ["A. Do ", "B. Don't", "C. Not Given"],
+            "rightAnswer": "B",
+            "quiz": "How to secure the window :Leave windows open during the night"
+          },
+          {
+            "quizNumber": 12,
+            "answers": ["A. Do ", "B. Don't", "C. Not Given"],
+            "rightAnswer": "A",
+            "quiz": "How to secure the window : Use a pickproof locking device for your window."
+          },
+          {
+            "quizNumber": 13,
+            "answers": ["A. Do ", "B. Don't", "C. Not Given"],
+            "rightAnswer": "B",
+            "quiz": "How to secure the door: Open the door to anyone you don’t know"
+          },
+          {
+            "quizNumber": 14,
+            "answers": ["A. Do ", "B. Don't", "C. Not Given"],
+            "rightAnswer": "A",
+            "quiz": "How to secure the door: Install a peephole in the front door"
+          },
+          {
+            "quizNumber": 15,
+            "answers": ["A. Do ", "B. Don't", "C. Not Given"],
+            "rightAnswer": "B",
+            "quiz": "How to secure your valuables: Leave them where they can be seen from the window"
+          },
+          {
+            "quizNumber": 16,
+            "answers": [
+              "A. Do ", "B. Don't", "C. Not Given"
+            ],
+            "rightAnswer": "A",
+            "quiz": "How to secure your valuables :Make a valuables inventory Engrave your valuables."
+          },
+          {
+            "quizNumber": 17,
+            "answers": [
+              "A. near the door.",
+              "B. near each of your windows.",
+              "C. somewhere high out of reach." 
+            ],
+            "rightAnswer": "C",
+            "quiz": "To ensure safety in your courtyard, you should install a light_"
+          },
+          {
+            "quizNumber": 18,
+            "answers": [
+              "A. Because they may be used by burglars as good hiding places.",
+              "B. Because they do not help in creating an occupancy illusion.",
+              "C. Because they may block the views from the windows or peepholes." 
+            ],
+            "rightAnswer": "A",
+            "quiz": "Why is there a need to trim hedges or bushes in your courtyard?"
+          },
+          {
+            "quizNumber": 19,
+            "answers": [
+              "A. True",
+              "B. False",
+              "C. Not Given" 
+            ],
+            "rightAnswer": "B",
+            "quiz": "What may help in creating an occupancy illusion when one is on vacation? Turn on your TV all day long."
+          },
+          {
+            "quizNumber": 20,
+            "answers": [ 
+              "A. True",
+              "B. False",
+              "C. Not Given" ],
+            "rightAnswer": "A",
+            "quiz": "What may help in creating an occupancy illusion when one is on vacation? Ask a neighbour to park in your driveway."
+          },
+          {
+            "quizNumber": 21,
+            "answers": [
+              "A. stay",
+              "B. bite",
+              "C. sniff" 
+            ],
+            "rightAnswer": "A",
+            "quiz": "Obedience training"
+          },
+          {
+            "quizNumber": 22,
+            "answers": [
+              "A. speak",
+              "B. commands",
+              "C. bark" 
+            ],
+            "rightAnswer": "A",
+            "quiz": "Spoken training"
+          },
+          {
+            "quizNumber": 23,
+            "answers": [
+              "A. stay",
+              "B. sniff",
+              "C. bark" 
+            ],
+            "rightAnswer": "C",
+            "quiz": "Guard training"
+          },
+          {
+            "quizNumber": 24,
+            "answers": [
+              "A. sniff ",
+              "B. speak",
+              "C. bite" 
+            ],
+            "rightAnswer": "C",
+            "quiz": "Attack training"
+          },
+          {
+            "quizNumber": 25,
+            "answers": [
+              "A. stay ",
+              "B. sniff",
+              "C. bark " 
+            ],
+            "rightAnswer": "B",
+            "quiz": "Search training"
+          },
+          {
+            "quizNumber": 26,
+            "answers": [
+              "A. small dogs  ",
+              "B. intelligent dogs",
+              "C. large dogs" 
+            ],
+            "rightAnswer": "C",
+            "quiz": "Physical training"
+          },
+          {
+            "quizNumber": 27,
+            "answers": [
+              "A. small dogs  ",
+              "B. intelligent dogs",
+              "C. large dogs"
+            ],
+            "rightAnswer": "B",
+            "quiz": "Search training"
+          },
+          {
+            "quizNumber": 28,
+            "answers": [
+              "A. small dogs  ",
+              "B. intelligent dogs",
+              "C. large dogs"
+            ],
+            "rightAnswer": "C",
+            "quiz": "Attack training"
+          },
+          {
+            "quizNumber": 29,
+            "answers": [
+              "A. small dogs  ",
+              "B. intelligent dogs",
+              "C. large dogs"
+            ],
+            "rightAnswer": "A",
+            "quiz": "Barking"
+          },
+          {
+            "quizNumber": 30,
+            "answers": [
+              "A. small dogs  ",
+              "B. intelligent dogs",
+              "C. large dogs"
+            ],
+            "rightAnswer": "B",
+            "quiz": "Biting"
+          },
+          {
+            "quizNumber": 31,
+            "answers": [
+              "A. interest",
+              "B. fascinating   ",
+              "C. acquire    " 
+            ],
+            "rightAnswer": "A",
+            "quiz": "People have an ______ in children’s learning."
+          },
+          {
+            "quizNumber": 32,
+            "answers": [
+              "A. interest",
+              "B. important   ",
+              "C. complex   " 
+            ],
+            "rightAnswer": "B",
+            "quiz": " ______  It leads us to a greater understanding of language."
+          },
+          {
+            "quizNumber": 33,
+            "answers": [
+              "A. possible ",
+              "B. encountered    ",
+              "C. complex   " 
+            ],
+            "rightAnswer": "C",
+            "quiz": " _____ Researchers encounter great difficulties."
+          },
+          {
+            "quizNumber": 34,
+            "answers": [
+              "A. research methods",
+              "B. examine ",
+              "C. emergence " 
+            ],
+            "rightAnswer": "A",
+            "quiz": "Start by talking about _____ with the use of diaries, recordings and tests included "
+          },
+          {
+            "quizNumber": 35,
+            "answers": [
+              "A. controlled  ",
+              "B. learning process",
+              "C. groundbreaking   "
+            ],
+            "rightAnswer": "B",
+            "quiz": "then discuss  _____ , which including: speech in infants under one year-children become aware of their own language;"
+          },
+          {
+            "quizNumber": 36,
+            "answers": [
+              "A. approaches ",
+              "B. conventional ",
+              "C. analysis" 
+            ],
+            "rightAnswer": "C",
+            "quiz": "speech in children under 5 years – their linguistic _____ becomes possible. "
+          },
+          {
+            "quizNumber": 37,
+            "answers": [
+              "A. spoken",
+              "B. educational approaches",
+              "C. reading",
+              "D. writing"
+            ],
+            "rightAnswer": "B",
+            "quiz": "A review of  ______ to development of linguistic skills"
+          },
+          {
+            "quizNumber": 38,
+            "answers": ["A. spoken",
+              "B. educational approaches",
+              "C. reading",
+              "D. writing"],
+            "rightAnswer": "A",
+            "quiz": "including teaching ______  language"
+          },
+          {
+            "quizNumber": 39,
+            "answers": ["A. spoken",
+              "B. educational approaches",
+              "C. reading",
+              "D. writing"],
+            "rightAnswer": "C",
+            "quiz": " and ______"
+          },
+          {
+            "quizNumber": 40,
+            "answers": ["A. spoken",
+              "B. educational approaches",
+              "C. reading",
+              "D. writing"],
+            "rightAnswer": "D",
+            "quiz": "And also some thoughts about approaches to develop children’s awareness of ______  "
+          }
+        ]
+      }
+    ],
+    "octorber_2021":[
+      {
+        "test_name": "IELTS Mock Test 2021 Octorber",
+        "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-10.png",
+
+        "link": " https://www.youtube.com/embed/JnA6t-hV0fo",
+        "questions":[
+          {
+            "quizNumber": 1,
+            "answers": ["A. B", "B. C", "C. H", "D. E"],
+            "rightAnswer": "A",
+            "quiz": "https://ieltsonlinetests.com/sites/default/files/2018-09/July%202017%20L1%20q1-4.png"
+          },
+          {
+            "quizNumber": 2,
+            "answers": ["A. G", "B. I", "C.  A", "D. F"],
+            "rightAnswer": "B",
+            "quiz": "the sports building"
+          },
+          {
+            "quizNumber": 3,
+            "answers": [
+              "A. B",
+              "B. I",
+              "C. H",
+              "D. E"
+            ],
+            "rightAnswer": "D",
+            "quiz": "the Churchill Building"
+          },
+          {
+            "quizNumber": 4,
+            "answers": ["A. C", "B. G", "C. A", "D. D"],
+            "rightAnswer": "A",
+            "quiz": "Student rate per day:"
+          },
+          {
+            "quizNumber": 5,
+            "answers": ["A. 10 am", "B. 9 am ", "C. 7 am", "D. 8 am"],
+            "rightAnswer": "D",
+            "quiz": "What time does the library open?"
+          },
+          {
+            "quizNumber": 6,
+            "answers": [
+              "A. 10 am", "B. 9 am ", "C. 7 am", "D. 8 am"
+            ],
+            "rightAnswer": "C",
+            "quiz": "What time does the cafeteria close at weekends?"
+          },
+          {
+            "quizNumber": 7,
+            "answers": [
+              "A. 10 am", "B. 9 am ", "C. 7 am", "D. 8 am"
+            ],
+            "rightAnswer": "C",
+            "quiz": "When does the sports centre open?"
+          },
+          {
+            "quizNumber": 8,
+            "answers": ["A. daylight hours", "B. flood lighting.", "C. outdoor", "D. coming "],
+            "rightAnswer": "A",
+            "quiz": "When can the outdoor athletics field be used?"
+          },
+          {
+            "quizNumber": 9,
+            "answers": ["A. 10 am", "B. 1 pm", "C. 3 pm", "D. 4 pm  "],
+            "rightAnswer": "C",
+            "quiz": "When will Saturday’s football trials probably end?"
+          },
+          {
+            "quizNumber": 10,
+            "answers": ["A. 5 ", "B. 12", "C. 1", "D. 3- "],
+            "rightAnswer": "B",
+            "quiz": "When will Neil go to watch the trials?"
+          },
+          {
+            "quizNumber": 11,
+            "answers": ["A. 1", "B. 6", "C. 12", "D. 3"],
+            "rightAnswer": "A",
+            "quiz": "How many London underground lines are there?"
+          },
+          {
+            "quizNumber": 12,
+            "answers": ["A. name, colour", "B.map , circle ", "C. circle, line", "D. system, line"],
+            "rightAnswer": "B",
+            "quiz": "In which two ways are the lines distinguished from each other?"
+          },
+          {
+            "quizNumber": 13,
+            "answers": ["A. 12", "B. 1  ", "C. 6", "D. 3"],
+            "rightAnswer": "C",
+            "quiz": "Which zone is Heathrow airport in?"
+          },
+          {
+            "quizNumber": 14,
+            "answers": ["A. bus", "B. underground  ", "C. card", "D. underground, bus"],
+            "rightAnswer": "D",
+            "quiz": "On which forms of transport can a one-day Travel card be used?"
+          },
+          {
+            "quizNumber": 15,
+            "answers": ["A. 25% ", "B. 20%", "C. 10% ", "D. 15%"],
+            "rightAnswer": "C",
+            "quiz": "How much cheaper is a typical journey using an Oyster card?"
+          },
+          {
+            "quizNumber": 16,
+            "answers": [
+              "A. slot",
+              "B. baggage ",
+              "C. escalators",
+              "D. office"
+            ],
+            "rightAnswer": "A",
+            "quiz": "Put your ticket into the______ when you want to use an automatic gate."
+          },
+          {
+            "quizNumber": 17,
+            "answers": [
+              "A. baggage",
+              "B. ticket ",
+              "C. attendant ",
+              "D. card "
+            ],
+            "rightAnswer": "A",
+            "quiz": "People with ______ can use a bigger gate to enter and leave stations."
+          },
+          {
+            "quizNumber": 18,
+            "answers": [
+              "A. Oyster ",
+              "B. attendant ",
+              "C. escalator",
+              "D. gate "
+            ],
+            "rightAnswer": "C",
+            "quiz": "People usually use _______to get from ground level to the trains."
+          },
+          {
+            "quizNumber": 19,
+            "answers": [
+              "A. direction ",
+              "B. Signs",
+              "C. stand ",
+              "D. leading "
+            ],
+            "rightAnswer": "B",
+            "quiz": " ______  tell people where to go if they are changing lines."
+          },
+          {
+            "quizNumber": 20,
+            "answers": ["A. numerous   ", "B. machine", "C. underground", "D.  foreign languages"],
+            "rightAnswer": "D",
+            "quiz": "You can find maps in many ______at the official website."
+          },
+          {
+            "quizNumber": 21,
+            "answers": [
+              "A. Germany",
+              "B. England",
+              "C. America" 
+            ],
+            "rightAnswer": "A",
+            "quiz": "Where is the student from?"
+          },
+          {
+            "quizNumber": 22,
+            "answers": [
+              "A. schedule",
+              "B. Website",
+              "C. note" 
+            ],
+            "rightAnswer": "A",
+            "quiz": "What does the adviser suggest the student create to manage her time??"
+          },
+          {
+            "quizNumber": 23,
+            "answers": [
+              "A. distracted",
+              "B. received  ",
+              "C. leaflet" 
+            ],
+            "rightAnswer": "C",
+            "quiz": "What does the adviser give the student to help her with time management?"
+          },
+          {
+            "quizNumber": 24,
+            "answers": [
+              "A. complaining ",
+              "B. remain ",
+              "C. closed" 
+            ],
+            "rightAnswer": "C",
+            "quiz": "What is the problem many students have with the library?"
+          },
+          {
+            "quizNumber": 25,
+            "answers": [
+              "A. work long shifts ",
+              "B. not enough staff",
+              "C. changed" 
+            ],
+            "rightAnswer": "B",
+            "quiz": "Why does this problem exist?"
+          },
+          {
+            "quizNumber": 26,
+            "answers": [
+              "A. study longer hour",
+              "B. recording studio ",
+              "C. work",
+              "D. distracted "
+            ],
+            "rightAnswer": "D",
+            "quiz": "The student says she is ______  when she is studying at home."
+          },
+          {
+            "quizNumber": 27,
+            "answers": [
+              "A. question",
+              "B. study longer hours",
+              "C. start planning",
+              "D. recording studio"
+            ],
+            "rightAnswer": "B",
+            "quiz": "As a result, it might be better for her to ______ from Monday to Friday."
+          },
+          {
+            "quizNumber": 28,
+            "answers": [
+              "A. answer the question",
+              "B. distracted",
+              "C. work",
+              "D. check their work"
+            ],
+            "rightAnswer": "A",
+            "quiz": "The main problem with the student’s assignments Is that they fail to ______ "
+          },
+          {
+            "quizNumber": 29,
+            "answers": [
+              "A. short list ",
+              "B. a small fee ",
+              "C. check email",
+              "D. study "
+            ],
+            "rightAnswer": "B",
+            "quiz": "The adviser has a list of people who, for ______ grammar and spelling mistakes."
+          },
+          {
+            "quizNumber": 30,
+            "answers": [
+              "A. checking notes",
+              "B. recording ",
+              "C. bribe ",
+              "D. multiple sites"
+            ],
+            "rightAnswer": "A",
+            "quiz": "The adviser suggests ______  with another student after lectures over a coffee."
+          },
+          {
+            "quizNumber": 31,
+            "answers": [
+              "A. flight",
+              "B. work    ",
+              "C. fun   ",
+              "D. research  "
+            ],
+            "rightAnswer": "A",
+            "quiz": "Many organisations will pay for the cost of a volunteer’s ______ to Africa."
+          },
+          {
+            "quizNumber": 32,
+            "answers": [
+              "A. available ",
+              "B. different   ",
+              "C. more meaningful",
+              "D. wonderful "
+            ],
+            "rightAnswer": "C",
+            "quiz": "The presenter describes volunteering as  ______ than just travelling there. "
+          },
+          {
+            "quizNumber": 33,
+            "answers": [
+              "A. basic ",
+              "B. stipend",
+              "C. commitment ",
+              "D. require  "
+            ],
+            "rightAnswer": "B",
+            "quiz": "Jobs lasting over a year generally offer a _____to cover expenses."
+          },
+          {
+            "quizNumber": 34,
+            "answers": [
+              "A. operation ",
+              "B. relief  ",
+              "C. emergency    ",
+              "D. specific skills"
+            ],
+            "rightAnswer": "D",
+            "quiz": "People without _____  or extensive education can expect to cover their own costs."
+          },
+          {
+            "quizNumber": 35,
+            "answers": [
+              "A. Saharan Africa  ",
+              "B. local people",
+              "C. Africa",
+              "D. afflictions  "
+            ],
+            "rightAnswer": "B",
+            "quiz": "The employment of  _____ s preferred by organisations since projects are long-term."
+          },
+          {
+            "quizNumber": 36,
+            "answers": [
+              "A. water, food",
+              "B. electricity, food",
+              "C. running water,electricity",
+              "D. water, fruit"
+            ],
+            "rightAnswer": "C",
+            "quiz": "Which two things are uncommon in rural areas?"
+          },
+          {
+            "quizNumber": 37,
+            "answers": [
+              "A. urban ",
+              "B. rural",
+              "C. traditional ",
+              "D. cultural "
+            ],
+            "rightAnswer": "B",
+            "quiz": "Which areas generally have more conservative populations?"
+          },
+          {
+            "quizNumber": 38,
+            "answers": ["A. food, water ", "B. water, fruit  ", "C. food, oil ", "D. food, car"],
+            "rightAnswer": "A",
+            "quiz": "What two new things will your body need to adapt to?"
+          },
+          {
+            "quizNumber": 39,
+            "answers": ["A. note", "B. online diaries ", "C. smart phone  ", "D. laptop  "],
+            "rightAnswer": "B",
+            "quiz": "Where do many volunteers and travellers relate their experiences?"
+          },
+          {
+            "quizNumber": 40,
+            "answers": ["A. work permit ", "B. experiences ", "C. healthy","D. official  "],
+            "rightAnswer": "A",
+            "quiz": "What do you need to work in African countries?"
+          }
+        ]
+      }
+    ]
+  }
+}

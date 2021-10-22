@@ -1,3 +1,5 @@
+import { goToScorePage } from "./calculateScore.js";
+
 function startTimer(duration, display) {
   var timer = duration,
     minutes,
@@ -15,6 +17,7 @@ function startTimer(duration, display) {
     //   timer = '00:00';
       clearInterval(tempInterval);
       console.log(document.querySelector("#time").innerText);
+      goToScorePage();
     }
   }, 1000);
 }

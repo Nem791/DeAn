@@ -483,6 +483,7 @@
 <!-- The core Firebase JS SDK is always required and must be listed first -->
 <script src="https://www.gstatic.com/firebasejs/8.9.1/firebase-app.js"></script>
 <script src="https://www.gstatic.com/firebasejs/8.9.1/firebase-auth.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.9.1/firebase-firestore.js"></script>
 
 <script>
     // TODO: Add SDKs for Firebase products that you want to use
@@ -500,6 +501,7 @@
 
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);
+    let db = firebase.firestore();
 </script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"
@@ -507,5 +509,7 @@
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script type="module" src="./js/load-user.js"></script>
 <script type="module" src="./js/load-test-info.js"></script>
+<script src="./js/check-user-test-status.js"></script>
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
 </html>

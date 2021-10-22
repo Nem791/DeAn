@@ -11,7 +11,7 @@
         integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="./css/reading.css">
-    <title>Document</title>
+    <title>Listening</title>
 </head>
 
 <body>
@@ -41,7 +41,7 @@
                         </div>
                     </div>
                     <div class="test-header__bottom">
-                        <a href="" class="test-header__logo-wrap">
+                        <a href="./index.html" class="test-header__logo-wrap">
                             <img class="test-header__logo-img"
                                 src="https://ieltsonlinetests.com/themes/iot/images/logo_small.png">
                         </a>
@@ -72,7 +72,7 @@
                 </div>
                 <div class="split split-item">
                     <div class="split-left">
-                        <div id="set-question-1" class="tab-section-question-reading">
+                        <!-- <div id="set-question-1" class="tab-section-question-reading">
                             <div class="sl-caption"> <span>Section 2: Questions 14-26</span></div>
                             <div class="sec-content-1">
                                 <div class="question question-1">
@@ -249,7 +249,7 @@
                                     </a>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -290,8 +290,33 @@
 
 </body>
 
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/8.9.1/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.9.1/firebase-auth.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.9.1/firebase-firestore.js"></script>
+
+<script>
+    // TODO: Add SDKs for Firebase products that you want to use
+    // https://firebase.google.com/docs/web/setup#available-libraries
+
+    // Your web app's Firebase configuration
+    const firebaseConfig = {
+        apiKey: "AIzaSyAVQZRE19tMUjqnydGddx4tJezUGtRi-S4",
+        authDomain: "ieltsapp-eab5c.firebaseapp.com",
+        projectId: "ieltsapp-eab5c",
+        storageBucket: "ieltsapp-eab5c.appspot.com",
+        messagingSenderId: "963927164947",
+        appId: "1:963927164947:web:8a888c1c7b0516ae7657e6"
+    };
+
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+    let db = firebase.firestore();
+</script>
+
 <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 <script src="./js/test-nav-bar.js"></script>
+<script type="module" src="./js/listening.js"></script>
 <!-- <script type="module" src="./js/reading.js"></script> -->
 <script>
     // document.querySelector('.embedded-video').src = `https://www.youtube-nocookie.com/embed/Zu5RSC_oxOU?showinfo=0&rel=0&fs=0&color=white&autohide=0&controls=0&disablekb=1`;

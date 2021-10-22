@@ -62,6 +62,7 @@ class UserDropdown {
 
   handleLogout = () => {
     firebase.auth().signOut();
+    localStorage.clear();
   };
 
   render() {
