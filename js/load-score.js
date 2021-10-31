@@ -9,6 +9,14 @@ let type = url.searchParams.get("type");
 let email = localStorage.getItem("temp-user-info");
 email = JSON.parse(email).email;
 
+// Load ten nguoi dung tren page 
+let tempUserInfo = localStorage.getItem('temp-user-info');
+tempUserInfo = JSON.parse(tempUserInfo);
+let usUser = document.querySelector('.us-user');
+usUser.firstElementChild.src = tempUserInfo.photoURL;
+usUser.lastElementChild.innerText = tempUserInfo.displayName;
+console.log(tempUserInfo)
+
 // Load ten test 
 document.querySelector('.test-caption').innerText = JSON.parse(localStorage.getItem("test-name"));
 

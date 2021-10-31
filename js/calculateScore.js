@@ -32,8 +32,10 @@ function goToScorePage() {
     var url = new URL(url_string);
     var id = url.searchParams.get("id");
     let test = url.searchParams.get("test");
-    let email = localStorage.getItem("temp-user-info");
-    email = JSON.parse(email).email;
+    let tempUserInfo = localStorage.getItem("temp-user-info");
+    let email = JSON.parse(tempUserInfo).email;
+    let name = JSON.parse(tempUserInfo).displayName;
+    let photo = JSON.parse(tempUserInfo).photoURL;
 
     var docRef = db.collection(id).doc(email);
 
@@ -50,7 +52,9 @@ function goToScorePage() {
                         sysAnswer: sysAnswerArray,
                         time: document.querySelector("#time").innerText,
                         practiceTest: parseInt(test),
-                        testType: document.title.toLowerCase()
+                        testType: document.title.toLowerCase(),
+                        displayName: name,
+                        photoURL: photo
                     }),
                 })
                 .then(() => {
@@ -70,7 +74,9 @@ function goToScorePage() {
                                 sysAnswer: sysAnswerArray,
                                 time: document.querySelector("#time").innerText,
                                 practiceTest: parseInt(test),
-                                testType: document.title.toLowerCase()
+                                testType: document.title.toLowerCase(),
+                                displayName: name,
+                                photoURL: photo
                             },
                         ],
                     })
