@@ -27,5 +27,21 @@ h3{
 p{
     text-align: justify;
 }
-
+@media (max-width:800px){
+    .footer-distributed{
+        display: flex;
+        flex-direction: row;
+        padding: 30px 30px ;
+        
+    }
+    .footer-center{
+        text-align: left;
+    }
+    .home-page{
+        margin: 0px 0px 0px 0px 
+    }
+    /* .render-user{
+        width: 20px; */
+    
+}
     
