@@ -33,9 +33,12 @@ docRef
             scoreInfo.forEach(element => {
                 console.log(element);
                 if (element.practiceTest == test && element.testType == type) {
-                    console.log('+');
-                    showScore(element.testScore, element.time);
-                    showAnswers(element.option, element.sysAnswer);
+                    if (type != 'speaking') {
+                        showScore(element.testScore, element.time, 40);
+                        showAnswers(element.option, element.sysAnswer);
+                    } else {
+                        showScore(element.testScore, element.time, 5);
+                    }
                 }
             })
         } else {
@@ -48,6 +51,12 @@ docRef
             let tempTime = JSON.parse(localStorage.getItem("tempUserTime"));
             showScore(tempScore, tempTime);
             showAnswers(tempOption, tempAnswer);
+            if (type != 'speaking') {
+                showScore(tempScore, tempTime, 40);
+                showAnswers(tempOption, tempAnswer);
+            } else {
+                showScore(tempScore, tempTime, 5);
+            }
         }
     })
     .catch((error) => {
@@ -95,13 +104,13 @@ function showAnswers(option, answer) {
 }
 
 // Hien diem so va thoi gian tuong ung vs 3 hinh` tron`
-function showScore(score, time) {
+function showScore(score, time, length) {
     let overlay = document.querySelectorAll(".overlay");
     overlay[0].children[1].innerText = `Correct Answers`;
-    overlay[0].children[2].innerText = `${score}/40`;
+    overlay[0].children[2].innerText = `${parseFloat(score).toFixed(2)}/${length}`;
 
     overlay[1].children[1].innerText = `Score`;
-    overlay[1].children[2].innerText = `${score * (10 / 40)}`;
+    overlay[1].children[2].innerText = `${parseFloat(score * (10 / length)).toFixed(2)}`;
 
     overlay[2].children[1].innerText = `Time Spent`;
     overlay[2].children[2].innerText = time;

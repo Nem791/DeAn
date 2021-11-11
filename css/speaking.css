@@ -1,0 +1,227 @@
+.taking-test-page {
+    -webkit-transform: none;
+    transform: none;
+}
+
+.speaking-test {
+    padding-bottom: 40px;
+    transition: all 0.55s cubic-bezier(0.32,-0.08,0.42,1.22);
+}
+
+.speaking-test .mic-box {
+    max-width: 1056px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.speaking-test .mic-box__contents {
+    min-height: 470px;
+    border-radius: 8px;
+    border: solid 1px #d4dae0;
+    background-color: #f3f3f3;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    position: relative;
+}
+
+.speaking-test .iot-bt, .speaking-test .iot-btgr, .speaking-test .iot-btor, .speaking-test .iot-btc, .speaking-test .test-bt, .speaking-test .explain-bt {
+    transition: all .3s;
+}
+
+.speaking-test .iot-bt {
+    background-color: #c86478;
+    margin-bottom: 0;
+    width: 100%;
+    max-width: 350px;
+}
+
+button.iot-bt {
+    line-height: normal;
+}
+
+.iot-bt, .iot-btgr, .iot-btor, .iot-btc, .test-bt, .explain-bt {
+    height: 48px;
+    line-height: 48px;
+    padding: 0 16px;
+    border-radius: 4px;
+    background-color: #284664;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    color: #ffffff;
+    text-align: center;
+    -moz-transition: all ease 0.2s;
+    -o-transition: all ease 0.2s;
+    -webkit-transition: all ease 0.2s;
+    transition: all ease 0.2s;
+    display: inline-block;
+    border: none;
+    cursor: pointer;
+}
+
+.speaking-test .mic-box {
+    max-width: 1056px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.speaking-test .mic-box__contents {
+    min-height: 470px;
+    border-radius: 8px;
+    border: solid 1px #d4dae0;
+    background-color: #f3f3f3;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    position: relative;
+}
+
+.speaking-test .mic-box__part-title {
+    font-size: 24px;
+    text-align: center;
+    margin: 0;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #fff;
+    position: absolute;
+    left: -1px;
+    right: -1px;
+    top: -1px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    background-color: #f5e1e4;
+    line-height: 60px;
+    height: 60px;
+    padding: 0 146px;
+}
+
+.speaking-test .mic-box__part-num {
+    line-height: 60px;
+    height: 60px;
+    width: 146px;
+    background-color: #c86478;
+    position: absolute;
+    left: 0;
+    top: 0;
+    border-top-left-radius: 8px;
+}
+
+.speaking-test .mic-box__part-name {
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #284664;
+}
+
+.speaking-test .mic-box__test-content {
+    margin: 80px 0 0;
+}
+
+.speaking-test .mic-box__instruction-title {
+    margin-top: 100px;
+    font-size: 24px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #c86478;
+}
+
+.speaking-test .mic-box__instruction-desc {
+    color: #284664;
+    font-size: 20px;
+    max-width: 407px;
+    margin: 0 auto;
+    font-weight: bold;
+}
+
+p {
+    margin: 0 0 10px;
+    text-align: center;
+}
+
+.region-content {
+    margin-top: 100px;
+}
+
+.btn-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.speaking-test .mic-box__test-content {
+    margin: 80px 0 0;
+}
+
+.speaking-test .mic-box__question {
+    font-size: 28px;
+    font-weight: 800;
+    text-align: center;
+    color: #284664;
+    padding: 0 15px;
+    max-width: 778px;
+    margin: 0 auto;
+    line-height: 1.36;
+}
+
+.speaking-test .mic-box__question-number {
+    font-weight: bold;
+    color: #c76478;
+    text-transform: uppercase;
+}
+
+.speaking-test .mic-box__question-title {
+    padding: 0 10px;
+}
+
+.speaking-test .mic-box__question-title p:last-child {
+    margin-bottom: 0;
+}
+
+.speaking-test .mic-box__duration {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    color: #c86478;
+}
+
+.speaking-test .mic-box__indicator {
+    position: absolute;
+    right: 20px;
+    line-height: 60px;
+    height: 60px;
+    text-align: center;
+    vertical-align: middle;
+    display: flex;
+    align-items: center;
+}
+
+.spinner-grow {
+    height: 12px;
+    width: 12px;
+    margin-top: 5px;
+}
+
+.text-render, .confidence, .display-score {
+    overflow-wrap: break-word;
+    padding: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

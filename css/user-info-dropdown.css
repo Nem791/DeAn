@@ -36,6 +36,11 @@ li.user-palette:hover .user-info-wrap {
     height: 50px;
 }
 
+.user-sm-box:hover {
+    background-color: #f7f7f7 !important;
+    cursor: auto;
+}
+
 .user-info-wrap ul li {
     float: none;
     display: block;

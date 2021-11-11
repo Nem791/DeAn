@@ -27,6 +27,11 @@ fetch("http://localhost:3000/ielts_reading")
             readingBtn.addEventListener('click', () => {
                 location.href = `./reading.html?id=${id}&test=${index + 1}`;
             })
+
+            let speakingBtn = divTableRow.render().childNodes[3].querySelector('.practice-item__btn-action');
+            speakingBtn.addEventListener('click', () => {
+                location.href = `./speaking.html?id=${id}&test=${index + 1}`;
+            })
         });;
         // Render ten test 
         let testCaption = document.querySelector(".test-caption");

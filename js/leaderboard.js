@@ -28,10 +28,10 @@ db.collection(id)
         querySnapshot.forEach((doc) => {
             let tempInfo = doc.data().scoreInfo;
             tempInfo.forEach(element => {
-                // if (element.testType == type && element.practiceTest == parseInt(test)) {
-                element.email = doc.id;
-                scoreInfoArray.push(element);
-                // }
+                if (element.testType == type && element.practiceTest == parseInt(test)) {
+                    element.email = doc.id;
+                    scoreInfoArray.push(element);
+                }
             })
         });
     })

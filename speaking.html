@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap  -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <!-- Font Awesome  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"
+        integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="./css/reading.css">
+    <link rel="stylesheet" href="./css/speaking.css">
+    <title>Speaking</title>
+</head>
+
+<body>
+    <div class="region-header-question">
+        <section class="block-iot-ielts clearfix">
+            <header class="test-header">
+                <div class="container-custom">
+                    <div class="test-header__top clearfix">
+                        <div class="volume__basic-info">
+                            <div class="volume__cover">
+                                <img class="volume__cover-image"
+                                    src="https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-08.png">
+                            </div>
+                            <h1 class="volume__title">IELTS Mock Test 2021 August</h1>
+                        </div>
+                        <div class="volume__more-info">
+                            <div class="volume__info-item">
+                                <span class="ioticon-date"><i class="fas fa-calendar-alt"></i> Published on: 20 Aug
+                                    2021</span>
+                            </div>
+                            <div class="volume__info-item">
+                                <span class="ioticon-views"><i class="fas fa-eye"></i> Views: 500,961</span>
+                            </div>
+                        </div>
+                        <div class="volume__practice-info">
+                            <h3 class="volume__practice-title">Reading Practice Test 1</h3>
+                        </div>
+                    </div>
+                    <div class="test-header__bottom">
+                        <a href="./index.html" class="test-header__logo-wrap">
+                            <img class="test-header__logo-img"
+                                src="https://ieltsonlinetests.com/themes/iot/images/logo_small.png">
+                        </a>
+                        <div class="test-header__bottom-right">
+                            <button class="test-header__btn-info">Show Test Info</button>
+                        </div>
+                    </div>
+                </div>
+            </header>
+        </section>
+    </div>
+    <div class="region region-content">
+        <div class="speaking-test taking-test-page">
+            <div class="container">
+                <div class="mic-box__contents">
+                    <h1 class="mic-box__part-title">
+                        <span class="mic-box__part-num">Speaking</span>
+                        <span class="mic-box__part-name">
+
+                        </span>
+                    </h1>
+                    <div class="mic-box__indicator" id="recording-indicator">
+                        <div class="spinner-grow text-danger" role="status">
+                            <span class="visually-hidden">Loading...</span>
+                        </div>
+                        <div style="padding: 10px;">recording...</div>
+                    </div>
+                    <div class="mic-box__record-part">
+                        <div class="part-question-content">
+                            <div class="mic-box__test-content">
+                                <h2 class="mic-box__question">
+                                    <span class="question-number mic-box__question-number" id="question-number">Sentence
+                                        <span id="sentence-id">1</span></span>
+                                    <p class="paragraph">Do you use computers</p>
+                                </h2>
+                            </div>
+                            <!-- <div class="mic-box__duration" id="js-time-duration">02:01</div> -->
+                            <div class="text-rendering">
+                                <div class="text-render">
+                                    <b>Text:</b>
+                                    <span id="final"></span>
+                                    <span id="interim"></span>
+                                </div>
+                                <div class="confidence">
+                                    <b>System's accuracy: </b><span id='confidence-number'></span>
+                                </div>
+                                <div class="display-score d-flex">
+                                    <span><b>Match: </b><span id='user-match'></span></span>
+                                    <span style="margin-left: 250px;"><b>Score: </b><span id='user-score'></span></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="mic-box__test-content">
+                            <h2 class="mic-box__instruction-title">Instruction</h2>
+                            <div class="mic-box__instruction-desc">
+                                <p>You will be given some sentences. Press record and read the sentences aloud then
+                                    press Stop.&nbsp;</p>
+                                <p>If confidence level is greater than 80% you can move on to the next question. If not,
+                                    you will have the option to record again</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="btn-container d-flex justify-content-around">
+                    <button class="iot-bt" id="turn-on-mic">Record</button>
+                    <button class="iot-bt" id="js-start-part">Start now</button>
+                    <button class="iot-bt" id="test-btn">Stop Recording</button>
+                    <button class="iot-bt" id="next-sentence">Next Sentence</button>
+                    <button class="iot-bt" id="submit-score">Submit</button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</body>
+
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/8.9.1/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.9.1/firebase-auth.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.9.1/firebase-firestore.js"></script>
+
+<script>
+    // TODO: Add SDKs for Firebase products that you want to use
+    // https://firebase.google.com/docs/web/setup#available-libraries
+
+    // Your web app's Firebase configuration
+    const firebaseConfig = {
+        apiKey: "AIzaSyAVQZRE19tMUjqnydGddx4tJezUGtRi-S4",
+        authDomain: "ieltsapp-eab5c.firebaseapp.com",
+        projectId: "ieltsapp-eab5c",
+        storageBucket: "ieltsapp-eab5c.appspot.com",
+        messagingSenderId: "963927164947",
+        appId: "1:963927164947:web:8a888c1c7b0516ae7657e6"
+    };
+
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+    let db = firebase.firestore();
+</script>
+
+<script src="https://cdn.jsdelivr.net/gh/Manohar-Gunturu/rs.speech.js@master/src/rs.speech.js"></script>
+<script src="./js/test-nav-bar.js"></script>
+<script src="//unpkg.com/string-similarity/umd/string-similarity.min.js"></script>
+<script type="module" src="./js/speaking.js"></script>
+<script src="./js/render-speaking.js"></script>
+
+</html>

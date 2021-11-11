@@ -45,6 +45,19 @@ docRef
                         location.href = `./score.html?id=${id}&type=${element.testType}&test=${parseInt(element.practiceTest)}`;
                     })
                 }
+                if (element.testType == "speaking") {
+                    // divTableRow[parseInt(element.practiceTest)] la` de lay hang` practice test so bao nhieu 
+                    // querySelectorAll('.practice-item__btn')[2] la` nut' lam` bai cua speaking
+                    let speakingBtn = divTableRow[parseInt(element.practiceTest)].querySelectorAll('.practice-item__btn')[2];
+                    speakingBtn.innerText = 'Xem kết quả';
+                    // Clone element de xoa event 
+                    let cloneSpeakingBtn = speakingBtn.cloneNode(true);
+                    speakingBtn.parentNode.replaceChild(cloneSpeakingBtn, speakingBtn);
+                    cloneSpeakingBtn.style.cursor = 'pointer';
+                    cloneSpeakingBtn.addEventListener('click', () => {
+                        location.href = `./score.html?id=${id}&type=${element.testType}&test=${parseInt(element.practiceTest)}`;
+                    })
+                }
             });
         } else {
             // Khong co document => Vua lam` test xong 
