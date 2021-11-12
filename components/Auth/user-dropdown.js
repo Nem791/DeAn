@@ -48,7 +48,7 @@ class UserDropdown {
     this.$liLink2.innerHTML = `<a href="">IELTS Prep Services</a>`;
 
     this.$liLink3 = document.createElement("li");
-    this.$liLink3.innerHTML = `<a href="">Hồ sơ của tôi</a>`;
+    this.$liLink3.innerHTML = `<a href="./profile.html">Hồ sơ của tôi</a>`;
 
     this.$liLink4 = document.createElement("li");
     this.$liLink4.classList.add("test-history", "line");

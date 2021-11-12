@@ -139,7 +139,7 @@ li.user-notification {
     position: relative;
     width: 19px;
     height: 26px;
-    background: url('https://ieltsonlinetests.com/themes/iot/images/xnotification_white.png.pagespeed.ic.galmn6mwWY.webp') center no-repeat;
+    /* background: url('https://ieltsonlinetests.com/themes/iot/images/xnotification_white.png.pagespeed.ic.galmn6mwWY.webp') center no-repeat; */
     transform: none!important;
     display: inline-block;
 }
@@ -157,7 +157,7 @@ li.user-notification {
     position: relative;
     text-align: center;
     background-color: #284664;
-    background-image: url('https://ieltsonlinetests.com/themes/iot/images/hero-banner.jpg');
+    /* background-image: url('https://ieltsonlinetests.com/themes/iot/images/hero-banner.jpg'); */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -225,7 +225,6 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 .iot-bt {
     padding: 0 16px;
     font-weight: bold;
-    font-family: "Montserrat",Helvetica,Arial,sans-serif;
     text-align: center;
     display: inline-block;
     border: none;
