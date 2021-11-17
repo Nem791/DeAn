@@ -34,7 +34,7 @@ p{
     align-items: center;
     margin : 0px auto
 } 
-.icon{
+/* .icon{
     font-size: 25px;
     float: right;
     line-height: 50px;
@@ -47,18 +47,21 @@ p{
     float: left;
     line-height: 50px;
     margin-right: 40px;
-}
+} */
 /* @media screen and (max-width: 954px){
     .main-menu__item{
         font-size: 4px;
     }
-
 } */
+
 @media screen and (max-width: 1000px) {
     .main-menu{
         overflow: hidden;
         background-color: #284664;
         position: relative;
+        width: 100%;
+        height: 100vh;
+        
     }
     .main-menu__item{
         display: none;
@@ -95,4 +98,3 @@ p{
     }
 
 }
-

@@ -296,6 +296,64 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 .slick-prev:before, .slick-next:before{
     color:red;
 }
+.icon{
+    font-size: 25px;
+    float: right;
+    line-height: 50px;
+    margin-right: 40px;
+    cursor: pointer;
+    display: none;
+}
+.logo{
+    font-size: 25px;
+    float: left;
+    line-height: 50px;
+    margin-right: 40px;
+}
+@media screen and (max-width: 1000px) {
+    .main-menu{
+        overflow: hidden;
+        background-color: #284664;
+        position: relative;
+        /* width: 100%; */
+        /* height: 100vh; */
+        
+    }
+    .main-menu__item{
+        display: none;
+        
+    }
+    .main-menu__item a.icon{
+        background: black;
+        display: block;
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+    .main-menu__item a{
+        font-size: 6px;
+        color: #fff;
+        display: block;
+        font-weight: 800;
+        padding: 0 10px;
+        position: relative;
+        line-height: 50px;
+        height: 50px;
+        
+    } 
+    /* .main-menu__item a:hover{
+        background-color: blueviolet;
+        color: black;
+    } */
+    .icon{
+        display: block;
+    }
+    li a{
+        font-size: 6px !important;
+        
+    }
+
+}
 
 
 
