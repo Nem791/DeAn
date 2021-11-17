@@ -2,8 +2,10 @@ import { TestItem } from "../components/testItem.js";
 
 let tabContent = document.querySelector('.tab-content');
 
-let test = { a: ['a', 'f'], b: ['b', 'c'] };
-console.log(test['a']);
+// Lay search params tu` url 
+var url_string = location.href;
+var url = new URL(url_string);
+var id = url.searchParams.get("id");
 
 // Lay thong tin user 
 let tempUserInfo = localStorage.getItem("temp-user-info");
@@ -77,6 +79,7 @@ fetch("http://localhost:3000/ielts_reading")
 
         renderLibrary(data);
 
+        // Chuyen giua all test va user test 
         let typeBtn = document.querySelectorAll('.all-test-li');
         typeBtn[0].classList.add('active');
         typeBtn.forEach((element, index) => {
@@ -105,11 +108,12 @@ fetch("http://localhost:3000/ielts_reading")
             })
         })
 
-
-
-
+        if (id == 'user') {
+            typeBtn[1].click();
+        }
     })
     .then(() => {
+
     })
     .catch((error) => {
         console.log(error);
