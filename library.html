@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!-- Font Awesome  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"
+        integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/user-info-dropdown.css">
+    <link rel="stylesheet" href="./css/library.css">
+    <link rel="stylesheet" href="./css/footer.css">
+    <title>Library</title>
+</head>
+
+<body>
+    <div class="page exam-library">
+        <nav class="menu">
+            <div class="container">
+                <div class="main-menu">
+                    <a href="index.html"> <i class="fas fa-home"></i></a>
+                    <li class="main-menu__item">
+                        <a href="">Thư viện đề thi IELTS <i class="fas fa-chevron-down"></i></a>
+                        <div class="sub-menu">
+                            <div class="container">
+                                <ul>
+                                    <li>
+                                        <a class="link-drop-down" href="">Đề thi Academic</a>
+                                    </li>
+                                    <li>
+                                        <a class="link-drop-down" href="">Đề thi General Training</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="main-menu__item">
+                        <a href="">IELTS Tips <i class="fas fa-chevron-down"></i></a>
+                        <div class="sub-menu">
+                            <div class="container">
+                                <ul>
+                                    <li>
+                                        <a class="link-drop-down" href="listeningtip.html">Listening</a>
+                                    </li>
+                                    <li>
+                                        <a class="link-drop-down" href="tips.html">Reading</a>
+                                    </li>
+                                    <li>
+                                        <a class="link-drop-down" href="speakingtip.html">Speaking</a>
+                                    </li>
+                                    <li>
+                                        <a class="link-drop-down" href="writingtip.html">Writing</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="main-menu__item">
+                        <a href="">IELTS Prep <i class="fas fa-chevron-down"></i></a>
+                        <div class="sub-menu">
+                            <div class="container">
+                                <ul>
+                                    <li>
+                                        <a class="link-drop-down" href="">Video luyện nghe IELTS</a>
+                                    </li>
+                                    <li>
+                                        <a class="link-drop-down" href="">Thi thử IELTS Speaking</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="main-menu__item">
+                        <a href="">Lớp học trực tuyến <span></span></a>
+                    </li>
+                    <li class="main-menu__item">
+                        <a href="">Khóa học IELTS <span></span></a>
+                    </li>
+                    <li class="main-menu__item nav-icon user-palette">
+                        <a class="login" href="./login.html">Đăng nhập</a>
+                    </li>
+                    <li class="main-menu__item nav-icon user-notification">
+                        <a href="">
+                            <i class="fas fa-bell"></i>
+                        </a>
+                    </li>
+                </div>
+            </div>
+        </nav>
+
+        <div class="container">
+            <div class="row cols">
+                <div class="col-sm-12 col-xs-12 colleft cl-left">
+                    <div class="box">
+                        <div class="collection-tab-wrapper tests-wrapper">
+                            <ul class="collection-tab-controller lesson-nav nav">
+                                <li class="all-test-li">
+                                    <a href="" class="all-test">
+                                        <i class="far fa-clone"></i>
+                                        Toàn bộ đề thi
+                                    </a>
+                                </li>
+                                <li class="all-test-li">
+                                    <a href="" class="all-test">
+                                        <i class="fas fa-graduation-cap"></i>
+                                        Đề thi đã làm
+                                    </a>
+                                </li>
+                                <!-- <li class="all-test-li">
+                                    <a href="" class="all-test">
+                                        <i class="fas fa-users"></i>
+                                        Toàn bộ đề thi
+                                    </a>
+                                </li> -->
+                            </ul>
+                            <div class="tab-content">
+                                <!-- <div class="test-item clearfix">
+                                    <a href="" class="book">
+                                        <ul class="book-page">
+                                            <img src="https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-08.png" alt="">
+                                        </ul>
+                                    </a>
+                                    <div class="test-content">
+                                        <h2 class="test-title">
+                                            <a href="">IELTS Mock Test 2021</a>
+                                        </h2>
+                                        <div class="list-volume">
+                                            <ul>
+                                                <li class="volume-item">
+                                                    <a href="">
+                                                        <span class="volume-name">Listening</span>
+                                                    </a>
+                                                </li>
+                                                <li class="volume-item">
+                                                    <a href="">
+                                                        <span class="volume-name">Listening</span>
+                                                    </a>
+                                                </li>
+                                                <li class="volume-item">
+                                                    <a href="">
+                                                        <span class="volume-name">Listening</span>
+                                                    </a>
+                                                </li>
+                                                <li class="volume-item">
+                                                    <a href="">
+                                                        <span class="volume-name">Listening</span>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <footer class="footer-distributed mt-5">
+
+            <div class="footer-left">
+
+                <img src="logo.jpg">
+
+                <p class="footer-links">
+                    <a href="#" class="link-1">Home</a>
+
+                    <a href="#">Blog</a>
+
+                    <a href="#">Pricing</a>
+
+                    <a href="#">About</a>
+
+                    <a href="#">Faq</a>
+
+                    <a href="#">Contact</a>
+                </p>
+
+                <!-- <p class="footer-company-name">Company Name © 2015</p> -->
+            </div>
+
+            <div class="footer-center">
+
+                <div>
+                    <i class="fa fa-map-marker"></i>
+                    <p><span>41 Pho Vong</span>Ha Noi, Viet Nam</p>
+                </div>
+
+                <div>
+                    <i class="fa fa-phone"></i>
+                    <p>0869036124</p>
+                </div>
+
+                <div>
+                    <i class="fa fa-envelope"></i>
+                    <p><a href="praticeme@gmail.com">praticeme@gmail.com</a></p>
+                </div>
+
+            </div>
+
+            <div class="footer-right">
+
+                <p class="footer-company-about">
+                    <span>About the website</span>
+                    Practice Me is the community of students, examiners, teachers and IETLS training centres. We
+                    are
+                    going to give you IETLS tips and numerous innovation
+                    features to make IETLS online testing easier, helping student imrprove their IETLS scrores
+                    online.
+                </p>
+
+                <div class="footer-icons">
+
+                    <a href="#"><i class="fab fa-facebook"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-github"></i></a>
+                </div>
+
+
+
+            </div>
+
+        </footer>
+
+    </div>
+</body>
+
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/8.9.1/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.9.1/firebase-auth.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.9.1/firebase-firestore.js"></script>
+
+<script>
+    // TODO: Add SDKs for Firebase products that you want to use
+    // https://firebase.google.com/docs/web/setup#available-libraries
+
+    // Your web app's Firebase configuration
+    const firebaseConfig = {
+        apiKey: "AIzaSyAVQZRE19tMUjqnydGddx4tJezUGtRi-S4",
+        authDomain: "ieltsapp-eab5c.firebaseapp.com",
+        projectId: "ieltsapp-eab5c",
+        storageBucket: "ieltsapp-eab5c.appspot.com",
+        messagingSenderId: "963927164947",
+        appId: "1:963927164947:web:8a888c1c7b0516ae7657e6"
+    };
+
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+    let db = firebase.firestore();
+</script>
+<!-- Thu vien sweet alert  -->
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script type="module" src="./js/load-user.js"></script>
+<script type="module" src="./js/render-library.js"></script>
+
+</html>

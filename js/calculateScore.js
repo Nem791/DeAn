@@ -39,6 +39,15 @@ function goToScorePage() {
 
     var docRef = db.collection(id).doc(email);
 
+    // Update collection test nguoi dung da lam`
+
+    var washingtonRef = db.collection("userQuizInfo").doc(email);
+
+    // document.title.toLowerCase() la` title cua page, cung~ la` the loai test 
+    washingtonRef.update({
+        [`test.${id}`]: firebase.firestore.FieldValue.arrayUnion(document.title.toLowerCase())
+    });
+
     docRef
         .get()
         .then((doc) => {
