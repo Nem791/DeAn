@@ -296,6 +296,83 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 .slick-prev:before, .slick-next:before{
     color:red;
 }
+.icon{
+    font-size: 23px;
+    float: right;
+    line-height: 50px;
+    margin-right: 40px;
+    cursor: pointer;
+    display: none;
+}
+.logo{
+    font-size: 25px;
+    float: left;
+    line-height: 50px;
+    margin-right: 40px;
+}
+.main-menu a.logo:hover{
+    color: black;
+}
+@media screen and (max-width: 1000px) {
+    .main-menu{
+        overflow: hidden;
+        background-color: #284664;
+        position: relative;
+        
+        
+    }
+    .main-menu .main-menu__item{
+        display: flex;
+        flex-direction: row-reverse;
+        /* z-index: 999; */
+        /* margin-top: -50px; */
+        margin-top: 50px
+        
+
+        
+        
+    }
+    .main-menu__item{
+        margin-top: 50px
+    }
+    .main-menu{
+        z-index: 999;
+        
+    }
+    
+    .main-menu .icon .logo{
+        color: rgb(56, 9, 9);
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+        display: block;
+    }
+    
+    .main-menu a.icon{
+        background: #284664;
+        display: block;
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+    .main-menu a.icon:hover{
+        color: rgb(0, 0, 0);
+    }
+    .main-menu>li:hover .sub-menu {
+        visibility: initial;
+        opacity: unset;
+        -moz-transition: all ease .3s;
+        -o-transition: all ease .3s;
+        -webkit-transition: all ease .3s;
+        transition: all ease .3s;
+    }
+}
+
+
+
+
+
+
 
 
 

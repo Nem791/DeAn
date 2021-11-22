@@ -168,11 +168,19 @@ article {
     right: 0px;
 }
 
+.split-item-under {
+    overflow-y: auto;
+    position: relative;
+    float: left;
+    height: 100%;
+    background-color: #d7e6dc;
+}
 .split-item {
     overflow-y: auto;
     position: relative;
     float: left;
     height: 100%;
+    
 }
 
 .split {
