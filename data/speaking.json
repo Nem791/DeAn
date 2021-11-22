@@ -1,127 +1,112 @@
 {
     "ielts_speaking": {
         "august_2021": [
-            [
-                {
-                    "test_name": "IELTS Mock Test 2021 August",
-                    "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-08.png",
-                    "sentences": [
-                        "Computers were not always things you could carry around with you, or even have in your bedroom. Sixty years ago, computers were as big as entire apartments. They were difficult to use and not very powerful by today's standards. They also cost a lot of money to build and operate. So computers were only used by large organizations such as governments, international corporations, and universities. ",
-                        "Throughout the 1950s and 1960s, computers captured the public's imagination in literature, films, and TV. More and more companies wanted computers, even if they didn't always have a good reason to own one. As a result, computers gradually became smaller, cheaper, and more practical to own. This was thanks in part to companies like IBM, which massproduced computers for the first time and promoted them to medium and large businesses to do things like payroll, accounting, and other number-crunching tasks. ","Additionally, renewable energy could empower millions of poor and vulnerable people who lack access to reliable, affordable, and clean modem energy services, UN Secretary General Kofi Annan said in a message to the Beijing International Renewable Energy Conference, which opened Monday. Annan said that rising oil prices have hit oil-importing developing countries especially hard and underscore the need for alternative energy supplies. According to the REN21 report, government support for renewable energy is growing rapidly. At least 48 countries now have some type of renewable energy promotion policy, including 14 developing countries. Typically, they include targets to ensure that renewable sources generate 5-30 per cent of energy use in a given country by around 2010-2012.",
-                        "In the 1970s and 1980s a new type of computer started to gain in popularity. It was called the PC or personal computer. For the first time in history, computers were now for everyone. ",
-                        "The PC started a revolution which affects nearly everything we do today. The ways we work, play, communicate, and access information have all been radically reshaped due to the invention and evolution of the PC.",
-                        "PCs are everywhere you look today. At home, at the office, and everywhere in between. Many people still mistakenly believe the term PC is synonymous with a desktop computer running Windows"
-                    ]
-                }
-            ]
+            {
+                "test_name": "IELTS Mock Test 2021 August",
+                "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-08.png",
+                "sentences": [
+                    "Computers were not always things you could carry around with you, or even have in your bedroom. Sixty years ago, computers were as big as entire apartments. They were difficult to use and not very powerful by today's standards. They also cost a lot of money to build and operate. So computers were only used by large organizations such as governments, international corporations, and universities. ",
+                    "Throughout the 1950s and 1960s, computers captured the public's imagination in literature, films, and TV. More and more companies wanted computers, even if they didn't always have a good reason to own one. As a result, computers gradually became smaller, cheaper, and more practical to own. This was thanks in part to companies like IBM, which massproduced computers for the first time and promoted them to medium and large businesses to do things like payroll, accounting, and other number-crunching tasks. ",
+                    "Additionally, renewable energy could empower millions of poor and vulnerable people who lack access to reliable, affordable, and clean modem energy services, UN Secretary General Kofi Annan said in a message to the Beijing International Renewable Energy Conference, which opened Monday. Annan said that rising oil prices have hit oil-importing developing countries especially hard and underscore the need for alternative energy supplies. According to the REN21 report, government support for renewable energy is growing rapidly. At least 48 countries now have some type of renewable energy promotion policy, including 14 developing countries. Typically, they include targets to ensure that renewable sources generate 5-30 per cent of energy use in a given country by around 2010-2012.",
+                    "In the 1970s and 1980s a new type of computer started to gain in popularity. It was called the PC or personal computer. For the first time in history, computers were now for everyone. ",
+                    "The PC started a revolution which affects nearly everything we do today. The ways we work, play, communicate, and access information have all been radically reshaped due to the invention and evolution of the PC.",
+                    "PCs are everywhere you look today. At home, at the office, and everywhere in between. Many people still mistakenly believe the term PC is synonymous with a desktop computer running Windows"
+                ]
+            }
         ],
         "january_2021": [
-            [
-                {
-                    "test_name": "IELTS Mock Test 2021 January",
-                    "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-01.png",
-                    "sentences": [
-                        "The distinction between supercomputers and mainframes is not a hard and fast one, but supercomputers generally focus on problems which are limited by calculation speed while mainframes focus on problems which are limited by input/output and reliability and on solving multiple business problems concurrently",
-                        "The differences and similarities include: ",
-                        "Both types of systems offer parallel processing. Supercomputers typically expose it to the programmer in complex manners, while mainframes typically use it to run multiple tasks. ",
-                        "One result of this difference is that adding processors to a mainframe often speeds up the entire workload transparently.",
-                        "Supercomputers are optimized for complicated computations that take place largely in memory, while mainframes are optimized for comparatively simple computations involving huge amounts of external data.",
-                        "For example, weather forecasting is suited to supercomputers, and insurance business or payroll processing applications are more suited to mainframes",
-                        "Supercomputers are often purpose-built for one or a very few specific institutional tasks. Mainframes typically handle a wider variety of tasks ",
-                        "Consequently, most supercomputers can be one-off designs, whereas mainframes typically form part of a manufacturer's standard model lineup."
-                    ]
-                }
-            ]
+            {
+                "test_name": "IELTS Mock Test 2021 January",
+                "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-01.png",
+                "sentences": [
+                    "The distinction between supercomputers and mainframes is not a hard and fast one, but supercomputers generally focus on problems which are limited by calculation speed while mainframes focus on problems which are limited by input/output and reliability and on solving multiple business problems concurrently",
+                    "The differences and similarities include: ",
+                    "Both types of systems offer parallel processing. Supercomputers typically expose it to the programmer in complex manners, while mainframes typically use it to run multiple tasks. ",
+                    "One result of this difference is that adding processors to a mainframe often speeds up the entire workload transparently.",
+                    "Supercomputers are optimized for complicated computations that take place largely in memory, while mainframes are optimized for comparatively simple computations involving huge amounts of external data.",
+                    "For example, weather forecasting is suited to supercomputers, and insurance business or payroll processing applications are more suited to mainframes",
+                    "Supercomputers are often purpose-built for one or a very few specific institutional tasks. Mainframes typically handle a wider variety of tasks ",
+                    "Consequently, most supercomputers can be one-off designs, whereas mainframes typically form part of a manufacturer's standard model lineup."
+                ]
+            }
         ],
         "february_2021": [
-            [
-                {
-                    "test_name": "IELTS Mock Test 2021 February",
-                    "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-02.png",
-                    "sentences": [
-                        " Due to convergence, the traditional categories we divide computing into are blurring. But for practical reasons, IT professionals can still divide hardware into two main classes: components and peripherals. ",
-                        "Components are primarily core internal devices of a computer which help define what type a computer is, what it is capable of doing, and how well it is capable of doing it. Nothing affects the overall quality of a computer more than its components. ",
-                        "Normally the more expensive a component is, the better it performs. This is a general guideline however and not a steadfast rule. Sometimes you can spend a lot more money on a component with only slightly better performance than one costing half as much.",
-                        "Other times a very expensive component might be based on a completely new technology that is not ready for mass production. In these cases, one is often better off buying a more mainstream part",
-                        "Being an early adopter is not always the most practical move when speccing components for a new system. Often you can find very powerful hardware at the medium price ranges. There is normally a relatively large sweet-spot in the market."
-                    ]
-                }
-            ]
+            {
+                "test_name": "IELTS Mock Test 2021 February",
+                "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-02.png",
+                "sentences": [
+                    " Due to convergence, the traditional categories we divide computing into are blurring. But for practical reasons, IT professionals can still divide hardware into two main classes: components and peripherals. ",
+                    "Components are primarily core internal devices of a computer which help define what type a computer is, what it is capable of doing, and how well it is capable of doing it. Nothing affects the overall quality of a computer more than its components. ",
+                    "Normally the more expensive a component is, the better it performs. This is a general guideline however and not a steadfast rule. Sometimes you can spend a lot more money on a component with only slightly better performance than one costing half as much.",
+                    "Other times a very expensive component might be based on a completely new technology that is not ready for mass production. In these cases, one is often better off buying a more mainstream part",
+                    "Being an early adopter is not always the most practical move when speccing components for a new system. Often you can find very powerful hardware at the medium price ranges. There is normally a relatively large sweet-spot in the market."
+                ]
+            }
         ],
         "march_2021": [
-            [
-                {
-                    "test_name": "IELTS Mock Test 2021 March",
-                    "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-03.png",
-                    "sentences": [
-                        "If you have been shopping for a computer, then you have heard the word 'cache'. Modern computers have both L1 and L2 caches, and many now also have L3 cache.",
-                        "It turns out that caching is an important computer-science process that appears on every computer in a variety of forms. ",
-                        "There are memory caches, hardware and software disk caches, page caches and more.In this article, we will explore caching so you can understand why it is so important. ",
-                        "Caching is a technology based on the memory subsystem of your computer. The main purpose of a cache is to accelerate your computer while keeping the price of -the computer low. Caching allows you to do your computer tasks more rapidly.",
-                        "To understand the basic idea behind a cache system, let's start with a super-simple example that uses a librarian to demonstrate caching concepts. Let's imagine a librarian behind his desk."
-                    ]
-                }
-            ]
+            {
+                "test_name": "IELTS Mock Test 2021 March",
+                "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-03.png",
+                "sentences": [
+                    "If you have been shopping for a computer, then you have heard the word 'cache'. Modern computers have both L1 and L2 caches, and many now also have L3 cache.",
+                    "It turns out that caching is an important computer-science process that appears on every computer in a variety of forms. ",
+                    "There are memory caches, hardware and software disk caches, page caches and more.In this article, we will explore caching so you can understand why it is so important. ",
+                    "Caching is a technology based on the memory subsystem of your computer. The main purpose of a cache is to accelerate your computer while keeping the price of -the computer low. Caching allows you to do your computer tasks more rapidly.",
+                    "To understand the basic idea behind a cache system, let's start with a super-simple example that uses a librarian to demonstrate caching concepts. Let's imagine a librarian behind his desk."
+                ]
+            }
         ],
         "may_2021": [
-            [
-                {
-                    "test_name": "IELTS Mock Test 2021 May",
-                    "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-05.png",
-                    "sentences": [
-                        "Cache technology is the use of a faster but smaller memory type to accelerate a slower but larger memory type. ",
-                        "When using a cache, you must check the cache to see if an item is in there. If it is there, it's called a cache hit. If not, it is called a cache miss and the computer must wait for a round trip from the larger, slower memory area. ",
-                        "A cache has some maximum size that is much smaller than the larger storage area. ",
-                        "It is possible to have multiple layers of cache. With our librarian example, the smaller but faster memory type is the backpack, and the storeroom represents the larger and slower memory type. This is a one-level cache.",
-                        "There might be another layer of cache consisting of a shelf that can hold 100 books behind the counter. The librarian can check the backpack, then the shelf and then the storeroom. This would be a two-level cache. "
-                    ]
-                }
-            ]
+            {
+                "test_name": "IELTS Mock Test 2021 May",
+                "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-05.png",
+                "sentences": [
+                    "Cache technology is the use of a faster but smaller memory type to accelerate a slower but larger memory type. ",
+                    "When using a cache, you must check the cache to see if an item is in there. If it is there, it's called a cache hit. If not, it is called a cache miss and the computer must wait for a round trip from the larger, slower memory area. ",
+                    "A cache has some maximum size that is much smaller than the larger storage area. ",
+                    "It is possible to have multiple layers of cache. With our librarian example, the smaller but faster memory type is the backpack, and the storeroom represents the larger and slower memory type. This is a one-level cache.",
+                    "There might be another layer of cache consisting of a shelf that can hold 100 books behind the counter. The librarian can check the backpack, then the shelf and then the storeroom. This would be a two-level cache. "
+                ]
+            }
         ],
         "june_2021": [
-            [
-                {
-                    "test_name": "IELTS Mock Test 2021 June",
-                    "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-06.png",
-                    "sentences": [
-                        "In this unit you will learn the differences between computer memory and computer storage. Memory and storage are important concepts to master in Information Technology. The two terms are sometimes used interchangeably, so it is important to understand some key differences.",
-                        "Computer memory needs to be quick. It is constantly feeding the CPU with data to process. Since nobody likes to wait for a computer, high-quality computers will have fast processors and lots of quick memory. ",
-                        "Computers do not normally process all the information they have at once. They also need to save some data for long term use. This is where storage comes in. Think of all the video files, mp3s , photos, documents, etc on your PC.",
-                        "These files are not always being processed by the CPU, they are mostly just hanging around waiting to be used at some point. Storage does need to be as quick as memory, but there does need to a lot more of it. This is a key difference between memory and storage. ",
-                        "Computer storage is typically cheaper, slower, and more plentiful than computer memory.Storage comes in many different types including magnetic storage, optical storage, and more recently semiconductor storage. "
-                    ]
-                }
-            ]
+            {
+                "test_name": "IELTS Mock Test 2021 June",
+                "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-06.png",
+                "sentences": [
+                    "In this unit you will learn the differences between computer memory and computer storage. Memory and storage are important concepts to master in Information Technology. The two terms are sometimes used interchangeably, so it is important to understand some key differences.",
+                    "Computer memory needs to be quick. It is constantly feeding the CPU with data to process. Since nobody likes to wait for a computer, high-quality computers will have fast processors and lots of quick memory. ",
+                    "Computers do not normally process all the information they have at once. They also need to save some data for long term use. This is where storage comes in. Think of all the video files, mp3s , photos, documents, etc on your PC.",
+                    "These files are not always being processed by the CPU, they are mostly just hanging around waiting to be used at some point. Storage does need to be as quick as memory, but there does need to a lot more of it. This is a key difference between memory and storage. ",
+                    "Computer storage is typically cheaper, slower, and more plentiful than computer memory.Storage comes in many different types including magnetic storage, optical storage, and more recently semiconductor storage. "
+                ]
+            }
         ],
         "octorber": [
-            [
-                {
-                    "test_name": "IELTS Mock Test 2021 Octorber",
-                    "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-10.png",
-                    "sentences": [
-                        "We use input devices every time we use a computer. Simply speaking, it is these devices which allow us to enter information. Without them, the computer would not know what we want it to do. ",
-                        "Some of the things we do with input devices are: move a cursor around the screen, enter alphanumeric text, draw pictures, and even enter binary data in the form of graphics or audio wave forms. ",
-                        "Input devices have a history as long as computers themselves. Perhaps the first input device was the simple electronic switch which turned bits on or off",
-                        "There were hundreds or even thousands of these switches on larger computers. It used to take a team of programmers hours or even days to set up a computer to perform a single calculation.",
-                        "Switches and jumpers are still used today on computers. For instance the power button on the computer is a switch which is also an input device telling the computer to power on or power off."
-                    ]
-                }
-            ]
+            {
+                "test_name": "IELTS Mock Test 2021 Octorber",
+                "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-10.png",
+                "sentences": [
+                    "We use input devices every time we use a computer. Simply speaking, it is these devices which allow us to enter information. Without them, the computer would not know what we want it to do. ",
+                    "Some of the things we do with input devices are: move a cursor around the screen, enter alphanumeric text, draw pictures, and even enter binary data in the form of graphics or audio wave forms. ",
+                    "Input devices have a history as long as computers themselves. Perhaps the first input device was the simple electronic switch which turned bits on or off",
+                    "There were hundreds or even thousands of these switches on larger computers. It used to take a team of programmers hours or even days to set up a computer to perform a single calculation.",
+                    "Switches and jumpers are still used today on computers. For instance the power button on the computer is a switch which is also an input device telling the computer to power on or power off."
+                ]
+            }
         ],
         "april_2021": [
-            [
-                {
-                    "test_name": "IELTS Mock Test 2021 April",
-                    "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-04.png",
-                    "sentences": [
-                        "Most likely in front of you right now are two of the most popular input devices: the keyboard and the mouse. And instead of a mouse on a laptop computer you normally have a touchpad",
-                        "As computers evolved throughout the late 20th century, computers became more and more interactive. Input devices came and went. Some lasted and some did not. The light pen and the joystick are almost unknown today, although they were popular before the mouse and the gamepad became well-known ",
-                        "Touch screens are already replacing keypads on mobile phones and may come to replace or augment keyboards and mice on PCs and laptops in the near future.",
-                        "Different people prefer different input devices for doing same task. For instance, many graphic artists prefer to use a stylus and graphics tablet rather than a mouse. It might offer them a greater deal of artistic freedom, or precision while performing their work.",
-                        "Sufferers of carpal tunnel syndrome often prefer a trackball or stylus to a mouse.Handicapped computer users have invented a wide array of input devices designed to replace the mouse including devices controlled by foot or even eye movement."
-                    ]
-                }
-            ]
+            {
+                "test_name": "IELTS Mock Test 2021 April",
+                "image": "https://ieltsonlinetests.com/sites/default/files/styles/latest_collection/public/2021-06/IMT%202021%20Cover-04.png",
+                "sentences": [
+                    "Most likely in front of you right now are two of the most popular input devices: the keyboard and the mouse. And instead of a mouse on a laptop computer you normally have a touchpad",
+                    "As computers evolved throughout the late 20th century, computers became more and more interactive. Input devices came and went. Some lasted and some did not. The light pen and the joystick are almost unknown today, although they were popular before the mouse and the gamepad became well-known ",
+                    "Touch screens are already replacing keypads on mobile phones and may come to replace or augment keyboards and mice on PCs and laptops in the near future.",
+                    "Different people prefer different input devices for doing same task. For instance, many graphic artists prefer to use a stylus and graphics tablet rather than a mouse. It might offer them a greater deal of artistic freedom, or precision while performing their work.",
+                    "Sufferers of carpal tunnel syndrome often prefer a trackball or stylus to a mouse.Handicapped computer users have invented a wide array of input devices designed to replace the mouse including devices controlled by foot or even eye movement."
+                ]
+            }
         ]
     }
 }

@@ -15,19 +15,20 @@ function renderTest() {
         .then((data) => {
             data = data.ielts_speaking;
             let currentData = data[id][test];
+            console.log(currentData);
 
             // render info 
-            document.querySelector('.volume__title').innerText = currentData[0].test_name;
+            document.querySelector('.volume__title').innerText = currentData.test_name;
             document.querySelector('.volume__practice-title').innerText = `${document.title} Practice Test ${test + 1}`;
 
             let paragraph = document.querySelector('.paragraph');
-            paragraph.innerText = currentData[0].sentences[0];
+            paragraph.innerText = currentData.sentences[0];
 
             let nextSentenceBtn = document.getElementById('next-sentence');
             nextSentenceBtn.hidden = true;
 
             let temp = 0;
-            let sentenceArrayLength = currentData[0].sentences.length;
+            let sentenceArrayLength = currentData.sentences.length;
             let score = 0;
 
             let submitBtn = document.getElementById('submit-score');
@@ -58,7 +59,7 @@ function renderTest() {
                 document.getElementById('user-match').innerText = Math.round(similarity * 100) + '%';
                 document.getElementById('user-score').innerHTML = `<span id='result'>${parseFloat(score).toFixed(2)}</span> / ${sentenceArrayLength}`;
 
-                paragraph.innerText = currentData[0].sentences[temp];
+                paragraph.innerText = currentData.sentences[temp];
                 document.getElementById('sentence-id').innerText = temp + 1;
                 nextSentenceBtn.hidden = true;
                 document.querySelector("#turn-on-mic").hidden = false;

@@ -28,6 +28,7 @@ db.collection(id)
         querySnapshot.forEach((doc) => {
             let tempInfo = doc.data().scoreInfo;
             tempInfo.forEach(element => {
+                // Neu cung` loai ki nang va cung bai` test => Them vao array
                 if (element.testType == type && element.practiceTest == parseInt(test)) {
                     element.email = doc.id;
                     scoreInfoArray.push(element);
@@ -36,10 +37,12 @@ db.collection(id)
         });
     })
     .then(() => {
+        // Sap xep theo diem so xong sap xep theo thoi gian 
         scoreInfoArray.sort((a, b) => parseFloat(b.testScore) - parseFloat(a.testScore) || a.time.localeCompare(b.time));
         console.log(scoreInfoArray);
         let tBody = document.querySelector('.tbody');
         console.log(tBody);
+        // Render ra leaderboard 
         scoreInfoArray.forEach((element, index) => {
             let row = tBody.childNodes[index + 1];
             console.log(row.childNodes[6])
