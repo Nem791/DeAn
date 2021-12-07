@@ -4,12 +4,12 @@ var url_string = location.href;
 var url = new URL(url_string);
 var id = url.searchParams.get("id");
 
-fetch("http://localhost:3000/ielts_reading")
+fetch("https://ielts-reading.herokuapp.com/api/ielts_reading")
     .then((response) => {
         return response.json();
     })
     .then((data) => {
-        data = data.ielts_reading;
+        // data = data.ielts_reading;
         let practiceTable = document.querySelector(".practice-table");
         data[id].forEach((element, index) => {
             let divTableRow = new DivTableRow();

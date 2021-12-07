@@ -1,11 +1,11 @@
 import { TestCard } from "../components/test-card.js";
 
-fetch("http://localhost:3000/ielts_reading")
+fetch("https://ielts-reading.herokuapp.com/api/ielts_reading")
   .then((response) => {
     return response.json();
   })
   .then((data) => {
-    data = data.ielts_reading;
+    // data = data.ielts_reading;
     let rowFix = document.querySelector(".row-fix");
     // Them item card va thong tin cua moi~ Test 
     Object.keys(data).forEach(element => {

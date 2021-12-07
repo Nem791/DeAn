@@ -11,12 +11,12 @@ var id = url.searchParams.get("id");
 let tempUserInfo = localStorage.getItem("temp-user-info");
 let email = JSON.parse(tempUserInfo).email;
 
-fetch("http://localhost:3000/ielts_reading")
+fetch("https://ielts-reading.herokuapp.com/api/ielts_reading")
     .then((response) => {
         return response.json();
     })
     .then((data) => {
-        data = data.ielts_reading;
+        // data = data.ielts_reading;
 
         console.log(data)
 

@@ -8,12 +8,12 @@ let test = url.searchParams.get("test") - 1;
 
 
 function renderTest() {
-    fetch("http://localhost:3000/ielts_speaking")
+    fetch("https://ielts-2.herokuapp.com/api/ielts_speaking")
         .then((response) => {
             return response.json();
         })
         .then((data) => {
-            data = data.ielts_speaking;
+            // data = data.ielts_speaking;
             let currentData = data[id][test];
             console.log(currentData);
 

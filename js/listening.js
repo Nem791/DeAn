@@ -12,12 +12,12 @@ var id = url.searchParams.get("id");
 let test = url.searchParams.get("test") - 1;
 
 function renderTest() {
-  fetch("http://localhost:3000/ielts_listening")
+  fetch("https://ielts-listening-api.herokuapp.com/api/ielts_listening")
     .then((response) => {
       return response.json();
     })
     .then((data) => {
-      data = data.ielts_listening;
+      // data = data.ielts_listening;
       console.log(data[id][test]);
       console.log(id);
       console.log(test);
