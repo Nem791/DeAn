@@ -73,7 +73,7 @@ fetch("https://ielts-reading.herokuapp.com/api/ielts_reading")
                     tabContent.innerHTML = 'No such document!';
                 }
             }).catch((error) => {
-                tabContent.innerHTML = error;
+                tabContent.innerHTML = "Bạn chưa làm test nào";
             });
         }
 
