@@ -102,11 +102,11 @@ startSpeakingBtn.addEventListener('click', () => {
     // init();
 
     // May se doc truoc , su dung thu vien Javascript
-    // speechRs.speechinit('Google US English Male', function (e) {
-    //     speechRs.speak(document.querySelector('.paragraph'), function () {
-    //         //speaking completed.
-    //     }, false);
-    // });
+    speechRs.speechinit('Google US English Male', function (e) {
+        speechRs.speak(document.querySelector('.paragraph'), function () {
+            //speaking completed.
+        }, false);
+    });
 
     speechInitialization();
     startSpeakingBtn.hidden = true;
