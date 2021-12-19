@@ -31,13 +31,16 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    
 }
 
-.header .header-box .nav button{
+.header .header-box .nav a{
     background: #461A42;
     border: none;
     color: #fff;
     margin-right: 5px;
+    border-radius: 10px;
+    text-decoration: none;
 }
 .header .header-box .nav i{
     width: 40px;
@@ -50,6 +53,7 @@
 
 .header .header-box .nav i:hover{
     background: #c3c3c35d;
+    border-radius: 10px;
 }
 
 .header .header-box .nav .nav-text{
@@ -152,13 +156,14 @@ section {
 
 .user-img{
     position: absolute;
-    top: 0;right: 0;
-    height: 100%;
+    top: 55px;right: 100px;
+    height: 70%;
 }
 
 .user-img img{
     height: 100%;
-    border-radius: 10px;
+    
+    border-radius: 10px
 }
 
 .user-text{
