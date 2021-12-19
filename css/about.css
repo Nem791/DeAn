@@ -11,14 +11,14 @@
     position: fixed;
     width: 100%;
     height: 56px;
-    background-color: #461A42;
+    background-color: #284664;
     z-index: 10;
     color: #fff;
 }
 
 .header .header-box{
     height: 56px;
-    background-color: #461A42;
+    background-color: #284664;
     box-sizing: border-box;
     padding: 4px 12px;
     display: flex;
@@ -125,7 +125,7 @@ section {
 } */
 
 .hero{
-    background: #461A42;
+    background: #284664;
     height: 100vh;
     width: 100%;
     position: relative;
@@ -162,7 +162,7 @@ section {
 }
 
 .user-text{
-    background: #2d3a59;
+    background: #461A42;
     width: 450px;
     height: 270px;
     position: absolute;
